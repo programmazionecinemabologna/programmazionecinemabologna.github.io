@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Cinema Bologna</title>
+  <meta name="description" content="Gli spettacoli di CCB, Cineteca, Galliera e Pop Up Cinema in un'unica app">
+  <meta name="theme-color" content="#f6f1ea" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16130f" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Cinema BO">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1>Cinema <span>Bologna</span></h1>
+      <p id="updated" class="muted">Caricamento…</p>
+    </div>
+    <button id="filtersBtn" class="icon-btn" aria-label="Filtri cinema" aria-haspopup="dialog">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+      <span id="filterCount" class="badge" hidden></span>
+    </button>
+  </header>
+
+  <nav id="days" class="days" aria-label="Giorni"></nav>
+
+  <div class="toolbar">
+    <div class="seg" role="tablist" aria-label="Raggruppa per">
+      <button role="tab" data-view="film" aria-selected="true">Per film</button>
+      <button role="tab" data-view="cinema" aria-selected="false">Per cinema</button>
+      <button role="tab" data-view="time" aria-selected="false">Per orario</button>
+    </div>
+    <label class="search">
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" fill="none"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Cerca film o regista" autocomplete="off" enterkeyhint="search">
+    </label>
+    <div class="quick">
+      <button id="vosBtn" class="chip" aria-pressed="false">Solo V.O.S.</button>
+      <button id="pastBtn" class="chip" aria-pressed="false">Mostra passati</button>
+    </div>
+  </div>
+
+  <main id="list" aria-live="polite"></main>
+
+  <dialog id="filters">
+    <form method="dialog" class="sheet">
+      <div class="sheet-head">
+        <h2>Cinema</h2>
+        <div>
+          <button type="button" id="allOn" class="link">Tutti</button>
+          <button type="button" id="allOff" class="link">Nessuno</button>
+        </div>
+      </div>
+      <div id="cinemaList"></div>
+      <button class="primary" value="ok">Fatto</button>
+    </form>
+  </dialog>
+
+  <dialog id="film" aria-label="Scheda film">
+    <div class="sheet film-sheet">
+      <button class="close icon-btn" aria-label="Chiudi">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+      <div id="filmBody"></div>
+    </div>
+  </dialog>
+
+  <template id="tpl-film">
+    <article class="card">
+      <div class="card-head">
+        <h3 class="title"></h3>
+        <p class="meta"></p>
+      </div>
+      <div class="rows"></div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

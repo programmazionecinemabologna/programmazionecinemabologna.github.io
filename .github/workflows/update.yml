@@ -1,0 +1,40 @@
+name: Aggiorna orari
+
+on:
+  schedule:
+    # ogni 3 ore, dalle 6 a mezzanotte circa (orari UTC)
+    - cron: "15 5-23/3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scraper/**", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-showtimes
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scarica gli orari
+        run: python scraper/scrape.py --out docs/data/showtimes.json
+      - name: Salva se cambiati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/showtimes.json
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica"
+          else
+            git commit -m "Aggiorna orari $(TZ=Europe/Rome date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
