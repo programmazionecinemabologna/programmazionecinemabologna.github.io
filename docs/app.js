@@ -16,6 +16,9 @@
     vos: store.get("vos", false),
     past: false,
     hidden: new Set(store.get("hidden", [])),
+    italian: new Set(),
+    home: store.get("home", null),       // {lat, lon, label} — resta solo su questo telefono
+    travel: store.get("travel", null),   // {key, at, byCinema: {id: {walk, bus, km}}}
   };
 
   const GIORNI = ["Dom", "Lun", "Mar", "Mer", "Gio", "Ven", "Sab"];
@@ -44,18 +47,26 @@
       return;
     }
     cinemaById = Object.fromEntries(state.data.cinemas.map((c) => [c.id, c]));
+    // film in lingua italiana = già in lingua originale
+    state.italian = new Set();
+    for (const s of state.data.shows) {
+      const f = state.data.films?.[s.film];
+      const country = (f?.country || "").trim();
+      if (s.ita || /^italia\b/i.test(country)) state.italian.add(norm(s.title));
+    }
     const g = new Date(state.data.generated_at);
     $("#updated").textContent = `Aggiornato ${g.getDate()} ${MESI[g.getMonth()]} alle ${String(g.getHours()).padStart(2, "0")}:${String(g.getMinutes()).padStart(2, "0")}`;
     buildDays();
     buildFilters();
     render();
+    if (state.home) computeTravel().then(render).catch(() => {});
   }
 
   function visibleShows() {
     const q = norm(state.q);
     return state.data.shows.filter((s) =>
       !state.hidden.has(s.cinema) &&
-      (!state.vos || s.vos) &&
+      (!state.vos || s.vos || state.italian.has(norm(s.title))) &&
       (!q || norm(s.title).includes(q) || (s.director && norm(s.director).includes(q))));
   }
 
@@ -74,6 +85,28 @@
     }).join("");
     const sel = $(`.day[aria-pressed="true"]`);
     if (sel) sel.scrollIntoView({ inline: "nearest", block: "nearest" });
+    buildPosters();
+  }
+
+  // Carosello locandine: tutti i film in programmazione da ora in avanti
+  function buildPosters() {
+    const now = Date.now() - 10 * 60e3;
+    const groups = new Map();
+    for (const s of visibleShows()) {
+      if (ts(s) < now) continue;
+      const k = norm(s.title);
+      if (!groups.has(k)) groups.set(k, []);
+      groups.get(k).push(s);
+    }
+    const list = [...groups.entries()].map(([k, ss]) => {
+      const trusted = ss.find((s) => TRUSTED.has(cinemaById[s.cinema]?.group));
+      return { k, ss, title: (trusted || ss[0]).title, info: filmInfo(ss), cinemas: new Set(ss.map((s) => s.cinema)).size };
+    }).sort((a, b) => b.ss.length - a.ss.length);
+    $("#posters").innerHTML = list.map((f) => `<button class="poster" data-film="${esc(f.k)}" title="${esc(f.title)}">
+        ${imgTag(f.info, "pimg")}
+        <span class="ptitle">${esc(f.title)}</span>
+        <span class="pmeta">${f.cinemas > 1 ? f.cinemas + " cinema" : esc(cinemaById[f.ss[0].cinema]?.name)}</span></button>`).join("");
+    $("#posters").hidden = !list.length;
   }
 
   function buildFilters() {
@@ -147,6 +180,76 @@
     return out;
   }
 
+  // ------------------------------------------------------------ percorsi da casa
+  const travelFor = (cid) => state.home && state.travel?.byCinema?.[cid];
+  const fmtMin = (m) => m >= 60 ? `${Math.floor(m / 60)} h ${m % 60}′` : `${m}′`;
+  const hhmm = (t) => { const d = new Date(t); return `${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")}`; };
+  const MARGIN = 5; // minuti di anticipo per biglietto e posto
+
+  function travelBadge(cid) {
+    const t = travelFor(cid);
+    if (!t) return "";
+    return `<small class="trip">🚶 ${fmtMin(t.walk)}${t.bus ? ` · 🚌 ~${fmtMin(t.bus)}` : ""}</small>`;
+  }
+
+  function mapsUrl(cid, mode) {
+    const c = cinemaById[cid];
+    const dest = `${c.lat},${c.lon}`;
+    return `https://www.google.com/maps/dir/?api=1&origin=${state.home.lat},${state.home.lon}&destination=${dest}&travelmode=${mode}`;
+  }
+
+  async function computeTravel(force) {
+    if (!state.home) return;
+    const key = `${state.home.lat.toFixed(5)},${state.home.lon.toFixed(5)}`;
+    if (!force && state.travel?.key === key) return;
+    const cins = state.data.cinemas;
+    const coords = [`${state.home.lon},${state.home.lat}`, ...cins.map((c) => `${c.lon},${c.lat}`)].join(";");
+    const table = async (profile) => {
+      const r = await fetch(`https://routing.openstreetmap.de/routed-${profile}/table/v1/driving/${coords}?sources=0&annotations=duration,distance`);
+      if (!r.ok) throw new Error(r.status);
+      return r.json();
+    };
+    const [foot, car] = await Promise.all([table("foot"), table("car")]);
+    const byCinema = {};
+    cins.forEach((c, i) => {
+      const walk = Math.round(foot.durations[0][i + 1] / 60);
+      const km = foot.distances?.[0]?.[i + 1] / 1000;
+      const drive = car.durations[0][i + 1] / 60;
+      // stima bus: 4′ a piedi alla fermata + 5′ di attesa media + viaggio (traffico e fermate) + 3′ dalla fermata
+      const bus = Math.round(4 + 5 + drive * 1.6 + 3);
+      byCinema[c.id] = { walk, km: km ? Math.round(km * 10) / 10 : null, bus: walk > 12 && bus < walk ? bus : null };
+    });
+    state.travel = { key, at: Date.now(), byCinema };
+    store.set("travel", state.travel);
+  }
+
+  function goBlock(shows) {
+    if (!state.home) {
+      return `<p class="hint">Imposta il tuo indirizzo di casa (pulsante ⚙︎ in alto) per vedere quanto ci metti ad arrivare e a che ora uscire.</p>`;
+    }
+    const now = Date.now();
+    const nextBy = new Map();
+    for (const s of shows) if (ts(s) > now && !nextBy.has(s.cinema)) nextBy.set(s.cinema, s);
+    const rows = [...nextBy.values()].sort((a, b) => ts(a) - ts(b)).map((s) => {
+      const t = travelFor(s.cinema);
+      const c = cinemaById[s.cinema];
+      if (!t) return "";
+      const leave = (m) => hhmm(ts(s) - (m + MARGIN) * 60e3);
+      const late = (m) => ts(s) - (m + MARGIN) * 60e3 < now;
+      const opt = (icon, label, m, mode) => `<a class="go-opt ${late(m) ? "late" : ""}" href="${esc(mapsUrl(s.cinema, mode))}" target="_blank" rel="noopener">
+          <span class="go-ico">${icon}</span><span><b>${label === "bus" ? "~" : ""}${fmtMin(m)}</b> ${label}<small>${late(m) ? "non fai in tempo" : "esci alle " + leave(m)}</small></span></a>`;
+      return `<div class="go-row"><div class="go-head"><b>${esc(c.name)}</b> · spettacolo delle ${showTime(s)}${showDay(s) !== dayKey(new Date()) ? ` (${esc(dayLabelShort(showDay(s)))})` : ""}</div>
+        <div class="go-opts">${opt("🚶", "a piedi", t.walk, "walking")}${t.bus ? opt("🚌", "bus", t.bus, "transit") : `<a class="go-opt" href="${esc(mapsUrl(s.cinema, "transit"))}" target="_blank" rel="noopener"><span class="go-ico">🚌</span><span><b>Bus</b><small>vicino: meglio a piedi</small></span></a>`}</div></div>`;
+    }).join("");
+    return rows ? `<h3 class="orari">Come arrivare</h3><div class="go">${rows}</div>
+      <p class="hint">Tempi a piedi calcolati con OpenStreetMap; il bus è una stima (attesa compresa). Tocca per il percorso esatto su Google Maps. Uscita calcolata con ${MARGIN}′ di anticipo.</p>` : "";
+  }
+
+  function dayLabelShort(k) {
+    const d = new Date(k + "T12:00:00");
+    return `${GIORNI[d.getDay()]} ${d.getDate()}`;
+  }
+
   function metaLine(info) {
     return [info.director ? "di " + info.director : null, info.year, info.duration ? info.duration + "′" : null, info.genre]
       .filter(Boolean).join(" · ");
@@ -181,7 +284,7 @@
       const nextTs = upcoming(f);
       const rows = [...byC.entries()].sort((a, b) => ts(a[1][0]) - ts(b[1][0])).map(([cid, ss]) => {
         const salas = [...new Set(ss.map((s) => s.sala).filter(Boolean))];
-        return `<div class="row"><div class="where">${esc(cinemaById[cid]?.name || cid)}${salas.length === 1 ? `<small>${esc(salas[0])}</small>` : ""}</div>
+        return `<div class="row"><div class="where">${esc(cinemaById[cid]?.name || cid)}${salas.length === 1 ? `<small>${esc(salas[0])}</small>` : ""}${travelBadge(cid)}</div>
           <div class="times">${ss.map((s) => pill(s, now, nextTs)).join("")}</div></div>`;
       }).join("");
       const info = filmInfo(f.shows);
@@ -207,7 +310,8 @@
     for (const s of shows) groups.get(s.cinema)?.push(s);
     return [...groups.entries()].filter(([, ss]) => ss.length).map(([cid, ss]) => {
       const c = cinemaById[cid];
-      return `<h2 class="sec-title">${esc(c.name)} <span class="muted">· ${esc(c.address)}</span></h2>
+      const t = travelFor(cid);
+      return `<h2 class="sec-title">${esc(c.name)} <span class="muted">· ${esc(c.address)}${t ? ` · 🚶 ${fmtMin(t.walk)}${t.bus ? ` · 🚌 ~${fmtMin(t.bus)}` : ""}` : ""}</span></h2>
         <section class="card">${ss.map((s) => line(s, now, false)).join("")}</section>`;
     }).join("");
   }
@@ -266,6 +370,7 @@
         ${info.trailer ? `<a class="btn" href="${esc(info.trailer)}" target="_blank" rel="noopener">▶ Trailer</a>` : ""}
         ${info.links[0] ? `<a class="btn ghost" href="${esc(info.links[0])}" target="_blank" rel="noopener">Scheda sul sito</a>` : ""}
       </div>
+      ${goBlock(shows.slice().sort((a, b) => ts(a) - ts(b)))}
       <h3 class="orari">Prossimi spettacoli</h3>
       <div class="rows">${orari}</div>`;
     const dlgF = $("#film");
@@ -278,6 +383,10 @@
     if (!t) return;
     e.preventDefault();
     openFilm(t.dataset.film);
+  });
+  $("#posters").addEventListener("click", (e) => {
+    const t = e.target.closest("[data-film]");
+    if (t) openFilm(t.dataset.film);
   });
   $("#film").addEventListener("click", (e) => { if (e.target.id === "film" || e.target.closest(".close")) $("#film").close(); });
 
@@ -331,6 +440,69 @@
   });
   $("#allOn").addEventListener("click", () => { state.hidden.clear(); buildFilters(); saveHidden(); });
   $("#allOff").addEventListener("click", () => { state.data.cinemas.forEach((c) => state.hidden.add(c.id)); buildFilters(); saveHidden(); });
+  // ------------------------------------------------------------ indirizzo di casa
+  function showHome(msg) {
+    $("#homeStatus").textContent = msg || (state.home ? `Impostato: ${state.home.label}` : "Nessun indirizzo impostato");
+    $("#homeClear").hidden = !state.home;
+  }
+  async function setHome(home) {
+    state.home = home;
+    store.set("home", home);
+    showHome("Calcolo i tempi di percorso…");
+    try { await computeTravel(true); showHome(); } catch { showHome("Indirizzo salvato, ma il calcolo dei percorsi non è riuscito: riprova più tardi."); }
+    render();
+  }
+  const placeLabel = (r) => {
+    const a = r.address || {};
+    const street = [a.road, a.house_number].filter(Boolean).join(" ");
+    const area = a.suburb || a.quarter || a.neighbourhood || a.hamlet || "";
+    const town = a.city || a.town || a.village || "";
+    return [street || r.display_name.split(",")[0], area, town].filter(Boolean).join(", ");
+  };
+  $("#homeSave").addEventListener("click", async () => {
+    const q = $("#homeInput").value.trim();
+    if (!q) return;
+    showHome("Cerco l'indirizzo…");
+    $("#homeChoices").innerHTML = "";
+    try {
+      const url = "https://nominatim.openstreetmap.org/search?format=json&addressdetails=1&limit=5&countrycodes=it&viewbox=11.22,44.56,11.45,44.42&q=" + encodeURIComponent(/bologna/i.test(q) ? q : q + ", Bologna");
+      const res = await (await fetch(url)).json();
+      // tolgo i doppioni (stessa etichetta)
+      const seen = new Set();
+      const r = res.filter((x) => { const l = placeLabel(x); if (seen.has(l)) return false; seen.add(l); return true; });
+      if (!r.length) return showHome("Indirizzo non trovato: prova a scriverlo per esteso (es. Via Giuseppe Dossetti 5).");
+      if (r.length === 1) {
+        await setHome({ lat: +r[0].lat, lon: +r[0].lon, label: placeLabel(r[0]) });
+        $("#homeInput").value = "";
+        return;
+      }
+      showHome("Ho trovato più indirizzi: scegli quello giusto.");
+      $("#homeChoices").innerHTML = r.map((x, i) => `<button type="button" class="choice" data-i="${i}">${esc(placeLabel(x))}</button>`).join("");
+      $("#homeChoices").onclick = async (e) => {
+        const b = e.target.closest(".choice");
+        if (!b) return;
+        const x = r[+b.dataset.i];
+        $("#homeChoices").innerHTML = "";
+        $("#homeInput").value = "";
+        await setHome({ lat: +x.lat, lon: +x.lon, label: placeLabel(x) });
+      };
+    } catch { showHome("Ricerca non riuscita: controlla la connessione."); }
+  });
+  $("#homeInput").addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); $("#homeSave").click(); } });
+  $("#homeGeo").addEventListener("click", () => {
+    if (!navigator.geolocation) return showHome("Posizione non disponibile su questo dispositivo.");
+    showHome("Rilevo la posizione…");
+    navigator.geolocation.getCurrentPosition(
+      (p) => setHome({ lat: p.coords.latitude, lon: p.coords.longitude, label: "posizione rilevata" }),
+      () => showHome("Permesso di posizione negato."), { enableHighAccuracy: true, timeout: 15000 });
+  });
+  $("#homeClear").addEventListener("click", () => {
+    state.home = null; state.travel = null;
+    store.set("home", null); store.set("travel", null);
+    showHome(); render();
+  });
+  showHome();
+
   function saveHidden() {
     store.set("hidden", [...state.hidden]);
     updateFilterBadge(); buildDays(); render();

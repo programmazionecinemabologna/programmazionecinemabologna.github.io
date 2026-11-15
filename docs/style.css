@@ -1,13 +1,13 @@
 :root {
-  --bg: #f6f1ea;
-  --surface: #fffdf9;
-  --surface-2: #efe8dd;
+  --bg: #e4dccf;
+  --surface: #f8f3eb;
+  --surface-2: #e2d9cb;
   --text: #1d1a16;
-  --muted: #6f675c;
-  --line: #e3dacc;
+  --muted: #655d52;
+  --line: #d4c9b8;
   --accent: #b3261e;
   --accent-ink: #ffffff;
-  --pill: #f1e9dd;
+  --pill: #ebe2d4;
   --pill-ink: #2a251f;
   --vos: #1f5f8b;
   --shadow: 0 1px 2px rgba(40, 30, 20, .06), 0 4px 14px rgba(40, 30, 20, .05);
@@ -16,12 +16,12 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #16130f;
-    --surface: #211d18;
-    --surface-2: #2b261f;
+    --bg: #0b0a08;
+    --surface: #1a1713;
+    --surface-2: #25211b;
     --text: #f3ede4;
     --muted: #a59b8d;
-    --line: #353028;
+    --line: #2e2922;
     --accent: #ff6b5e;
     --accent-ink: #1a0f0d;
     --pill: #2f2a22;
@@ -32,7 +32,7 @@
   }
 }
 :root[data-theme="dark"] {
-  --bg: #16130f; --surface: #211d18; --surface-2: #2b261f; --text: #f3ede4; --muted: #a59b8d;
+  --bg: #0b0a08; --surface: #1a1713; --surface-2: #25211b; --text: #f3ede4; --muted: #a59b8d;
   --line: #353028; --accent: #ff6b5e; --accent-ink: #1a0f0d; --pill: #2f2a22; --pill-ink: #f3ede4;
   --vos: #7cc0ef; --shadow: none; color-scheme: dark;
 }
@@ -175,3 +175,39 @@ button.card-head {
 .orari { margin: 20px 0 0; font-size: 18px; }
 .film-sheet .rows { padding: 0; }
 .film-sheet h4 { margin: 14px 0 2px; }
+
+/* ---- carosello locandine ---- */
+.posters {
+  display: flex; gap: 10px; overflow-x: auto; padding: 8px 16px 4px; scrollbar-width: none;
+  scroll-snap-type: x proximity; overscroll-behavior-x: contain; scroll-padding-inline: 16px; align-items: flex-start;
+}
+.posters::-webkit-scrollbar { display: none; }
+.poster {
+  flex: 0 0 96px; width: 96px; border: 0; background: none; padding: 0; text-align: left; cursor: pointer;
+  scroll-snap-align: start; color: var(--text);
+  display: flex; flex-direction: column; justify-content: flex-start;
+}
+.pimg { width: 96px; height: 140px; border-radius: 10px; object-fit: cover; display: block; background: var(--surface-2); box-shadow: var(--shadow); }
+.pimg.noimg { background: linear-gradient(160deg, var(--surface-2), var(--line)); }
+.ptitle { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-size: 12px; font-weight: 700; line-height: 1.25; margin-top: 6px; }
+.pmeta { display: block; font-size: 11px; color: var(--muted); margin-top: 1px; }
+
+/* ---- casa e percorsi ---- */
+.hint { font-size: 13px; color: var(--muted); margin: 6px 0 10px; }
+.small { font-size: 13px; }
+.home-form { display: flex; gap: 8px; }
+.home-form input { flex: 1; min-width: 0; height: 44px; padding: 0 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--text); font-size: 16px; }
+.home-form .btn { border: 0; cursor: pointer; }
+.home-actions { display: flex; justify-content: space-between; margin-top: 4px; }
+.home-actions .link { padding-left: 0; }
+.trip { display: block; font-weight: 500; color: var(--muted); font-size: 11px; margin-top: 2px; white-space: nowrap; }
+.go { display: grid; gap: 10px; margin-top: 8px; }
+.go-row { background: var(--surface-2); border-radius: 12px; padding: 10px; }
+.go-head { font-size: 14px; margin-bottom: 8px; }
+.go-opts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.go-opt { display: flex; gap: 8px; align-items: center; padding: 8px 10px; border-radius: 10px; background: var(--surface); color: var(--text); text-decoration: none; font-size: 14px; }
+.go-opt small { display: block; color: var(--muted); font-size: 12px; }
+.go-opt.late { opacity: .55; }
+.go-ico { font-size: 20px; }
+.choices { display: grid; gap: 6px; margin-bottom: 8px; }
+.choice { text-align: left; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); cursor: pointer; font-size: 14px; }

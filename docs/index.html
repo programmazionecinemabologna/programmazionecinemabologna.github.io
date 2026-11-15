@@ -22,11 +22,13 @@
       <h1>Cinema <span>Bologna</span></h1>
       <p id="updated" class="muted">Caricamento…</p>
     </div>
-    <button id="filtersBtn" class="icon-btn" aria-label="Filtri cinema" aria-haspopup="dialog">
+    <button id="filtersBtn" class="icon-btn" aria-label="Impostazioni: casa e cinema" aria-haspopup="dialog">
       <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
       <span id="filterCount" class="badge" hidden></span>
     </button>
   </header>
+
+  <section id="posters" class="posters" aria-label="Film in programmazione"></section>
 
   <nav id="days" class="days" aria-label="Giorni"></nav>
 
@@ -41,7 +43,7 @@
       <input id="q" type="search" placeholder="Cerca film o regista" autocomplete="off" enterkeyhint="search">
     </label>
     <div class="quick">
-      <button id="vosBtn" class="chip" aria-pressed="false">Solo V.O.S.</button>
+      <button id="vosBtn" class="chip" aria-pressed="false" title="Film in versione originale sottotitolata e film italiani">Lingua originale</button>
       <button id="pastBtn" class="chip" aria-pressed="false">Mostra passati</button>
     </div>
   </div>
@@ -50,6 +52,18 @@
 
   <dialog id="filters">
     <form method="dialog" class="sheet">
+      <h2>Casa</h2>
+      <p class="hint">Serve per calcolare quanto ci metti ad arrivare al cinema. L'indirizzo resta solo su questo telefono.</p>
+      <div class="home-form">
+        <input id="homeInput" type="text" placeholder="Es. Via Giuseppe Dossetti 5" autocomplete="street-address" enterkeyhint="search">
+        <button type="button" id="homeSave" class="btn">Salva</button>
+      </div>
+      <div class="home-actions">
+        <button type="button" id="homeGeo" class="link">📍 Usa la mia posizione</button>
+        <button type="button" id="homeClear" class="link" hidden>Rimuovi</button>
+      </div>
+      <p id="homeStatus" class="muted small"></p>
+      <div id="homeChoices" class="choices"></div>
       <div class="sheet-head">
         <h2>Cinema</h2>
         <div>

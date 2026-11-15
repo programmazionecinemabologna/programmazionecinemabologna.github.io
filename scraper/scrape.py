@@ -19,6 +19,7 @@ import json
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -59,6 +60,15 @@ CINEMAS = [
      "url": "https://bristol.popupcinema.18tickets.it/"},
 ]
 
+
+COORDS = {  # da OpenStreetMap (Nominatim)
+    "europa": (44.496127, 11.330973), "odeon": (44.498035, 11.349258), "rialto": (44.488450, 11.349108),
+    "roma": (44.490204, 11.355801), "lumiere": (44.502398, 11.334245), "cervi": (44.498959, 11.337139),
+    "modernissimo": (44.494521, 11.343951), "galliera": (44.507754, 11.346779), "jolly": (44.497058, 11.337050),
+    "arlecchino": (44.499399, 11.335274), "medica": (44.495862, 11.340544), "bristol": (44.457149, 11.370494),
+}
+for _c in CINEMAS:
+    _c["lat"], _c["lon"] = COORDS[_c["id"]]
 
 # ---------------------------------------------------------------- utilità
 
@@ -243,6 +253,8 @@ def scrape_cineteca() -> list[dict]:
             buy = re.search(r'href="(https://[^"]*18tickets[^"]*)"', block)
             info = re.search(r'href="(https://cinetecadibologna\.it/programmazione/proiezione/[^"]+)"', block)
             img = re.search(r'<img[^>]+src="([^"]+)"', block)
+            ita = any(re.search(r"film in lingua italiana", x, re.I) for x in infos + labels) and \
+                not re.search(r"doppiaggio", body, re.I)
             tags = short_tags([x for x in labels + infos if not VOS_RE.search(x)
                                and not re.search(r"lingua italiana|doppiaggio", x, re.I)])
             shows.append({
@@ -253,6 +265,7 @@ def scrape_cineteca() -> list[dict]:
                 "start": iso(start),
                 "vos": vos,
                 "tags": tags,
+                "ita": ita,
                 "buy": html.unescape(buy.group(1)) if buy else None,
                 "info": html.unescape(info.group(1)) if info else None,
                 "image": img.group(1) if img else None,
@@ -492,7 +505,7 @@ def detail_cineteca(url, page):
     info = text(m.group(1)) if m else ""
     m = re.search(r"\(([^()]*?)/(\d{4})\)", info)
     if m:
-        d["country"] = m.group(1).replace("-", ", ")
+        d["country"] = m.group(1).split(",")[-1].strip().replace("-", ", ")
         d["year"] = int(m.group(2))
     m = re.search(r"\((\d{2,3})['’′]\)", info)
     d["duration"] = int(m.group(1)) if m else None
@@ -584,6 +597,30 @@ def clean_genre(g):
     return ", ".join(out) or None
 
 
+def wikidata_country(title, year=None):
+    """Paese di produzione da Wikidata, cercando il titolo italiano (varianti di maiuscole)."""
+    import string
+    base = re.sub(r"\s*\(.*?\)\s*", " ", title).strip()
+    variants = {base, string.capwords(base), base[:1].upper() + base[1:].lower(), base.title()}
+    values = " ".join('"%s"@it' % v.replace('"', "") for v in variants)
+    sparql = f"""SELECT ?countryLabel ?date WHERE {{ VALUES ?l {{ {values} }}
+      ?film rdfs:label ?l; wdt:P31/wdt:P279* wd:Q11424; wdt:P495 ?country.
+      OPTIONAL {{ ?film wdt:P577 ?date }}
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "it". }} }} LIMIT 20"""
+    url = "https://query.wikidata.org/sparql?format=json&query=" + urllib.parse.quote(sparql)
+    data = json.loads(fetch(url, tries=2))
+    rows = [(b["countryLabel"]["value"], int(b.get("date", {}).get("value", "0")[:4] or 0))
+            for b in data["results"]["bindings"]]
+    if year:
+        near = [r for r in rows if r[1] and abs(r[1] - year) <= 2]
+        rows = near or rows
+    countries = []
+    for c, _ in rows:
+        if c not in countries:
+            countries.append(c)
+    return ", ".join(countries[:3]) or None
+
+
 def build_films(shows, previous):
     """Scarica (o riprende dalla cache) la scheda di ogni film in programmazione."""
     old = previous.get("films", {}) if isinstance(previous.get("films"), dict) else {}
@@ -619,6 +656,21 @@ def build_films(shows, previous):
             d["plot"] = d["plot"][:1500].rsplit(" ", 1)[0] + "…"
         d["fetched_at"] = iso(now)
         films[key] = d
+    # paese mancante (Pop Up non lo indica): lo cerco su Wikidata una volta sola
+    titles = {}
+    for s in shows:
+        titles.setdefault(s.get("film"), s["title"])
+    for key, f in films.items():
+        if f.get("country") or f.get("wd_checked") or "popupcinema" not in key:
+            continue
+        try:
+            c = wikidata_country(titles.get(key, ""), f.get("year"))
+            f["wd_checked"] = True
+            if c:
+                f["country"] = c
+            time.sleep(0.5)
+        except Exception as e:  # noqa: BLE001
+            print(f"  wikidata {key}: {e}", file=sys.stderr)
     # pulizia (vale anche per le schede in cache): tengo solo parole di genere note,
     # es. "Horror Buio @ Europa" -> "Horror", "Drammatico Tratto dal libro..." -> "Drammatico"
     for f in films.values():
