@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T19:15+01:00",
+ "generated_at": "2026-11-15T19:54+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 104
+   "count": 101
   },
   "cineteca": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "popup": {
    "ok": true,
-   "count": 77
+   "count": 74
   },
   "galliera": {
    "ok": true,
@@ -24,84 +24,108 @@
    "name": "Europa",
    "group": "CCB",
    "address": "Via Pietralata 55/a",
-   "url": "https://www.circuitocinemabologna.it/"
+   "url": "https://www.circuitocinemabologna.it/",
+   "lat": 44.496127,
+   "lon": 11.330973
   },
   {
    "id": "odeon",
    "name": "Odeon",
    "group": "CCB",
    "address": "Via Mascarella 3",
-   "url": "https://www.circuitocinemabologna.it/"
+   "url": "https://www.circuitocinemabologna.it/",
+   "lat": 44.498035,
+   "lon": 11.349258
   },
   {
    "id": "rialto",
    "name": "Rialto",
    "group": "CCB",
    "address": "Via Rialto 19",
-   "url": "https://www.circuitocinemabologna.it/"
+   "url": "https://www.circuitocinemabologna.it/",
+   "lat": 44.48845,
+   "lon": 11.349108
   },
   {
    "id": "roma",
    "name": "Roma d'Essai",
    "group": "CCB",
    "address": "Via Fondazza 4",
-   "url": "https://www.circuitocinemabologna.it/"
+   "url": "https://www.circuitocinemabologna.it/",
+   "lat": 44.490204,
+   "lon": 11.355801
   },
   {
    "id": "lumiere",
    "name": "Lumière",
    "group": "Cineteca",
    "address": "Piazzetta P. P. Pasolini 3/b",
-   "url": "https://cinetecadibologna.it/programmazione/film-in-programma/"
+   "url": "https://cinetecadibologna.it/programmazione/film-in-programma/",
+   "lat": 44.502398,
+   "lon": 11.334245
   },
   {
    "id": "cervi",
    "name": "Cervi",
    "group": "Cineteca",
    "address": "Via Riva di Reno 72",
-   "url": "https://cinetecadibologna.it/programmazione/film-in-programma/"
+   "url": "https://cinetecadibologna.it/programmazione/film-in-programma/",
+   "lat": 44.498959,
+   "lon": 11.337139
   },
   {
    "id": "modernissimo",
    "name": "Modernissimo",
    "group": "Cineteca",
    "address": "Piazza Re Enzo",
-   "url": "https://cinetecadibologna.it/programmazione/film-in-programma/"
+   "url": "https://cinetecadibologna.it/programmazione/film-in-programma/",
+   "lat": 44.494521,
+   "lon": 11.343951
   },
   {
    "id": "galliera",
    "name": "Galliera",
    "group": "Galliera",
    "address": "Via Matteotti 27",
-   "url": "https://www.cinemateatrogalliera.it/"
+   "url": "https://www.cinemateatrogalliera.it/",
+   "lat": 44.507754,
+   "lon": 11.346779
   },
   {
    "id": "jolly",
    "name": "Jolly",
    "group": "Pop Up",
    "address": "Via Marconi 14",
-   "url": "https://jolly.popupcinema.18tickets.it/"
+   "url": "https://jolly.popupcinema.18tickets.it/",
+   "lat": 44.497058,
+   "lon": 11.33705
   },
   {
    "id": "arlecchino",
    "name": "Arlecchino",
    "group": "Pop Up",
    "address": "Via delle Lame 59",
-   "url": "https://arlecchino.popupcinema.18tickets.it/"
+   "url": "https://arlecchino.popupcinema.18tickets.it/",
+   "lat": 44.499399,
+   "lon": 11.335274
   },
   {
    "id": "medica",
    "name": "Medica",
    "group": "Pop Up",
    "address": "Via Monte Grappa 9",
-   "url": "https://medica.popupcinema.18tickets.it/"
+   "url": "https://medica.popupcinema.18tickets.it/",
+   "lat": 44.495862,
+   "lon": 11.340544
   },
   {
    "id": "bristol",
    "name": "Bristol",
    "group": "Pop Up",
    "address": "Via Toscana 146",
-   "url": "https://bristol.popupcinema.18tickets.it/"
+   "url": "https://bristol.popupcinema.18tickets.it/",
+   "lat": 44.457149,
+   "lon": 11.370494
   }
  ],
  "shows": [
@@ -115,6 +139,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/hope-2/?repeat=23541",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/o1UvmHqE2fh0Z62wls5bdrNtBN2.webp",
@@ -128,6 +153,7 @@
    "start": "2026-11-15T10:30+01:00",
    "vos": false,
    "tags": [],
+   "ita": true,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/le-bambine/?repeat=23248",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/le-bambine-.webp",
@@ -143,6 +169,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23517",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -158,6 +185,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23578",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -173,6 +201,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23518",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -188,6 +217,7 @@
    "tags": [
     "Schermi e Lavagne"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-quercia-e-i-suoi-animali/?repeat=23249",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/02/BEST_IWP_laquercia_COPYRIGHT-2022-camera-one-winds-gaumont-ressources_2021-12-21_LE-CHENE_PHOTO_09.jpg",
@@ -203,6 +233,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23535",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
@@ -233,6 +264,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23552",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
@@ -248,6 +280,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23562",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
@@ -263,6 +296,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23579",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -278,6 +312,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23519",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -310,36 +345,11 @@
     "Omaggio a Irène Jacob",
     "Incontro con Irène Jacob"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/tre-colori-film-rosso/?repeat=23250",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Tre_colori_-_Film_rosso.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/tre-colori-film-rosso"
-  },
-  {
-   "cinema": "bristol",
-   "sala": null,
-   "title": "Dio ride",
-   "director": "Giovanni Veronesi",
-   "start": "2026-11-15T18:55+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/df47e7b4-639a-4105-aa2d-68aa07eb23bb#theater-init",
-   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Godzilla minus zero",
-   "director": "T. Yamazaki",
-   "start": "2026-11-15T19:00+01:00",
-   "vos": true,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/128980/47df5604-b09a-4854-95bd-658020f2a61c#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/128980",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/128980"
   },
   {
    "cinema": "lumiere",
@@ -351,23 +361,11 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23553",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
-   "cinema": "medica",
-   "sala": null,
-   "title": "Wild horse nine",
-   "director": "Martin Mc Donagh",
-   "start": "2026-11-15T19:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://medica.popupcinema.18tickets.it/film/124755/203dd9cf-f74a-409a-b844-f3b2dd17d816#theater-init",
-   "info": "https://medica.popupcinema.18tickets.it/film/124755",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
-   "film": "https://medica.popupcinema.18tickets.it/film/124755"
   },
   {
    "cinema": "jolly",
@@ -383,32 +381,6 @@
    "film": "https://jolly.popupcinema.18tickets.it/film/123765"
   },
   {
-   "cinema": "europa",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-15T19:20+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/859751#sala",
-   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "L’estranea",
-   "director": "Paolo Strippoli",
-   "start": "2026-11-15T19:20+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/859878#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lestranea/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/lestranea"
-  },
-  {
    "cinema": "cervi",
    "sala": null,
    "title": "Fatherland",
@@ -418,6 +390,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://cinetecabologna.18tickets.it/film/92249",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23536",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
@@ -433,23 +406,11 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23580",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "Un tranquillo funerale di famiglia",
-   "director": "Massimiliano Bruno",
-   "start": "2026-11-15T19:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/859855#sala",
-   "info": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia"
   },
   {
    "cinema": "lumiere",
@@ -461,6 +422,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23520",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -478,6 +440,7 @@
     "Omaggio a Irène Jacob",
     "Incontro con Irène Jacob"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/9394?ref_date=2026-11-15",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-doppia-vita-di-veronica/?repeat=23251",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2022/01/veronica.jpg",
@@ -597,6 +560,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23563",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
@@ -677,6 +641,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101225",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/hope-2/?repeat=23542",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/o1UvmHqE2fh0Z62wls5bdrNtBN2.webp",
@@ -692,6 +657,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23581",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -707,6 +673,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23521",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -775,6 +742,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/105779",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-scuole-di-cinema/?repeat=23479",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema.jpg",
@@ -829,6 +797,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23564",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
@@ -961,6 +930,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23582",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -977,6 +947,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/105812",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-ambientali/?repeat=23480",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-ambientali.jpg",
@@ -992,6 +963,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23522",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -1033,6 +1005,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23554",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
@@ -1168,6 +1141,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/105878",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-ambientali-3/?repeat=23481",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_ambientali.jpg",
@@ -1183,6 +1157,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23583",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -1211,6 +1186,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23523",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -1295,6 +1271,7 @@
     "Evento speciale",
     "Visioni Italiane 2026"
    ],
+   "ita": true,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/mustang-2/?repeat=23252",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/1784013747285-scaled.jpg",
@@ -1349,6 +1326,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101225",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/hope-2/?repeat=23543",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/o1UvmHqE2fh0Z62wls5bdrNtBN2.webp",
@@ -1420,6 +1398,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23584",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -1435,6 +1414,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23524",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -1450,6 +1430,7 @@
    "tags": [
     "New Hollywood"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101159",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/rosemarys-baby/?repeat=23136",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/rosemarys-baby.jpeg",
@@ -1466,6 +1447,7 @@
     "Mario Soldati, uno scrittore a Cinecittà",
     "Un’ora sola"
    ],
+   "ita": true,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101126",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/chi-legge-viaggio-lungo-il-tirreno/?repeat=23131",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Mario_Soldati_1967.jpg",
@@ -1508,6 +1490,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/105912",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-4/?repeat=23482",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-visioni-italiane.jpg",
@@ -1588,6 +1571,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23555",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
@@ -1697,6 +1681,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/105944",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-3/?repeat=23483",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema.jpg",
@@ -1751,6 +1736,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23585",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -1766,6 +1752,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23525",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -1809,6 +1796,7 @@
     "Visioni Italiane 2026",
     "ingresso libero"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/premio-gianandrea-mutti-il-cinema-migrante-4/?repeat=23484",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_mutti.jpg",
@@ -1837,6 +1825,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101225",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/hope-2/?repeat=23544",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/o1UvmHqE2fh0Z62wls5bdrNtBN2.webp",
@@ -1959,6 +1948,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23586",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -1987,6 +1977,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23526",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -2003,6 +1994,7 @@
     "Evento speciale",
     "Visioni Italiane 2026"
    ],
+   "ita": true,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101954",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/le-ragazzine-stanno-perdendo-il-controllo-la-societa-le-teme-la-fine-e-azzurra/?repeat=23253",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/LE-RAGAZZINE-1-scaled-1.jpg",
@@ -2113,6 +2105,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23565",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
@@ -2193,6 +2186,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23587",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -2208,6 +2202,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23527",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -2224,6 +2219,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/105977",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-italiane/?repeat=23485",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_animate-_-italiane.jpg",
@@ -2239,6 +2235,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23588",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -2255,6 +2252,7 @@
     "Appuntamento",
     "ingresso libero con prenotazione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/p2-lombra-sulle-stragi-_-prima-puntata/?repeat=23478",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/P2_poster_FULL_DEF_HORIZONTAL-1-scaled.jpg",
@@ -2362,6 +2360,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106010",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-doc-8/?repeat=23491",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-_-visioni-doc.jpg",
@@ -2377,6 +2376,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23556",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
@@ -2485,6 +2485,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23566",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
@@ -2513,6 +2514,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23589",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -2554,6 +2556,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23528",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -2571,6 +2574,7 @@
     "Visioni Italiane 2026",
     "ingresso libero"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/incontro-con-lautore-fulvio-risuleo-tutti-i-giorni-di-pioggia/?repeat=23492",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_incontri.jpg",
@@ -2679,6 +2683,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23557",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
@@ -2748,6 +2753,7 @@
     "Visioni Italiane 2026",
     "Anteprima"
    ],
+   "ita": true,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101956",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/brianza/?repeat=23259",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/regista-di-cucciago-porta-la-brianza-a-roma-catania-tra-i-tre-italiani-in-con_a56ba6b6-bb3d-11f1-a5f8-19dda2a8bce9_1440_1080-1-scaled.jpg",
@@ -2763,6 +2769,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://cinetecabologna.18tickets.it/film/92249",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23537",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
@@ -2778,6 +2785,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23590",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -2793,6 +2801,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23529",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -2914,6 +2923,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23567",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
@@ -2996,6 +3006,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101225",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/hope-2/?repeat=23545",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/o1UvmHqE2fh0Z62wls5bdrNtBN2.webp",
@@ -3011,6 +3022,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23591",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
@@ -3026,6 +3038,7 @@
    "tags": [
     "Prima visione"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23530",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
@@ -3042,6 +3055,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106043",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-italiane-visioni-doc/?repeat=23493",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_animate-italiane-doc.jpg",
@@ -3058,6 +3072,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106109",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-doc-9/?repeat=23494",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-_-visioni-doc.jpg",
@@ -3087,6 +3102,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106142",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-animate-visioni-italiane/?repeat=23495",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_bologna-visioni-animate.jpg",
@@ -3134,6 +3150,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106175",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-5/?repeat=23496",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-visioni-italiane.jpg",
@@ -3179,6 +3196,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106208",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-doc-10/?repeat=23497",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-_-visioni-doc.jpg",
@@ -3195,6 +3213,7 @@
     "Appuntamento",
     "ingresso libero"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati/?repeat=23255",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-14.52.17.png",
@@ -3212,6 +3231,7 @@
     "Visioni Italiane 2026",
     "ingresso libero"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/produrre-cinema-indipendente-malgrado-tutto/?repeat=23498",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_incontri.jpg",
@@ -3228,6 +3248,7 @@
     "Appuntamento",
     "ingresso libero con prenotazione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/talk-con-davide-monteleone-fotografia-ricerca-e-narrazione/?repeat=23111",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/image-3-e1792148591382.webp",
@@ -3244,6 +3265,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106374",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-proiezione-dei-cinque-corti-finalisti-selezionati-dalla-giuria/?repeat=23499",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_concorso.jpg",
@@ -3276,6 +3298,7 @@
     "Visioni Italiane 2026",
     "ingresso libero"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/premio-luca-de-nigris-2/?repeat=23257",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/de_nigris_page-0001-e1761736353719.jpg",
@@ -3292,6 +3315,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106406",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-5/?repeat=23500",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_concorso.jpg",
@@ -3308,6 +3332,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106439",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-doc/?repeat=23501",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_animate-doc.jpg",
@@ -3324,6 +3349,7 @@
     "Evento speciale",
     "Visioni Italiane 2026"
    ],
+   "ita": true,
    "buy": "https://cinetecabologna.18tickets.it/film/101955",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/roberto-perpignani-lemozione-dei-tagli-impropri/?repeat=23256",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Roberto-Perpignani-Lemozione-dei-tagli-impropri.jpg",
@@ -3341,6 +3367,7 @@
     "Visioni Italiane 2026",
     "Incontro con Alina Marazzi"
    ],
+   "ita": true,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/102941",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-leica/?repeat=23299",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/114329-LA_RAGAZZA_CON_LA_LEICA__THE_GIRL_WITH_THE_LEICA__-_Actress_Emilia_Sch__le__Credits_Manuel_Alberto_Claro___1_-1_11zon-scaled.jpg",
@@ -3373,6 +3400,7 @@
     "Domenica Matinée | Visioni Italiane 2026",
     "Visioni Italiane 2026"
    ],
+   "ita": true,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/17013",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/il-postino/?repeat=23260",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/05/postino1-1-2.jpg",
@@ -3421,6 +3449,7 @@
    "tags": [
     "Schermi e Lavagne"
    ],
+   "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101918",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/pesciolino-superverme/?repeat=23261",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/MLP_SW_Episodic_Stills_CrowandSuperwormStandoff.png",
@@ -3437,6 +3466,7 @@
     "Appuntamento",
     "Visioni Italiane 2026"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106472",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-ambientali-visioni-acquatiche-2/?repeat=23502",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_ambientali-e-acquatiche.jpg",
@@ -3454,6 +3484,7 @@
     "Visioni Italiane 2026",
     "ingresso libero"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane/?repeat=23503",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026-premiazione.jpg",
@@ -3471,6 +3502,7 @@
     "Visioni Italiane 2026",
     "Anteprima"
    ],
+   "ita": true,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/102974",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti/?repeat=23262",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Lorenzo_Still_010.jpg",
@@ -3487,6 +3519,7 @@
     "Appuntamento",
     "ingresso libero con prenotazione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visita-guidata-accessibile-al-modernissimo/?repeat=23295",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2025/10/Modernissimo_Cineteca-di-Bologna_Foto-Lorenzo-Burlando_11.jpg",
@@ -3503,6 +3536,7 @@
     "Auser Bologna 35",
     "ingresso libero con prenotazione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/calle-malaga/?repeat=23263",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/07/Calle-Malaga.jpg",
@@ -3520,6 +3554,7 @@
     "Uno sguardo al documentario",
     "Introduce Davide Trabucco"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/our-hobby-is-depeche-mode/?repeat=23264",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/OUR-HOBBY-IS-DEPECHE-MODE.webp",
@@ -3551,6 +3586,7 @@
    "tags": [
     "Il Cinema Ritrovato al cinema"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/18808",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minnie-and-moskowitz/?repeat=23265",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/09/384-1189417499-2.jpg",
@@ -3581,6 +3617,7 @@
    "tags": [
     "Il Cinema Ritrovato al cinema"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/15065",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/the-rocky-horror-picture-show/?repeat=23266",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2023/09/dicembre_15_venerdi_the_rocky_horror_pictures_show.jpg",
@@ -3596,6 +3633,7 @@
    "tags": [
     "New Hollywood"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/16197",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/qualcuno-volo-sul-nido-del-cuculo/?repeat=23267",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/flew-1024x576-1.jpg",
@@ -3611,6 +3649,7 @@
    "tags": [
     "New Hollywood"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/15738/b0935349-605d-40ed-ab20-3637652b65ad#theater-init",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/non-aprite-quella-porta/?repeat=23247",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/01/texas-chainsaw-massacre-texas-monthly.jpg",
@@ -3627,6 +3666,7 @@
     "Evento speciale",
     "Introduce Anna Masecchia"
    ],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101985",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/paris-calligrammes/?repeat=23269",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/PARIS-CALLIGRAMMES.jpg",
@@ -3643,6 +3683,7 @@
     "Appuntamento",
     "ingresso libero con prenotazione"
    ],
+   "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/il-48-risveglio-dei-popoli/?repeat=23270",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/in-nome-del-popolo-sovrano.jpg",
@@ -3671,6 +3712,7 @@
    "start": "2026-11-24T20:00+01:00",
    "vos": true,
    "tags": [],
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/51991",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/i-dannati-di-varsavia/?repeat=23271",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/03/PREF_8f65d0335266f626437052f76138c31e-scaled.jpeg",
@@ -3687,6 +3729,7 @@
     "Evento speciale",
     "Incontro con Robert Aramayo"
    ],
+   "ita": true,
    "buy": "https://cinetecabologna.18tickets.it/film/105614?ref_date=2026-11-24",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/i-swear/?repeat=23504",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/I-Swear-1.jpg",
@@ -4474,35 +4517,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Tre_colori_-_Film_rosso-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://bristol.popupcinema.18tickets.it/film/123765": {
-   "year": 2026,
-   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
-   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
-   "genre": "Commedia, Dramma",
-   "duration": 114,
-   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://arlecchino.popupcinema.18tickets.it/film/128980": {
-   "year": 2026,
-   "cast": "M. Hamabe, R. Kamiki, J. Kunimura Trama AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO. Info 135 min",
-   "plot": "AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO.",
-   "genre": "Fantastico",
-   "duration": 135,
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://medica.popupcinema.18tickets.it/film/124755": {
-   "year": 2026,
-   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Paola Giannini, Samue... Trama Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca. Info 118 min",
-   "plot": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-   "genre": "Commedia, Thriller, Crime",
-   "duration": 118,
-   "trailer": "https://www.youtube.com/watch?v=djscxQOf8bo",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
   "https://jolly.popupcinema.18tickets.it/film/123765": {
    "year": 2026,
    "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
@@ -4511,40 +4525,9 @@
    "duration": 114,
    "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
-   "country": "Italia",
-   "duration": 106,
-   "genre": "Drammatico",
-   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
    "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/lestranea": {
-   "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi, Andrea Genovese, Marina Limosani, Gabriella Telegrafo, Mariandrea Cesari, Alessandro Carbonara, Raffaele Braia",
-   "country": "Italia",
-   "duration": 115,
-   "genre": "Thriller",
-   "plot": "Durante un forte temporale, Anna si presenta senza preavviso a casa della figlia Alice per rivelarle che l’intera storia della loro famiglia si regge su una bugia. Anna sostiene di aver stretto un patto con una misteriosa Estranea per salvare la gamba di Alice, dopo un incidente avvenuto vent’anni prima. Un patto che ha scatenato un effetto domino, causando negli anni avvenimenti terribili. L’unica che può sistemare tutto è la stessa Alice. Ma a quale prezzo?",
-   "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
-   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
-   "country": "Italia",
-   "duration": 98,
-   "genre": "Commedia",
-   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
-   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
+   "wd_checked": true,
+   "country": "Italia"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/la-doppia-vita-di-veronica": {
    "country": " La Double vie de Véronique , Francia, Polonia, Norvegia",
@@ -4606,7 +4589,9 @@
    "duration": 106,
    "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
   },
   "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
    "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
@@ -4638,7 +4623,20 @@
    "duration": 89,
    "trailer": "https://www.youtube.com/watch?v=dDA7kHRa67U",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122610/standard_36998a10-5896-4d80-84c0-67fb2a29e54d.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
+  },
+  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
+   "country": "Italia",
+   "duration": 106,
+   "genre": "Drammatico",
+   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
   },
   "https://jolly.popupcinema.18tickets.it/film/122644": {
    "year": 2026,
@@ -4648,7 +4646,8 @@
    "duration": 127,
    "trailer": "https://www.youtube.com/watch?v=7rQ_JSUt_bs",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122644/standard_a4cc4800-5b11-46f0-8262-c654734c6a99.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://medica.popupcinema.18tickets.it/film/126636": {
    "year": 2026,
@@ -4658,7 +4657,8 @@
    "duration": 118,
    "trailer": "https://www.youtube.com/watch?v=djscxQOf8bo",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126636/standard_448df762-79c1-4a61-ba80-544cace3b892.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://www.circuitocinemabologna.it/film/je-so-pazzo": {
    "cast": "Massimiliano Caiazzo, Mariasole Pollio, Giovanni Ludeno, Giuseppe Brunetti, Leonardo Bianconi, Giampiero De Concilio, Antonia Truppo, Monica Nappo",
@@ -4671,6 +4671,17 @@
    "fetched_at": "2026-11-15T18:44+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/je-so-pazzo_1-scaled-1.webp"
   },
+  "https://www.circuitocinemabologna.it/film/lestranea": {
+   "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi, Andrea Genovese, Marina Limosani, Gabriella Telegrafo, Mariandrea Cesari, Alessandro Carbonara, Raffaele Braia",
+   "country": "Italia",
+   "duration": 115,
+   "genre": "Thriller",
+   "plot": "Durante un forte temporale, Anna si presenta senza preavviso a casa della figlia Alice per rivelarle che l’intera storia della loro famiglia si regge su una bugia. Anna sostiene di aver stretto un patto con una misteriosa Estranea per salvare la gamba di Alice, dopo un incidente avvenuto vent’anni prima. Un patto che ha scatenato un effetto domino, causando negli anni avvenimenti terribili. L’unica che può sistemare tutto è la stessa Alice. Ma a quale prezzo?",
+   "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
+  },
   "https://arlecchino.popupcinema.18tickets.it/film/123732": {
    "year": 2026,
    "cast": "Bill Hader, Xochitl Gomez, Tiago Martinez, Matt Berry, Quinta Brunson, Bowen Yang, America Ferrera, Paula Pell, Tituss Burges... Trama Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima. Info 100 min",
@@ -4679,7 +4690,20 @@
    "duration": 100,
    "trailer": "https://www.youtube.com/watch?v=bCZo-8YVjgs",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123732/standard_c36c8170-8176-487a-b743-a4a8daaf20a9.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
+  },
+  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
+   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
+   "country": "Italia",
+   "duration": 98,
+   "genre": "Commedia",
+   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
+   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
   },
   "https://www.circuitocinemabologna.it/film/fatherland": {
    "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
@@ -4730,6 +4754,17 @@
    "fetched_at": "2026-11-15T18:44+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/74Adhx86f2D5Wix9Lt1GdPFaS3L-e1793016779692.webp"
   },
+  "https://medica.popupcinema.18tickets.it/film/124755": {
+   "year": 2026,
+   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Paola Giannini, Samue... Trama Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca. Info 118 min",
+   "plot": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+   "genre": "Commedia, Thriller, Crime",
+   "duration": 118,
+   "trailer": "https://www.youtube.com/watch?v=djscxQOf8bo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
+  },
   "https://www.circuitocinemabologna.it/film/wild-horse-nine": {
    "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Samuel Wayt",
    "country": "Regno Unito",
@@ -4760,7 +4795,9 @@
    "duration": 106,
    "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
   },
   "https://www.circuitocinemabologna.it/film/ragione-e-sentimento-sense-and-sensibility": {
    "cast": "Daisy Edgar Jones, Esmé Creed Miles, Caitríona Balfe, Bodhi Rae Breathnach, Frank Dillane, George Mac Kay, Herbert Nordrum, Fiona Shaw, Stacy Martin, Tom Brooke, Chloe Pirrie, Forrest Bothwell",
@@ -4781,7 +4818,9 @@
    "duration": 89,
    "trailer": "https://www.youtube.com/watch?v=dDA7kHRa67U",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122645/standard_95479c08-bc58-43c7-a2fc-d84cf031a9a4.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-ambientali": {
    "plot": "Fare cinema a Bologna e in Emilia-Romagna PER TUTTE LE VOLTE. 80 ANNI DAL PRIMO VOTO ALLE DONNE (Italia/2026) di Olga Torrico (22’) Ottant’anni dopo il primo voto delle donne in Italia, un seggio elettorale diventa il luogo in cui passato e presente si sfiorano, mentre le voci di chi nel 1946 votò per la prima volta s’intrecciano con quelle delle giovani donne di oggi. Visioni Ambientali EL DRAA (Italia/2025) di Francesco Rubattu (15’) Sotto il porto moderno di Chioggia, i ricordi dell’ultimo drago marino dell’Adriatico fanno vibrare la laguna. In superficie scorre un’estate di lavoro e silenzi, su un mare sempre più stanco. RUGGINE (Italia/2026) di Tamburini Filippo (20’) La routine Gas, contadino che seleziona e sorveglia i braccianti nei campi di Patrizio, viene scossa quando Idrissa, un giovane lavoratore, scompare misteriosamente. ARBOREA (Italia/2026) di Zatti Letizia (18’) In un futuro prossimo, la vegetazione ha misteriosamente smesso di riprodursi, e i pochi alberi superstiti sono oggetto di studi. Una scienziata, che monitora le frequenze sonore di una quercia solitaria, avverte un rumore sconosciuto.",
@@ -4805,7 +4844,9 @@
    "duration": 110,
    "trailer": "https://www.youtube.com/watch?v=oqUNNy-J1Rs",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/117199/standard_726065af-2010-4981-8d35-56804a9ba2b5.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/visioni-ambientali-3": {
    "plot": "VIA PO (Italia/2026) di Alessio Gonnella e Mattia Depalo (65’) In anni di cambiamento climatico e antropizzazione, il fiume Po sta mutando radicalmente. Le diverse specie, compresa la nostra, stanno facendo il possibile per adattarsi.",
@@ -4830,7 +4871,9 @@
    "duration": 155,
    "trailer": "https://www.youtube.com/watch?v=ivPu3t2j4Fg",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/17438/standard_945f2f83-1860-4828-8e1b-b36c4f2e8896.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/mustang-2": {
    "country": "Italia",
@@ -4839,6 +4882,17 @@
    "plot": "Nel 2003 Kasia e Pietro, zaino in spalla e una piccola telecamera, partono per il Mustang, nel Nepal. Quel luogo sospeso nel tempo, dove non esiste neppure la strada, diventa parte di loro e lì si scambiano una promessa: tornare e fare qualcosa per proteggere quella cultura. Anni dopo, la figlia Sophie ritrova le immagini di quel viaggio e parte a sua volta per quei luoghi, raccogliendo il testimone dei genitori. L’incontro con Kunzom e la costruzione di una scuola per i bambini della regione diventano il compimento di quella promessa. Attraverso oltre vent’anni di riprese, tra memoria privata e storia collettiva, Kasia Smutniak dà forma a un racconto sul tempo, la perdita e ciò che resiste al cambiamento, cercando ciò che resta quando tutto si trasforma in quel flusso che in Mustang chiamano Samsara.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/1784013747285-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/128980": {
+   "year": 2026,
+   "cast": "M. Hamabe, R. Kamiki, J. Kunimura Trama AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO. Info 135 min",
+   "plot": "AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO.",
+   "genre": "Fantastico",
+   "duration": 135,
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Giappone"
   },
   "https://www.cinemateatrogalliera.it/il-tempo-e-lacqua": {
    "country": "Islanda, U.S.A.",
@@ -4889,7 +4943,9 @@
    "duration": 110,
    "trailer": "https://www.youtube.com/watch?v=oqUNNy-J1Rs",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/116538/standard_6c8614c5-a3f5-4cbb-8010-65037fc2e8cb.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-3": {
    "plot": "NUK MUJ (Italia-Kosovo/2025) di Vlera Tahiri (20’) Lorit torna in Kosovo per riscoprire le sue radici. Il viaggio si trasforma in un confronto profondo con la propria identità. Essere omosessuale, in un contesto che fatica ad accogliere la diversità, lo porta a sentirsi ancora una volta fuori posto. THE ANSWER IS OUT THERE (Italia/2025) di Anna De Manincor (42’) Un documentario on the road in 16mm sulla percezione dei confini nella remota regione della foresta di Strandja e lungo la costa del Mar Nero, il green border che separa la ‘Fortezza Europa’ dal resto del mondo. Incontro con Anna De Manincor e Claudio Minca (Unibo)",
@@ -4908,7 +4964,9 @@
    "genre": "Fantastico",
    "duration": 135,
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Giappone"
   },
   "https://www.cinemateatrogalliera.it/tarantochiama": {
    "country": "Italia",
@@ -4935,7 +4993,8 @@
    "genre": "Commedia",
    "duration": 96,
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129015/standard_322b7c9e-2dff-4ee7-a5bd-7e3a0da4f071.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-italiane": {
    "plot": "Visioni Animate QAHWA SADA (Italia/2025) di Alex Amoresano e Maria Alessia Di Maio (3’) Un uomo prepara il caffè arabo, un atto d’amore lento e meticoloso, e ne porge una tazza a sua figlia, scambiando con lei un sorriso affettuoso. Ma dietro questa routine si nasconde una verità straziante. AN IMPOSSIBLE WORD OF PRAISE (Italia-Argentina/2026) di Arturo Spano (15’) Un giorno, Gustav sente una voce secondo cui sarà sostituito da un altro maggiordomo. È l’inizio di un’esplorazione degli angoli più oscuri dell’essere umano in relazione al sistema in cui viviamo: il capitalismo selvaggio. Visioni Italiane LATTE (Italia/2026) di Filippo Marasco (19’) Un bambino assiste terrorizzato all’estrazione di un dente della madre. È il solo modo che la donna ha trovato per fargli conoscere l’uomo che ama. IL KARMA NON PAGA L’AFFITTO (Italia/2026) di Annalisa Fania (17’) Nel caos della crisi abitativa e dell’invasione dei B&B a Roma, una coppia di trentenni precari è pronta a tutto pur di non essere sfrattata dall’appartamento che divide con due ventenni radical chic. PICCOLO RACCONTO SULLA MORTE (Italia/2026) di Emanuele Sicignano (20’) Arturo gestisce la sua macelleria in un mercato di periferia. Una sera, una consegna fuori orario lo trascina in un appartamento caotico, dove una donna vive con la figlia piccola e la madre anziana in fin di vita. OLIVE (Italia/2025) di India Santella (18’) Per Anita, che ha da poco scoperto il tradimento del suo compagno, la cena di Natale si trasforma in…",
@@ -4973,7 +5032,21 @@
    "duration": 130,
    "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126801/standard_f7c48300-e802-4583-b646-22c65aa2de73.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
+  },
+  "https://bristol.popupcinema.18tickets.it/film/123765": {
+   "year": 2026,
+   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
+   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
+   "genre": "Commedia, Dramma",
+   "duration": 114,
+   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
   },
   "https://www.cinemateatrogalliera.it/elon-musk-unveiled": {
    "country": "Germania",
@@ -5026,7 +5099,9 @@
    "duration": 131,
    "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129672/standard_2b2b11e8-f013-4256-9225-7c820d8c40ed.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-5": {
    "plot": "Fare cinema a Bologna e in Emilia-Romagna C’È TROPPO SOLE – IL MAGICO VIAGGIO DI SETTECAPPOTTI IN CIRENAICA (Italia/2026) di Andrea Recchia (21’) Umberto Stignani, detto “Settecappotti”, era un popolare personaggio della Bologna anni Settanta, uomo mite che trasportava in bicicletta scatoloni e bidoni vuoti, avvolto in diversi cappotti anche d’estate. Lo seguiamo per le vie del quartiere-villaggio della Cirenaica. Visioni Italiane GLI INNAMORATI (Italia/2025) di Martina Viviani (15’) Laura e Davide stanno insieme da tanti anni. Quando la ragazza torna da un viaggio e trova la sua pesciolina morta, qualcosa in lei si incrina: piccoli gesti, parole sottili e silenzi sospesi la spingono a guardare il loro rapporto con occhi diversi. LA PISTOLA DI ČECHOV (Italia/2026) di Eleonora Maiolino (14’) Matteo, aspirante attore, e il suo coinquilino Daniele vedono la loro quotidianità sconvolta dal ritrovamento di una pistola. Una semplice stranezza si trasforma presto in un gioco pericoloso. GUSCI (Italia/2026) di Elisa Chiari, Francesca Trovato (16’) Dodici uova benedette proteggono l’imminente matrimonio di Lucia dal malocchio. Quando ne spariscono due, la sorella maggiore Elena è chiamata a recuperarle. Il suo compito si trasforma in un viaggio nella superstizione e nei legami familiari. GIRLS: SEQUOIA ADVENTURES (Italia-Bulgaria/2026) di Viktor Ivanov, Edoardo Pasquini (16’) Due assistenti di produzione, lasciati a sorvegliare l’attrezzatura dopo una ripresa nel bosco, ammazzano il…",
@@ -5051,7 +5126,9 @@
    "duration": 130,
    "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129673/standard_a3278ec1-29bb-404e-9387-52ca207e43c2.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-doc-10": {
    "plot": "Fare cinema a Bologna e in Emilia-Romagna A CHI GUARDA LA VITA (Italia/2026) di Salvatore Gucciardo, Pelin Paola Gritella (11’) Nelle stanze dell’Archivio storico dei movimenti ‘via Avesella’, Pino rievoca l’esperienza di Fabbrika, centro sociale occupato della Bologna anni Novanta, intrecciando memoria militante e tracce di un passato ancora vivo. Visioni Doc COMUNQUE FIORIRE (Italia/2026) di Michela Cappelloni (24’) Il tempo di una pianta che cresce scandisce i giorni dell’infanzia di Enea. Tra l’assenza paterna e le cure della madre e della nonna, il bambino cresce in una fattoria incastonata tra i palazzi di un quartiere popolare, in una selva di solitudini e di meraviglie. ETÀ DEL VETRO: LE GENERAZIONI DI OGGI HANNO PIÙ ANSIA RISPETTO AL PASSATO? (Italia/2026) di Niccolò Cacace (43’) L’umanità è all’apice del suo progresso tecnologico. Mentre il benessere cresce, un’epidemia di ansia sembra travolgerci tutti, trovando nei giovani le sue vittime principali. Ma le nuove generazioni hanno davvero più ansia? IL SALOTTO (Italia/2026) di Micol De Angelis (19’) Fadila e Brando vivono con i figli in un container del campo rom di Salone, alla periferia di Roma. Il loro è il fragile equilibrio di una famiglia costretta ai margini, dove ogni gesto quotidiano diventa resistenza e ogni sogno un atto di coraggio.",
@@ -5313,7 +5390,9 @@
    "genre": "Commedia, Dramma",
    "duration": 126,
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129705/standard_712ee843-0588-4008-bb72-83e15abc56c4.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
   },
   "https://www.cinemateatrogalliera.it/serpenti": {
    "country": "Italia",
@@ -5340,7 +5419,8 @@
    "plot": "Trentaquattro giorni prima di entrare in carcere per scontare una condanna per frode, Elizabeth Holmes, fondatrice della startup Theranos, invita una troupe a documentare ogni suo movimento. Quello che comincia come un ritratto intimo si trasforma in un viaggio di tre anni, nel quale la relazione tra chi filma e chi viene filmato rende sempre più incerto il confine tra osservazione e messa in scena.",
    "duration": 174,
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124326/standard_f364dca4-462a-480e-9acb-69fa41858838.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://arlecchino.popupcinema.18tickets.it/film/124326": {
    "year": 2026,
@@ -5348,7 +5428,8 @@
    "plot": "Trentaquattro giorni prima di entrare in carcere per scontare una condanna per frode, Elizabeth Holmes, fondatrice della startup Theranos, invita una troupe a documentare ogni suo movimento. Quello che comincia come un ritratto intimo si trasforma in un viaggio di tre anni, nel quale la relazione tra chi filma e chi viene filmato rende sempre più incerto il confine tra osservazione e messa in scena.",
    "duration": 174,
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124326/standard_f364dca4-462a-480e-9acb-69fa41858838.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://jolly.popupcinema.18tickets.it/film/125646": {
    "year": 2026,
@@ -5357,7 +5438,8 @@
    "genre": "Documentario, Musica",
    "duration": 45,
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/125646/standard_fb54aa81-017d-4d7c-bf71-f9d235ec710a.png",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://www.circuitocinemabologna.it/film/fjord": {
    "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
@@ -5431,7 +5513,8 @@
    "duration": 165,
    "trailer": "https://www.youtube.com/watch?v=v5jz9Nmp7U0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/117198/standard_5329d09e-f352-4896-a4be-ff2d36a6ce71.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://medica.popupcinema.18tickets.it/film/117165": {
    "year": 2026,
@@ -5441,7 +5524,8 @@
    "duration": 165,
    "trailer": "https://www.youtube.com/watch?v=v5jz9Nmp7U0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/117165/standard_42fcade6-7ec7-4729-9584-5284df4bbd7f.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://www.circuitocinemabologna.it/film/wildwood-i-segreti-del-bosco-proibito": {
    "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Arthur Knight, Angela Bassett, Awkwafina, Jake Johnson, Charlie Day, Amandla Stenberg, Tantoo Cardinal, Tom Waits",
