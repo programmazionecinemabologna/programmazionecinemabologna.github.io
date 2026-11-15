@@ -598,6 +598,12 @@ def build_films(shows, previous):
             d["plot"] = d["plot"][:1500].rsplit(" ", 1)[0] + "…"
         d["fetched_at"] = iso(now)
         films[key] = d
+    # pulizia (vale anche per le schede in cache): "Drammatico Tratto dal libro..." -> "Drammatico"
+    for f in films.values():
+        g = f.get("genre")
+        if g:
+            g = re.split(r"\s+(?=[A-ZÀ-Ý][a-zà-ÿ]+\s+[a-zà-ÿ])", g)[0] if re.search(r"\s[A-ZÀ-Ý][a-zà-ÿ]+\s+[a-zà-ÿ]", g) else g
+            f["genre"] = g[:40].strip(" ,.")
     # se la scheda non ha immagini uso quella della lista
     for s in shows:
         f = films.get(s.get("film"))
