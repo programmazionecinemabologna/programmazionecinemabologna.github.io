@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T19:54+01:00",
+ "generated_at": "2026-11-15T20:37+01:00",
  "sources": {
   "ccb": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "popup": {
    "ok": true,
-   "count": 74
+   "count": 73
   },
   "galliera": {
    "ok": true,
@@ -362,23 +362,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23553",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
-   "cinema": "jolly",
-   "sala": null,
-   "title": "Dio ride",
-   "director": "Giovanni Veronesi",
-   "start": "2026-11-15T19:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/2ec43026-811d-4111-89da-53c613ba1624#theater-init",
-   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
   },
   {
    "cinema": "cervi",
@@ -4517,18 +4504,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Tre_colori_-_Film_rosso-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://jolly.popupcinema.18tickets.it/film/123765": {
-   "year": 2026,
-   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
-   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
-   "genre": "Commedia, Dramma",
-   "duration": 114,
-   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/la-doppia-vita-di-veronica": {
    "country": " La Double vie de Véronique , Francia, Polonia, Norvegia",
    "year": 1991,
@@ -4681,6 +4656,18 @@
    "still": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
    "fetched_at": "2026-11-15T18:44+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
+  },
+  "https://jolly.popupcinema.18tickets.it/film/123765": {
+   "year": 2026,
+   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
+   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
+   "genre": "Commedia, Dramma",
+   "duration": 114,
+   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
   },
   "https://arlecchino.popupcinema.18tickets.it/film/123732": {
    "year": 2026,
