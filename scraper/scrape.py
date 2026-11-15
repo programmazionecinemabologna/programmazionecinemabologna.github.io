@@ -563,6 +563,27 @@ DETAIL_PARSERS = [
 ]
 
 
+GENRES = {
+    "animazione", "avventura", "azione", "biografico", "commedia", "nera", "crime", "documentario", "dramma",
+    "drammatico", "erotico", "famiglia", "fantascienza", "fantastico", "fantasy", "giallo", "grottesco", "guerra",
+    "horror", "mistero", "musica", "musical", "musicale", "noir", "poliziesco", "romance", "romantico",
+    "sentimentale", "sportivo", "storia", "storico", "thriller", "western", "sperimentale", "corto", "cortometraggio",
+}
+
+
+def clean_genre(g):
+    out = []
+    for w in re.findall(r"[A-Za-zÀ-ÿ]+", g):
+        lw = w.lower()
+        if lw not in GENRES or lw in (x.lower() for x in out):
+            continue
+        if lw == "nera" and out and out[-1].lower() == "commedia":
+            out[-1] = "Commedia nera"
+            continue
+        out.append(w.capitalize())
+    return ", ".join(out) or None
+
+
 def build_films(shows, previous):
     """Scarica (o riprende dalla cache) la scheda di ogni film in programmazione."""
     old = previous.get("films", {}) if isinstance(previous.get("films"), dict) else {}
@@ -598,12 +619,13 @@ def build_films(shows, previous):
             d["plot"] = d["plot"][:1500].rsplit(" ", 1)[0] + "…"
         d["fetched_at"] = iso(now)
         films[key] = d
-    # pulizia (vale anche per le schede in cache): "Drammatico Tratto dal libro..." -> "Drammatico"
+    # pulizia (vale anche per le schede in cache): tengo solo parole di genere note,
+    # es. "Horror Buio @ Europa" -> "Horror", "Drammatico Tratto dal libro..." -> "Drammatico"
     for f in films.values():
-        g = f.get("genre")
-        if g:
-            g = re.split(r"\s+(?=[A-ZÀ-Ý][a-zà-ÿ]+\s+[a-zà-ÿ])", g)[0] if re.search(r"\s[A-ZÀ-Ý][a-zà-ÿ]+\s+[a-zà-ÿ]", g) else g
-            f["genre"] = g[:40].strip(" ,.")
+        if f.get("genre"):
+            f["genre"] = clean_genre(f["genre"])
+            if not f["genre"]:
+                del f["genre"]
     # se la scheda non ha immagini uso quella della lista
     for s in shows:
         f = films.get(s.get("film"))
