@@ -1,5 +1,5 @@
 // Service worker: app utilizzabile offline con gli ultimi orari scaricati.
-const SHELL = "cb-shell-v3";
+const SHELL = "cb-shell-v4";
 const DATA = "cb-data";
 const FILES = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icon.svg", "icon-180.png", "icon-512.png"];
 

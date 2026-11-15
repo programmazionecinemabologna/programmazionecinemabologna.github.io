@@ -59,7 +59,8 @@
     buildDays();
     buildFilters();
     render();
-    if (state.home) computeTravel().then(render).catch(() => {});
+    route(false);
+    if (state.home) computeTravel().then(() => { render(); route(false); }).catch(() => {});
   }
 
   function visibleShows() {
@@ -389,6 +390,106 @@
     if (t) openFilm(t.dataset.film);
   });
   $("#film").addEventListener("click", (e) => { if (e.target.id === "film" || e.target.closest(".close")) $("#film").close(); });
+
+
+  // ------------------------------------------------------------ sezione Cinema (#cinema, #cinema/<id>)
+  const upcoming = () => { const now = Date.now() - 10 * 60e3; return state.data.shows.filter((s) => ts(s) >= now); };
+
+  function cinemaMapsUrl(c) {
+    if (state.home) return mapsUrl(c.id, "transit");
+    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(c.lat + "," + c.lon)}`;
+  }
+
+  function renderCinemaList() {
+    const all = upcoming();
+    const today = dayKey(new Date());
+    const groups = {};
+    for (const c of state.data.cinemas) (groups[c.group] ||= []).push(c);
+    const GROUP = { CCB: "Circuito Cinema Bologna", Cineteca: "Cineteca di Bologna", "Pop Up": "Pop Up Cinema", Galliera: "Galliera" };
+    // i cinema più vicini a casa per primi, se l'indirizzo è impostato
+    const near = state.home && state.travel ? [...state.data.cinemas].sort((a, b) => (travelFor(a.id)?.walk ?? 999) - (travelFor(b.id)?.walk ?? 999)) : null;
+    const card = (c) => {
+      const ss = all.filter((s) => s.cinema === c.id);
+      const films = new Set(ss.map((s) => norm(s.title))).size;
+      const todayN = ss.filter((s) => showDay(s) === today).length;
+      const next = ss[0];
+      return `<a class="ccard" href="#cinema/${c.id}">
+        <span class="ccard-main"><b>${esc(c.name)}</b><small>${esc(c.address)}</small>
+        <small>${films} film · ${todayN ? todayN + (todayN === 1 ? " spettacolo oggi" : " spettacoli oggi") : "nessuno spettacolo oggi"}</small>
+        ${next ? `<small class="cnext">Prossimo: ${showDay(next) === today ? "" : esc(dayLabelShort(showDay(next))) + " "}${showTime(next)} · ${esc(next.title)}</small>` : ""}
+        ${travelBadge(c.id)}</span>
+        <svg class="chev" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="m9 6 6 6-6 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg></a>`;
+    };
+    $("#cinemaPage").innerHTML = `
+      <div class="cpage-head"><a class="back" href="#" aria-label="Indietro">‹</a><h2>Cinema</h2></div>
+      ${near ? `<h3 class="sec-title">Più vicini a casa</h3><div class="cgrid">${near.slice(0, 3).map(card).join("")}</div>` : ""}
+      ${Object.entries(groups).map(([g, list]) => `<h3 class="sec-title">${esc(GROUP[g] || g)}</h3><div class="cgrid">${list.map(card).join("")}</div>`).join("")}`;
+  }
+
+  function renderCinemaDetail(cid) {
+    const c = cinemaById[cid];
+    if (!c) { location.hash = "#cinema"; return; }
+    const now = Date.now();
+    const ss = upcoming().filter((s) => s.cinema === cid && (!state.vos || s.vos || state.italian.has(norm(s.title))));
+    const byDay = new Map();
+    for (const s of ss) {
+      if (!byDay.has(showDay(s))) byDay.set(showDay(s), new Map());
+      const m = byDay.get(showDay(s));
+      const k = norm(s.title);
+      if (!m.has(k)) m.set(k, []);
+      m.get(k).push(s);
+    }
+    const today = dayKey(new Date()), tomorrow = dayKey(new Date(Date.now() + 864e5));
+    const label = (k) => {
+      const d = new Date(k + "T12:00:00");
+      const names = ["Domenica", "Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato"];
+      return (k === today ? "Oggi, " : k === tomorrow ? "Domani, " : "") + `${names[d.getDay()]} ${d.getDate()} ${MESI[d.getMonth()]}`;
+    };
+    const t = travelFor(cid);
+    const chips = [...byDay.keys()].map((k) => {
+      const d = new Date(k + "T12:00:00");
+      return `<button class="day" data-jump="${k}"><small>${k === today ? "Oggi" : k === tomorrow ? "Domani" : GIORNI[d.getDay()]}</small><b>${d.getDate()}</b></button>`;
+    }).join("");
+    const days = [...byDay.entries()].map(([k, films]) => `
+      <section class="cday" id="d-${k}"><h3 class="cday-title">${label(k)}</h3>
+      <div class="card">${[...films.entries()].map(([fk, list]) => {
+        const info = filmInfo(list);
+        const trusted = state.data.shows.find((s) => norm(s.title) === fk && TRUSTED.has(cinemaById[s.cinema]?.group));
+        const salas = [...new Set(list.map((s) => s.sala).filter(Boolean))];
+        return `<div class="cfilm"><button class="cfilm-head" data-film="${esc(fk)}">${imgTag(info, "cthumb")}
+          <span><b>${esc((trusted || list[0]).title)}</b><small>${esc([metaLine(info), salas.join(", ")].filter(Boolean).join(" · "))}</small></span></button>
+          <div class="times">${list.map((s) => pill(s, now, -1)).join("")}</div></div>`;
+      }).join("")}</div></section>`).join("");
+    $("#cinemaPage").innerHTML = `
+      <div class="cpage-head"><a class="back" href="#cinema" aria-label="Tutti i cinema">‹</a>
+        <div><h2>${esc(c.name)}</h2><p class="muted small">${esc(c.address)}${t ? ` · 🚶 ${fmtMin(t.walk)}${t.bus ? ` · 🚌 ~${fmtMin(t.bus)}` : ""}` : ""}</p></div></div>
+      <div class="actions cactions">
+        <a class="btn ghost" href="${esc(cinemaMapsUrl(c))}" target="_blank" rel="noopener">📍 ${state.home ? "Percorso" : "Mappa"}</a>
+        <a class="btn ghost" href="${esc(c.url)}" target="_blank" rel="noopener">Sito del cinema</a>
+      </div>
+      ${state.vos ? `<p class="hint">Filtro “Lingua originale” attivo.</p>` : ""}
+      ${byDay.size ? `<nav class="days cdays" aria-label="Vai al giorno">${chips}</nav>${days}` : `<p class="empty">Nessuno spettacolo in programma.</p>`}`;
+  }
+
+  function route(scroll = true) {
+    const h = location.hash;
+    const inCinema = h.startsWith("#cinema");
+    $("#homeView").hidden = inCinema;
+    $("#cinemaPage").hidden = !inCinema;
+    if (!state.data || !inCinema) return;
+    const id = h.split("/")[1];
+    id ? renderCinemaDetail(decodeURIComponent(id)) : renderCinemaList();
+    if (scroll) window.scrollTo(0, 0);
+  }
+  window.addEventListener("hashchange", () => route(true));
+  $("#cinemaPage").addEventListener("click", (e) => {
+    const j = e.target.closest("[data-jump]");
+    if (j) { $("#d-" + j.dataset.jump)?.scrollIntoView({ behavior: "smooth", block: "start" }); return; }
+    const f = e.target.closest("[data-film]");
+    if (f) openFilm(f.dataset.film);
+    const b = e.target.closest(".back");
+    if (b && b.getAttribute("href") === "#") { e.preventDefault(); history.replaceState(null, "", location.pathname + location.search); route(true); }
+  });
 
   // ------------------------------------------------------------ eventi
   $("#days").addEventListener("click", (e) => {

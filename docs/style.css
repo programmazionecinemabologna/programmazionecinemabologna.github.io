@@ -211,3 +211,31 @@ button.card-head {
 .go-ico { font-size: 20px; }
 .choices { display: grid; gap: 6px; margin-bottom: 8px; }
 .choice { text-align: left; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); cursor: pointer; font-size: 14px; }
+
+/* ---- sezione cinema ---- */
+.top-actions { display: flex; gap: 8px; }
+a.icon-btn { color: var(--text); text-decoration: none; }
+.cpage { padding: 0 16px; }
+.cpage-head { display: flex; align-items: center; gap: 10px; padding: 6px 0 4px; }
+.cpage-head h2 { margin: 0; font-size: 22px; }
+.cpage-head p { margin: 2px 0 0; }
+.back { display: grid; place-items: center; width: 40px; height: 40px; flex: 0 0 40px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--text); text-decoration: none; font-size: 28px; line-height: 1; padding-bottom: 4px; }
+.cgrid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; margin: 10px 0 14px; }
+.cgrid > * { min-width: 0; }
+@media (min-width: 640px) { .cgrid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+.ccard { display: flex; align-items: center; gap: 10px; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); color: var(--text); text-decoration: none; box-shadow: var(--shadow); }
+.ccard-main { flex: 1; min-width: 0; }
+.ccard b { font-size: 17px; }
+.ccard small { display: block; color: var(--muted); font-size: 13px; }
+.ccard .cnext { color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 3px; }
+.cactions { margin: 6px 0 4px; }
+.cdays { margin: 0 -16px; }
+.cday { scroll-margin-top: 70px; margin-bottom: 14px; }
+.cday-title { margin: 6px 2px 8px; font-size: 15px; }
+.cfilm { padding: 10px 14px; border-top: 1px solid var(--line); }
+.cfilm:first-child { border-top: 0; }
+.cfilm-head { display: flex; gap: 10px; align-items: center; width: 100%; border: 0; background: none; padding: 0 0 8px; text-align: left; cursor: pointer; color: var(--text); }
+.cfilm-head b { display: block; font-size: 15px; }
+.cfilm-head small { display: block; color: var(--muted); font-size: 12px; }
+.cthumb { width: 40px; height: 58px; flex: 0 0 40px; border-radius: 6px; object-fit: cover; background: var(--surface-2); }
+.cthumb.noimg { background: linear-gradient(160deg, var(--surface-2), var(--line)); }

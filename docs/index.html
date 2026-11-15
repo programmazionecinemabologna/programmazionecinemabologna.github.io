@@ -22,12 +22,18 @@
       <h1>Cinema <span>Bologna</span></h1>
       <p id="updated" class="muted">Caricamento…</p>
     </div>
+    <div class="top-actions">
+    <a id="cinemasBtn" class="icon-btn" href="#cinema" aria-label="Programmazione per cinema">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 20V9l8-5 8 5v11M9 20v-6h6v6M3 20h18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/></svg>
+    </a>
     <button id="filtersBtn" class="icon-btn" aria-label="Impostazioni: casa e cinema" aria-haspopup="dialog">
       <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
       <span id="filterCount" class="badge" hidden></span>
     </button>
+    </div>
   </header>
 
+  <div id="homeView">
   <section id="posters" class="posters" aria-label="Film in programmazione"></section>
 
   <nav id="days" class="days" aria-label="Giorni"></nav>
@@ -49,6 +55,9 @@
   </div>
 
   <main id="list" aria-live="polite"></main>
+  </div>
+
+  <section id="cinemaPage" class="cpage" hidden aria-live="polite"></section>
 
   <dialog id="filters">
     <form method="dialog" class="sheet">
