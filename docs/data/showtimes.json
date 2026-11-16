@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T00:56+01:00",
+ "generated_at": "2026-11-16T14:35+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 93
+   "count": 92
   },
   "cineteca": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "galliera": {
    "ok": true,
-   "count": 17
+   "count": 29
   }
  },
  "cinemas": [
@@ -2609,15 +2609,15 @@
   {
    "cinema": "galliera",
    "sala": null,
-   "title": "Obsession",
+   "title": "RASSEGNAti – il Filmclub della Bolognina serata di apertura con OBSESSION V.O.S.",
    "director": "Curry Barker",
    "start": "2026-11-19T21:00+01:00",
    "vos": true,
    "tags": [],
    "buy": "https://linktr.ee/Galliera_Prenotazioni",
-   "info": "https://www.cinemateatrogalliera.it/obsession/",
+   "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
    "image": null,
-   "film": "https://www.cinemateatrogalliera.it/obsession"
+   "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
   },
   {
    "cinema": "jolly",
@@ -2668,6 +2668,36 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati/?repeat=23255",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-14.52.17.png",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "19:00 il canto della foresta",
+   "director": "Vincent Munier",
+   "start": "2026-11-20T16:30+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione esclusiva"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-11-20T21:00+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
   },
   {
    "cinema": "cervi",
@@ -2722,21 +2752,6 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-proiezione-dei-cinque-corti-finalisti-selezionati-dalla-giuria"
   },
   {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "L’eco dei fiori sommersi",
-   "director": "Rosa Maietta",
-   "start": "2026-11-21T14:00+01:00",
-   "vos": false,
-   "tags": [
-    "Incontro"
-   ],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-eco-dei-fiori-sommersi_2025/859958#sala",
-   "info": "https://www.circuitocinemabologna.it/film/leco-dei-fiori-sommersi/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/l_eco-dei-fiori-sommersi-1-scaled-1.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/leco-dei-fiori-sommersi"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Premio Luca De Nigris",
@@ -2772,6 +2787,19 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-5"
   },
   {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "La pantera delle nevi",
+   "director": "M. Amiguet e V. Munier",
+   "start": "2026-11-21T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Visioni Animate / Visioni Doc",
@@ -2789,6 +2817,21 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-doc"
   },
   {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-11-21T18:45+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Roberto Perpignani – L’emozione dei tagli impropri",
@@ -2804,6 +2847,21 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/roberto-perpignani-lemozione-dei-tagli-impropri/?repeat=23256",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Roberto-Perpignani-Lemozione-dei-tagli-impropri.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/roberto-perpignani-lemozione-dei-tagli-impropri"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Il canto della foresta",
+   "director": "V. Munier",
+   "start": "2026-11-21T21:30+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
   },
   {
    "cinema": "modernissimo",
@@ -2890,8 +2948,23 @@
    "film": "https://www.circuitocinemabologna.it/film/la-gabbianella-e-il-gatto-ried"
   },
   {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-11-22T16:00+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
    "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
+   "sala": "Sala Scorsese",
    "title": "Pesciolino & Superverme",
    "director": "Alex Bain, Andy Martin, Jac Hamman e Sarah Scrimgeour",
    "start": "2026-11-22T16:00+01:00",
@@ -2939,6 +3012,34 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane/?repeat=23503",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026-premiazione.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Il canto della foresta",
+   "director": "V. Munier",
+   "start": "2026-11-22T19:00+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Caro mondo crudele",
+   "director": "Niccolò Falsetti",
+   "start": "2026-11-22T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/caromondocrudele/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/caromondocrudele"
   },
   {
    "cinema": "modernissimo",
@@ -3015,7 +3116,7 @@
    "sala": null,
    "title": "Il labirinto",
    "director": "Alberto Gemmi",
-   "start": "2026-11-23T19:30+01:00",
+   "start": "2026-11-23T19:00+01:00",
    "vos": false,
    "tags": [
     "Prima visione esclusiva",
@@ -3041,6 +3142,21 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minnie-and-moskowitz/?repeat=23265",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/09/384-1189417499-2.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minnie-and-moskowitz"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Il canto della foresta",
+   "director": "V. Munier",
+   "start": "2026-11-23T21:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
   },
   {
    "cinema": "europa",
@@ -3140,6 +3256,21 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/il-48-risveglio-dei-popoli"
   },
   {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-11-24T18:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
    "cinema": "rialto",
    "sala": "Sala 2",
    "title": "Summer Blooms",
@@ -3169,6 +3300,19 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/i-dannati-di-varsavia"
   },
   {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Wax & gold",
+   "director": "Ruth Beckermann",
+   "start": "2026-11-24T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/wax-gold/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/wax-gold"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "I Swear",
@@ -3184,6 +3328,19 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/i-swear/?repeat=23504",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/I-Swear-1.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/i-swear"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Terraviva film festival",
+   "director": null,
+   "start": "2026-11-25T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
   },
   {
    "cinema": "modernissimo",
@@ -3294,33 +3451,31 @@
   {
    "cinema": "galliera",
    "sala": null,
-   "title": "Un giorno senza donne",
-   "director": "Pamela Hogan",
-   "start": "2026-11-26T19:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
+   "title": "Terraviva film festival",
+   "director": null,
+   "start": "2026-11-26T15:30+01:00",
+   "vos": false,
+   "tags": [],
    "buy": "https://linktr.ee/Galliera_Prenotazioni",
-   "info": "https://www.cinemateatrogalliera.it/un-giorno-senza-donne/",
+   "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
    "image": null,
-   "film": "https://www.cinemateatrogalliera.it/un-giorno-senza-donne"
+   "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
   },
   {
    "cinema": "galliera",
    "sala": null,
-   "title": "La leggenda di zagor",
-   "director": "Filippo Biagianti e Vittorio Ondedei",
-   "start": "2026-11-26T21:00+01:00",
-   "vos": false,
+   "title": "Un giorno senza donne",
+   "director": "P. Hogan",
+   "start": "2026-11-26T19:45+01:00",
+   "vos": true,
    "tags": [
     "Prima visione esclusiva",
     "SalaOpen"
    ],
    "buy": "https://linktr.ee/Galliera_Prenotazioni",
-   "info": "https://www.cinemateatrogalliera.it/la-leggenda-di-zagor/",
+   "info": "https://www.cinemateatrogalliera.it/un-giorno-senza-donne/",
    "image": null,
-   "film": "https://www.cinemateatrogalliera.it/la-leggenda-di-zagor"
+   "film": "https://www.cinemateatrogalliera.it/un-giorno-senza-donne"
   },
   {
    "cinema": "medica",
@@ -3448,10 +3603,10 @@
   {
    "cinema": "galliera",
    "sala": null,
-   "title": "Ritorneranno caro mondo crudele",
-   "director": "Niccolò Falsetti",
+   "title": "In arrivo ●",
+   "director": null,
    "start": "2026-12-01T19:00+01:00",
-   "vos": true,
+   "vos": false,
    "tags": [],
    "buy": "https://linktr.ee/Galliera_Prenotazioni",
    "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
@@ -4554,16 +4709,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-visioni-italiane-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://www.cinemateatrogalliera.it/obsession": {
-   "country": "USA",
-   "year": 2026,
-   "genre": "Horror",
-   "duration": 108,
-   "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson e Megan Lawless",
-   "plot": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama, un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso. È il momento di un nuovo ‘elevated horror’, accompagnato dalla casa di produzione Blumhouse, che conferma il talento dell’astro nascente Curry Barker, regista (e interprete) di una decina di corti e del mediometraggio Milk & Serial .",
-   "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/11/REEL-NEW-05.11.png",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
   "https://jolly.popupcinema.18tickets.it/film/129673": {
    "year": 2025,
    "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 130 min",
@@ -4599,17 +4744,6 @@
   "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-proiezione-dei-cinque-corti-finalisti-selezionati-dalla-giuria": {
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_concorso-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/leco-dei-fiori-sommersi": {
-   "cast": "Elena Belli, Paola Maria Cacace, Diana Del Franco, Laura Mammone, Emanuela Parisi, Annapaola Petrosino, Valentina Piscopo",
-   "country": "Italia",
-   "duration": 68,
-   "genre": "Documentario",
-   "plot": "Il corpo delle donne e' il campo di battaglia su cui si gioca il destino del mondo. Come quello di Linda, che incinta dell’uomo di cui si era innamorata mentre il marito era al fronte, decide di abortire per evitare la vergogna. O quello di Emma, operaia sovversiva avversata dal fascismo fino all’esilio e alla reclusione. O quello di Giovannina, vittima di un fidanzato possessivo e violento. Il film entra letteralmente nei faldoni conservati all’Archivio di Stato di Napoli, per comporre un corpo di donne lontane nel tempo, dimenticate, silenti, a partire da sentenze e perizie, cimeli dissepolti, fino ad arrivare ad instaurare con loro un dialogo. È il tempo stesso che tesse i fili di un racconto che restituisce a queste donne e alle loro storie una voce che non hanno mai avuto e che riecheggia con forza e come non mai nel tempo presente.",
-   "trailer": "https://www.youtube.com/watch?v=hZYZf10evFE",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/l_eco-dei-fiori-sommersi-1-scaled-1.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/l_eco-dei-fiori-sommersi-1-scaled-1.jpg"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/premio-luca-de-nigris-2": {
    "plot": "Giunto alla ventisettesima edizione, dall’anno scorso il concorso è aperto agli istituti scolastici di tutta Italia, grazie al progetto A scuola di cinema, realizzato nell’ambito del Piano Nazionale Cinema e Immagini per la Scuola promosso da MiC e MIM. Proiezione e premiazione dei vincitori, alla presenza di alunni e docenti degli istituti partecipanti e dei membri della giuria. Intervengono Maria Vaccari e Fulvio De Nigris (Fondazione Gli Amici di Luca) Dai 6 anni in su",
@@ -4696,6 +4830,17 @@
    "plot": "A seguire proiezione dei film vincitori",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026-premiazione.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://www.cinemateatrogalliera.it/caromondocrudele": {
+   "country": "Italia",
+   "year": 2026,
+   "genre": "Avventura, Drammatico, Commedia",
+   "duration": 105,
+   "cast": "Francesco Turbanti, Petra Valentini, Guglielmo Tanganelli, Tara Trocchia, Leonardo Baldoni, Aurora Malianni, Samuele Sabatini",
+   "plot": "Giovanna ( Aurora Malianni ) è una ragazzina solitaria di dodici anni con una fantasia fuori dal comune. Cresciuta in un piccolo paese vicino a Grosseto, è sempre sembrata strana agli occhi degli altri. I compagni di scuola la escludono, i bulli la tormentano, e gli adulti, troppo presi dai propri problemi, sembrano vivere in un altro mondo. L’unico punto fermo della sua vita è Mirko , il suo migliore amico. Anzi, il suo unico amico. Quando Mirko sparisce all’improvviso, senza lasciare tracce, Giovanna si ritrova sola, piena di domande e travolta da un dolore che nessuno sembra notare. Incapace di rassegnarsi, decide di cercarlo, guidata solo dalla forza dell’immaginazione e da un coraggio che nemmeno lei sapeva di avere..",
+   "trailer": "https://www.youtube.com/watch?v=bwvMjC5LYEs",
+   "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/10/facebook.png",
+   "fetched_at": "2026-11-16T14:35+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti": {
    "country": "Italia",
@@ -4873,14 +5018,6 @@
    "plot": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L’uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
    "trailer": "https://www.youtube.com/watch?v=SJI6dKxr0Mc",
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/10/REEL-NEW-01.10-1.png",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.cinemateatrogalliera.it/la-leggenda-di-zagor": {
-   "country": "Italia",
-   "year": 2025,
-   "genre": "Documentario",
-   "duration": 90,
-   "plot": "Una leggenda funziona così: non è scritta e, se viene scritta, nessuno la legge e finisce che tutti la dimenticano. Una leggenda viaggia, si muove, attraversa le persone ed alimenta i loro discorsi, così la portano qui e là, la raccontano di nuovo, sbagliano qualche particolare, riempiono le parti che non ricordano con elementi nuovi, e la leggenda continua, si diffonde, prendendo la forma di chi la racconta, ma rimanendo sempre la stessa, un po’ misteriosa, mai finita, da raccontare di nuovo. Il film documentario La leggenda di Zagor ricostruisce la vicenda artistica di Mirko Bertuccioli. È un film sulla memoria e sulla vita che sbuca da tutte le parti: un sentiero visivo tra persone che parlano e si muovono, da percorrere con seria giocosità. Mirko Bertuccioli è un musicista pesarese: organizzatore di eventi, dj e gestore del Plastic, indimenticabile negozio di dischi a Pesaro. È Zagor Camillas nella band-famiglia elettiva I Camillas. È morto, a causa del Covid, il 14 aprile 2020. L’idea di fare un film su di lui è stata una questione di batticuore.",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
   "https://medica.popupcinema.18tickets.it/film/124326": {
