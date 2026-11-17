@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-17T00:22+01:00",
+ "generated_at": "2026-11-17T15:20+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 67
+   "count": 66
   },
   "cineteca": {
    "ok": true,
-   "count": 71
+   "count": 136
   },
   "popup": {
    "ok": true,
-   "count": 58
+   "count": 144
   },
   "galliera": {
    "ok": true,
@@ -140,7 +140,7 @@
     "New Hollywood"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101159",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/rosemarys-baby/?repeat=23136",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/rosemarys-baby.jpeg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/rosemarys-baby"
@@ -157,36 +157,10 @@
     "Un’ora sola"
    ],
    "ita": true,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101126",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/chi-legge-viaggio-lungo-il-tirreno/?repeat=23131",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Mario_Soldati_1967.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/chi-legge-viaggio-lungo-il-tirreno"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Il gatto col cappello (The cat in the hat)",
-   "director": "Erica Rivinoja, Alessandro Carloni",
-   "start": "2026-11-17T14:20+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/123732/5930eac3-921e-45fc-8749-09cd39691da9#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/123732",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123732/standard_c36c8170-8176-487a-b743-a4a8daaf20a9.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/123732"
-  },
-  {
-   "cinema": "jolly",
-   "sala": null,
-   "title": "Dio ride",
-   "director": "Giovanni Veronesi",
-   "start": "2026-11-17T14:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/f5484255-7916-4b4d-bc27-5d4bdadd662f#theater-init",
-   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
   },
   {
    "cinema": "modernissimo",
@@ -204,19 +178,6 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-4/?repeat=23482",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-visioni-italiane.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-4"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "Un tranquillo funerale di famiglia",
-   "director": "Massimiliano Bruno",
-   "start": "2026-11-17T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/859858#sala",
-   "info": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia"
   },
   {
    "cinema": "europa",
@@ -1771,6 +1732,61 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-italiane-visioni-doc"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Primetime",
+   "director": "Lance Oppenheim",
+   "start": "2026-11-19T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/116538/c41ef59f-bd25-4023-baf5-e5f2e190b0c8#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/116538",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/116538/standard_6c8614c5-a3f5-4cbb-8010-65037fc2e8cb.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/116538"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-19T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/130962/eb7c7176-8c76-47f1-a199-9528c76cafe7#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-19T15:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/0404bbeb-6e2b-4a91-aa7c-9e2024135992#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-19T15:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23592",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Fare cinema a Bologna e in Emilia-Romagna / Visioni Doc",
@@ -1801,6 +1817,51 @@
    "film": "https://www.cinemateatrogalliera.it/NAZA"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "It ends",
+   "director": "Alexander Ullom",
+   "start": "2026-11-19T17:10+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/122645/a2a726c1-80cb-4a8a-96c7-d50ade6db504#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/122645",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122645/standard_95479c08-bc58-43c7-a2fc-d84cf031a9a4.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/122645"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-19T17:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23632",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-19T17:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23602",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Fare cinema a Bologna e in Emilia-Romagna / Visioni Animate / Visioni Italiane",
@@ -1816,6 +1877,48 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-animate-visioni-italiane/?repeat=23495",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_bologna-visioni-animate.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-animate-visioni-italiane"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-19T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/0bfa617a-9823-48c8-822d-955a6738a383#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-19T18:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/18663551-f015-46d5-aa55-a880b4aeffb4#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-19T18:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23625",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
   {
    "cinema": "galliera",
@@ -1849,6 +1952,35 @@
    "film": "https://jolly.popupcinema.18tickets.it/film/129672"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Primetime",
+   "director": "Lance Oppenheim",
+   "start": "2026-11-19T19:15+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/117199/b5823715-72cc-4e92-aa94-3277633c07c3#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/117199",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/117199/standard_726065af-2010-4981-8d35-56804a9ba2b5.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/117199"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-19T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23603",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Fare cinema a Bologna e in Emilia-Romagna / Visioni Italiane",
@@ -1866,6 +1998,35 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-5"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-19T20:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23645",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-19T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/1bee996a-bdc1-4117-8f45-4c9ae1ab39f5#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "RASSEGNAti – il Filmclub della Bolognina serata di apertura con OBSESSION V.O.S.",
@@ -1877,6 +2038,32 @@
    "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-19T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/597d6d14-6a1a-4bd5-bb50-16df3f20d475#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Godzilla minus zero",
+   "director": "T. YAMAZAKI",
+   "start": "2026-11-19T21:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129012/aabef865-6198-48a9-b6c5-51e8d5cc37a9#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/129012",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/129012"
   },
   {
    "cinema": "jolly",
@@ -1893,6 +2080,22 @@
    "info": "https://jolly.popupcinema.18tickets.it/film/129673",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129673/standard_a3278ec1-29bb-404e-9387-52ca207e43c2.jpg",
    "film": "https://jolly.popupcinema.18tickets.it/film/129673"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-19T22:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23604",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "modernissimo",
@@ -1912,6 +2115,19 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-doc-10"
   },
   {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-20T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/fd4e10ea-c67c-4aeb-a389-77e061929f3f#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Controcampo | Rassegna di cortometraggi animati",
@@ -1929,6 +2145,64 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-20T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23633",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-20T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23593",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-20T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131025/17f2d163-150b-4a46-a13f-7e4505bb5971#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131025",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131025"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-20T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/3a0c29f5-e22c-4beb-a514-698cb9c8f313#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "19:00 il canto della foresta",
@@ -1944,6 +2218,164 @@
    "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
   },
   {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-20T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/42ae56d0-fb11-4a37-b513-f5731060b2b4#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-20T17:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23626",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-20T18:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23646",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-20T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/c173249d-c353-44ad-a7c3-f545ccdef32e#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-20T18:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/7c1dee52-e0a8-4cc9-b363-82732de16369#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Godzilla minus zero",
+   "director": "T. Yamazaki",
+   "start": "2026-11-20T19:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/128980/1449aa75-0347-4b19-ad11-389c5d241fc8#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/128980",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/128980"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-20T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/00b3f609-15a3-43a3-ad4c-c29238a8a55d#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-20T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23647",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-20T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23594",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-20T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23605",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-20T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/c026a39a-b674-49b8-ade0-a05fded40666#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "L’essere amato",
@@ -1957,6 +2389,77 @@
    "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-20T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/7e845be3-7a11-4475-9bfb-91eabc0a4845#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-20T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/09fdd986-aca8-4292-b70e-d921acedf548#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-20T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/6b5a5278-57fc-4a2f-88f7-8559d05412e1#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-20T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23634",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-20T22:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23606",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "cervi",
@@ -2011,6 +2514,58 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-proiezione-dei-cinque-corti-finalisti-selezionati-dalla-giuria"
   },
   {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-21T14:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/444542b0-122f-45dd-9b54-3136e58781ef#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-21T14:10+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/a661435f-e531-4196-9cef-3250a62406c3#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-21T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/341ced7c-8e25-4e28-99a1-5fe57026f64c#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-21T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/d45410c9-1d33-4b5c-bf2a-1f7e323a3b29#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Premio Luca De Nigris",
@@ -2046,6 +2601,22 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-5"
   },
   {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-21T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23607",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "La pantera delle nevi",
@@ -2057,6 +2628,58 @@
    "info": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-21T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131025/c7c3fa03-6a6a-40bf-bff9-9fd2b29616c3#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131025",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131025"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Godzilla minus zero",
+   "director": "T. YAMAZAKI",
+   "start": "2026-11-21T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129012/6fe6ee2e-6fd9-437f-ac37-4f2680d83228#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/129012",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/129012"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-21T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/9f5f579b-0949-482a-87f2-479b8000d372#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Wildwood – I segreti del bosco proibito",
+   "director": "Travis Knight",
+   "start": "2026-11-21T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/122643/91eab6ff-5b2d-4df9-9c40-8bb06e91b398#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/122643",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122643/standard_8eb0f03e-71f6-4448-a11e-6756ac24c219.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/122643"
   },
   {
    "cinema": "modernissimo",
@@ -2076,6 +2699,54 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-doc"
   },
   {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-21T17:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23595",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-21T17:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23635",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-21T17:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23608",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "L’essere amato",
@@ -2089,6 +2760,35 @@
    "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-21T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/48eaeda4-3abe-4aec-8490-4f781d1c1fb6#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala DAMSLab",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-21T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23627",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
   {
    "cinema": "modernissimo",
@@ -2108,6 +2808,90 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/roberto-perpignani-lemozione-dei-tagli-impropri"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-21T19:10+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/3ccdfc3f-72af-4692-a76c-ae4978a85d5e#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-21T19:20+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/9d1d2608-85ad-4e99-b86c-1a9c8059ebdf#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-21T19:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/126636/34ad16a4-b58a-45d3-86cb-7dea8a9c9175#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/126636",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126636/standard_448df762-79c1-4a61-ba80-544cace3b892.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/126636"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-21T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23609",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-21T20:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23648",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-21T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/3a074dca-ef90-4e9c-b3ff-565074516ff3#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "Il canto della foresta",
@@ -2121,6 +2905,35 @@
    "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-21T21:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/7a6fd2d7-b18d-4b7e-a994-e4d4e60678cf#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala DAMSLab",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-21T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23596",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "modernissimo",
@@ -2141,6 +2954,64 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-leica"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-21T21:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/b3858164-1fc9-4620-ab4c-7fad9680f5cb#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-21T21:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23636",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-21T22:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/8ecd661f-abc4-4842-be2d-70af7ebdb1dd#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-21T22:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23610",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "odeon",
    "sala": "Sala D",
    "title": "Nel bel mezzo di un gelido inverno",
@@ -2154,6 +3025,19 @@
    "info": "https://www.circuitocinemabologna.it/film/nel-bel-mezzo-di-un-gelido-inverno-in-the-bleak-midwinter/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/05ad99dafb20522437a3979dd4133901-e1789729247386.jpeg",
    "film": "https://www.circuitocinemabologna.it/film/nel-bel-mezzo-di-un-gelido-inverno-in-the-bleak-midwinter"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-22T10:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/4f51d400-ed6f-4319-b301-d91d4e27e7a5#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
   },
   {
    "cinema": "modernissimo",
@@ -2207,6 +3091,121 @@
    "film": "https://www.circuitocinemabologna.it/film/la-gabbianella-e-il-gatto-ried"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Zombie contro zombie (One cut of the dead) (Kamera wo tomeru na)",
+   "director": "S. UEDA",
+   "start": "2026-11-22T11:00+01:00",
+   "vos": true,
+   "tags": [
+    "Horror"
+   ],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129015/beace94b-e900-4aff-a3a8-0925a8ead734#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/129015",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129015/standard_322b7c9e-2dff-4ee7-a5bd-7e3a0da4f071.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/129015"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-22T11:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23611",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-22T14:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/4798a749-d926-45ca-9ef4-693bfb32f52f#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-22T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/9741c429-4164-444e-88c7-527aad5699c6#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-22T14:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/74335494-f56f-4a5b-9879-b4b564a8ebbe#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-22T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23637",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-22T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23612",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-22T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131025/6dec96d6-dc9f-4763-a363-a1e3e32099c9#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131025",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131025"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "L’essere amato",
@@ -2255,6 +3254,77 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-ambientali-visioni-acquatiche-2"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-22T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/e92bfaf9-47c5-494a-8213-7bde40796e9a#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-22T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/4e42718d-191b-4aa1-bdd4-c8584b4c6a0e#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-22T17:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/ba8b3241-ed5a-4d70-a745-0c178205689d#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-22T17:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23597",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-22T17:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23613",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Cerimonia di premiazione di Visioni Italiane",
@@ -2273,6 +3343,35 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-22T18:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23649",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-22T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/c39aa87b-f6ef-4060-8675-d758c4a24636#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "Il canto della foresta",
@@ -2286,6 +3385,93 @@
    "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-22T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/7640820f-5350-4aa6-b1f5-ba16f89456aa#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-22T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/30f90943-c60d-4918-9608-db72b2d64e82#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala DAMSLab",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-22T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23628",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-22T19:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/20474c2e-95cb-4199-9fa9-e253ab7f8037#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-22T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23650",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-22T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23614",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "europa",
@@ -2314,6 +3500,90 @@
    "film": "https://www.cinemateatrogalliera.it/caromondocrudele"
   },
   {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-22T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/8259c5d8-d3ac-4a4f-8e20-ea2655e61810#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-22T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/51ec9193-5c89-47c4-833b-0381e665eeaa#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Godzilla minus zero",
+   "director": "T. Yamazaki",
+   "start": "2026-11-22T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/128980/7955ea15-2c07-44e1-a47c-2470214d0f08#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/128980",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/128980"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-22T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23638",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Wildwood",
+   "director": "Travis Knight",
+   "start": "2026-11-22T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/122644/7badcb22-2668-4383-93ae-6c35d1a6554e#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/122644",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122644/standard_a4cc4800-5b11-46f0-8262-c654734c6a99.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/122644"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala DAMSLab",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-22T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23598",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Lorenzo – L’incredibile avventura di Jovanotti",
@@ -2330,6 +3600,22 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti/?repeat=23262",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Lorenzo_Still_010.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-22T22:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23615",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "modernissimo",
@@ -2349,6 +3635,64 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visita-guidata-accessibile-al-modernissimo"
   },
   {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-23T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/25a7c543-48fc-47e7-b551-7429a05eb10d#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-23T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23639",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-23T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131025/b977d354-4212-444e-83cb-cc1906da49a5#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131025",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131025"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-23T15:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23616",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Calle Malaga",
@@ -2364,6 +3708,80 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/calle-malaga/?repeat=23263",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/07/Calle-Malaga.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/calle-malaga"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-23T16:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23629",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Godzilla minus zero",
+   "director": "T. YAMAZAKI",
+   "start": "2026-11-23T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129012/56007da6-e247-49fd-bf01-89a48d37dba7#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/129012",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/129012"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-23T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/52879891-4adc-419b-a063-13299ccfe161#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-23T18:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23599",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-23T18:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23651",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
   },
   {
    "cinema": "modernissimo",
@@ -2384,6 +3802,32 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/our-hobby-is-depeche-mode"
   },
   {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-23T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/f45e98d0-c6e2-4361-a3b7-ac86c6f8c3f5#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-23T18:55+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/217fc1fd-6f07-494b-be2a-bf5dc1da1744#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "Il labirinto",
@@ -2398,6 +3842,51 @@
    "info": "https://www.cinemateatrogalliera.it/il-labirinto/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/il-labirinto"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-23T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/b3346dbc-0105-46da-9a59-34ca64077cc6#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-23T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23652",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-23T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23617",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "modernissimo",
@@ -2431,6 +3920,19 @@
    "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
   },
   {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-23T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/badbf194-d099-4c03-a97b-e99aeb4473f2#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
    "cinema": "europa",
    "sala": null,
    "title": "Dead Lover",
@@ -2444,6 +3946,64 @@
    "info": "https://www.circuitocinemabologna.it/film/dead-lover/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/vkuitleDNlHephu7qlS9jHALTZk.webp",
    "film": "https://www.circuitocinemabologna.it/film/dead-lover"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-23T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/bbb6181e-a3bb-4a32-87db-f03153afc7f2#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-23T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/83e312b8-8053-4965-9793-155e27fb4858#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-23T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23640",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-23T22:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23618",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "modernissimo",
@@ -2494,6 +4054,61 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/non-aprite-quella-porta"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Godzilla minus zero",
+   "director": "T. YAMAZAKI",
+   "start": "2026-11-24T14:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129012/dcec42e2-5a59-4177-ba60-dac1a408c050#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/129012",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/129012"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-24T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/943501c2-a8ca-4106-830c-43a33a432e26#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-24T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23641",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-24T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131025/37ccb29c-e3e4-4a34-86e8-c37041f34d69#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131025",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131025"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Paris Calligrammes",
@@ -2509,6 +4124,64 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/paris-calligrammes/?repeat=23269",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/PARIS-CALLIGRAMMES.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/paris-calligrammes"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-24T15:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23600",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-24T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/e1d510b3-46b4-45c5-97b8-c2a2e6b5063c#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-24T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/64b435cb-04b4-4968-84f4-751173bf589e#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-24T17:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23619",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "modernissimo",
@@ -2528,6 +4201,22 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/il-48-risveglio-dei-popoli"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-24T18:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23653",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "L’essere amato",
@@ -2541,6 +4230,61 @@
    "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-24T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/d93e48a8-3c5a-42d6-9849-c5bc8826d2d4#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-24T18:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23630",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-24T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/c0425e12-82ea-478e-8f79-dc57c090acc5#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-24T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/6f3cc9a5-e0df-45ad-bff8-022fb9f9ec3f#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
   },
   {
    "cinema": "rialto",
@@ -2573,6 +4317,38 @@
    "film": "https://www.circuitocinemabologna.it/film/corto-che-passione-12"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-24T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23654",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-24T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23620",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "I dannati di Varsavia",
@@ -2600,6 +4376,63 @@
    "film": "https://www.cinemateatrogalliera.it/wax-gold"
   },
   {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-24T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/85340de8-431d-4846-9348-9d0fecc5a41b#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-24T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/ba720a61-632d-4f0c-a781-fee7ef4b1827#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Tiger are not afraid",
+   "director": "Issa López",
+   "start": "2026-11-24T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Horror"
+   ],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131157/c20810fc-b74b-4ba4-b55f-99f031d1a742#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131157",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131157/standard_63bf956f-8216-4572-8a30-7993e8820068.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131157"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-24T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23642",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "I Swear",
@@ -2617,6 +4450,77 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/i-swear"
   },
   {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-24T22:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23621",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Godzilla minus zero",
+   "director": "T. Yamazaki",
+   "start": "2026-11-25T14:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/128980/97dedf99-9ad1-4a2d-96c8-383b026de174#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/128980",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/128980"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-25T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/3b965e4e-a96e-4bb0-9728-19a5331f7457#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Wild horse nine",
+   "director": "Martin Mc Donagh",
+   "start": "2026-11-25T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/124755/03c8745a-0690-4793-bb4b-519360824483#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/124755",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/124755"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-25T15:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23643",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "Terraviva film festival",
@@ -2628,6 +4532,22 @@
    "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
    "image": null,
    "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-25T15:45+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23622",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "modernissimo",
@@ -2646,6 +4566,45 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-mano-dello-straniero"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-25T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/45220a6f-bb87-4973-9149-f40a229a8996#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-25T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/15344fb9-3536-4ecb-9ad9-dcf95c01758c#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-25T17:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131025/ff5f148e-5222-4319-82a3-4be56fe6fd90#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131025",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131025"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Manhattan",
@@ -2660,6 +4619,77 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/manhattan/?repeat=23274",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2021/10/Manhattan_16-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/manhattan"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-25T18:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23601",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-25T18:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23655",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-25T18:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/9046b920-7049-40a6-8cae-72041d6e8eb2#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Sorry, baby",
+   "director": "Eva Victor",
+   "start": "2026-11-25T19:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/43245/e780d326-1756-469a-b933-43eb66e70836#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/43245",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/43245/standard_c084aa57-0a1b-4ea8-8e02-5fdf85c161f9.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/43245"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-25T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/9b38a596-2213-4f8a-8850-d7a9a8417e35#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
   },
   {
    "cinema": "modernissimo",
@@ -2691,6 +4721,38 @@
    "film": "https://www.cinemateatrogalliera.it/il-canto-di-alina"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Fatherland",
+   "director": "Paweł Pawlikowski",
+   "start": "2026-11-25T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23656",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-25T20:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23623",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
    "cinema": "medica",
    "sala": null,
    "title": "Club kid",
@@ -2705,6 +4767,77 @@
    "info": "https://medica.popupcinema.18tickets.it/film/129705",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129705/standard_712ee843-0588-4008-bb72-83e15abc56c4.jpg",
    "film": "https://medica.popupcinema.18tickets.it/film/129705"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-25T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/966d0f2e-2713-43bb-8eb0-d8b7c7b9863b#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala DAMSLab",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-25T21:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23631",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-25T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/cf5b528a-1791-4b94-975b-3ad32cf640d3#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-25T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/11754755-2317-45c3-bb52-4d2174c91cff#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-25T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23644",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "galliera",
@@ -2734,6 +4867,22 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/qualcuno-volo-sul-nido-del-cuculo/?repeat=23268",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/flew-1024x576-1.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/qualcuno-volo-sul-nido-del-cuculo"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Wild Horse Nine",
+   "director": "Martin McDonagh",
+   "start": "2026-11-25T22:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23624",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "galliera",
@@ -2895,7 +5044,7 @@
   {
    "cinema": "odeon",
    "sala": "Sala A",
-   "title": "Fjord",
+   "title": "Fjord – v. o.",
    "director": "Cristian Mungiu",
    "start": "2026-11-29T10:00+01:00",
    "vos": true,
@@ -3482,45 +5631,10 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Mario_Soldati_1967-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://arlecchino.popupcinema.18tickets.it/film/123732": {
-   "year": 2026,
-   "cast": "Bill Hader, Xochitl Gomez, Tiago Martinez, Matt Berry, Quinta Brunson, Bowen Yang, America Ferrera, Paula Pell, Tituss Burges... Trama Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima. Info 100 min",
-   "plot": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-   "genre": "Animazione, Avventura, Commedia",
-   "duration": 100,
-   "trailer": "https://www.youtube.com/watch?v=bCZo-8YVjgs",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123732/standard_c36c8170-8176-487a-b743-a4a8daaf20a9.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true,
-   "country": "Stati Uniti"
-  },
-  "https://jolly.popupcinema.18tickets.it/film/123765": {
-   "year": 2026,
-   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
-   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
-   "genre": "Commedia, Dramma",
-   "duration": 114,
-   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-4": {
    "plot": "Fare cinema a Bologna e in Emilia-Romagna TOILET PAPER (Italia/2026) di Eleonora Corica (16’) Caterina dà un passaggio a un autostoppista straniero mentre il suo ex la tempesta di telefonate. Quando i due s’incontrano, nascono equivoci che trascinano lo spaesato autostoppista nel caos di una relazione al capolinea. CTRL+Z (Italia/2025) di Sofia Trentini (12’) Cinque adolescenti trascorrono la fine dell’estate sull’Appennino emiliano. Anni dopo, riguardando i filmati girati in quei giorni, Miriam ritrova una memoria in cui la leggerezza nasconde distanze e ferite. TOTAL KILL (Italia/2026) di Elia Crispo e Giovanna De Nigris (5’) Il boss del quartiere Barca prende caffè, legge giornali, prega e ingaggia criminali. Ai goffi ma spietati Luc e Gin spetta il compito di rubare un borsone. Visioni Italiane ORESTE (Italia/2026) di Alessandro Cedola (20’) In una torrida estate romana, Oreste, un ragazzo pieno di dubbi sul futuro, è alle prese con la ricerca ossessiva di una ragazza che si allinei ai suoi bizzarri ideali. Un incontro particolare sconvolgerà le sue poche certezze. MAMBO KIDS (Italia/2026) di Emanuele Tresca (20’) In una giornata di fine estate, Alessandro e Flavio vanno alla ricerca degli ultimi segreti della loro città. I sentieri li conducono verso luoghi inesplorati, mentre il tempo sembra sospeso. Poi, lentamente, tutto svanisce. TUTTO TEMPO PERSO (Italia/2026) di Vincenzo Pezone (11’) Nella sua prima estate da divorziato, Bruno cerca di legare con il figlio…",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-visioni-italiane-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
-   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
-   "country": "Italia",
-   "duration": 98,
-   "genre": "Commedia",
-   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
-   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
   },
   "https://www.circuitocinemabologna.it/film/fatherland": {
    "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
@@ -3838,6 +5952,18 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
+  "https://jolly.popupcinema.18tickets.it/film/123765": {
+   "year": 2026,
+   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
+   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
+   "genre": "Commedia, Dramma",
+   "duration": 114,
+   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
+  },
   "https://medica.popupcinema.18tickets.it/film/126636": {
    "year": 2026,
    "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Paola Giannini, Samue... Trama Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca. Info 118 min",
@@ -3869,6 +5995,29 @@
    "plot": "Scritto da Didi Gnocchi e Antonella Beccaria, con la partecipazione di Fabrizio Gifuni. Regia Simona Risi. Prodotto da 3D Produzioni in collaborazione con La7 e FRAME. La serie racconta come è nata la P2, come si è finanziata quella rete, chi l’ha protetta e quale ombra ha proiettato sulle stragi della Repubblica. Fabrizio Gifuni guida lo spettatore da uno studio-archivio: lavagne, carte, filmati e atti processuali. Intorno a lui parlano i magistrati che hanno indagato, gli storici, i giornalisti, i familiari delle vittime. Le fonti seguono una gerarchia precisa: sentenze definitive, atti parlamentari, storiografia, stampa d’epoca. Le testimonianze sono sempre dichiarate come tali. È una storia di inchieste bloccate, di depistaggi e di occasioni perdute. Ed è anche la storia di chi non si è fermato: i magistrati, la Commissione Anselmi, l’Associazione dei familiari delle vittime del 2 agosto, che ha ritrovato il documento da cui è partita l’inchiesta sui mandanti. Intervengono : Antonella Beccaria (autrice della serie), Gherardo Colombo (ex magistrato), Gian Luca Farinelli (Direttore Cineteca di Bologna), Fabrizio Gifuni (attore), Didi Gnocchi (autrice e produttrice della serie), Paolo Lamberti n i (Presidente Associazione tra i familiari delle vittime della strage alla stazione di Bologna del 2 agosto 1980), Matteo Lepore (Sindaco di Bologna) e Andrea Salerno (Direttore DI La7). Eventuali dettagli e info contatti: Tel: +39 051 2194150 Email:…",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/P2_poster_FULL_DEF_HORIZONTAL-1-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/123732": {
+   "year": 2026,
+   "cast": "Bill Hader, Xochitl Gomez, Tiago Martinez, Matt Berry, Quinta Brunson, Bowen Yang, America Ferrera, Paula Pell, Tituss Burges... Trama Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima. Info 100 min",
+   "plot": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+   "genre": "Animazione, Avventura, Commedia",
+   "duration": 100,
+   "trailer": "https://www.youtube.com/watch?v=bCZo-8YVjgs",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123732/standard_c36c8170-8176-487a-b743-a4a8daaf20a9.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
+  },
+  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
+   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
+   "country": "Italia",
+   "duration": 98,
+   "genre": "Commedia",
+   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
+   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-doc-8": {
    "plot": "Fare cinema a Bologna e in Emilia-Romagna ÚLTIMO DÍA EN LA HABANA (Italia-Cuba/2026) di Ivano Lollo (6’) Attraversare il centro dell’Avana e filmarlo con una vecchia cinepresa Super8, su pellicola scaduta e con montaggio in camera: un gesto istintivo e urgente, nel tentativo estremo di fissare una realtà destinata inesorabilmente a mutare. Visioni Doc COM’ERO IO (Italia/2025) di Giusi Restifo (25’) Aurora è una ragazza di diciotto anni affetta da una dismorfia dento-scheletrica. In attesa dell’intervento che le modificherà il volto, fa i conti con la percezione di sé stessa. Scoprirà cosa vuol dire cambiare per sempre. OSCENA (Italia/2026) di Gaia Siria Meloni (14’) Corpi femminili inquisiti, sorvegliati e puniti al fine di mantenere in vita istituzioni capitaliste e patriarcali. Questa è la storia possibile di corpi ribelli che riprendono il loro spazio entrando finalmente in scena. IL SILENZIO DEI MELOGRANI (Italia-Francia/2025) di Clara Baj (9’) In una cittadina della Calabria, una donna rompe il silenzio che circonda la questione dell’aborto nella regione. Denunciando gli abusi delle istituzioni sanitarie e le disuguaglianze che le donne devono affrontare. SUEÑA AHORA (Italia-Cuba/2025) di Gabriele Licchelli, Francesco Lorusso e Andrea Settembrini (20’) A Cuba, ormai da mesi, si verificano blackout continui. Nell’oscurità, l’isola non dorme più: sogna. Pian piano la realtà svanisce, lasciando spazio all’immaginazione e all’inconscio. IL VELO DEI SENSI (Italia/2026) di…",
@@ -3983,6 +6132,29 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_animate-italiane-doc-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
+  "https://jolly.popupcinema.18tickets.it/film/130962": {
+   "year": 2025,
+   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 131 min",
+   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+   "genre": "Thriller, Dramma, Crime",
+   "duration": 131,
+   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
+  },
+  "https://medica.popupcinema.18tickets.it/film/131058": {
+   "year": 2026,
+   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
+   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
+   "genre": "Avventura, Fantascienza, Azione",
+   "duration": 158,
+   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-doc-9": {
    "plot": "Fare cinema a Bologna e in Emilia-Romagna MEMORABILIA (Italia/2026) di Domenico Parrino (14’) Il documentario segue la vita di un collezionista, tra mercatini, scaffali, mostre e lo stadio. Al valore storico della raccolta s’intreccia quello affettivo: la memoria di un padre, il legame con il figlio e una passione che attraversa le generazioni. Visioni Doc IMAGING (Italia/2025) di Chiara Ferretti (43’) “Imaging” in medicina fa riferimento ai processi attraverso i quali è possibile osservare l’area di un organismo non visibile dall’esterno. Nel documentario osserviamo dall’interno i meccanismi di un settore in cui il corpo, strumento di lavoro, diventa immagine. VENTISETTE - RITRATTO DI SORELLA (Italia/2026) di Sara Schiavone (20’) Maria e Lucia, due anziane sorelle, ricordano la loro giovinezza durante la Seconda guerra mondiale. La più piccola viveva lontana dalla famiglia, ma non patì la miseria come la maggiore, costretta sotto le macerie di una Roma bombardata. VABBÈ (Italia/2026) di Marie Audiffren (16’) Senza un soldo, Alex si lancia in un’impresa impossibile: vendere la riproduzione sbiadita della Natività che raccoglie polvere nella sua cucina. Con il quadro sottobraccio, gironzola nel quartiere di Ballarò, a Palermo.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-_-visioni-doc-1200x630.jpg",
@@ -4023,6 +6195,18 @@
    "wd_checked": true,
    "country": "Stati Uniti, Regno Unito"
   },
+  "https://arlecchino.popupcinema.18tickets.it/film/117199": {
+   "year": 2026,
+   "cast": "Robert Pattinson, Skyler Gisondo, Merritt Wever, Phoebe Bridgers, Matthew Maher, Bokeem Woodbine, Alex Winter, Anna Faris, Er... Trama Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile. Info 110 min",
+   "plot": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+   "genre": "Thriller, Dramma",
+   "duration": 110,
+   "trailer": "https://www.youtube.com/watch?v=oqUNNy-J1Rs",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/117199/standard_726065af-2010-4981-8d35-56804a9ba2b5.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/fare-cinema-a-bologna-e-in-emilia-romagna-visioni-italiane-5": {
    "plot": "Fare cinema a Bologna e in Emilia-Romagna C’È TROPPO SOLE – IL MAGICO VIAGGIO DI SETTECAPPOTTI IN CIRENAICA (Italia/2026) di Andrea Recchia (21’) Umberto Stignani, detto “Settecappotti”, era un popolare personaggio della Bologna anni Settanta, uomo mite che trasportava in bicicletta scatoloni e bidoni vuoti, avvolto in diversi cappotti anche d’estate. Lo seguiamo per le vie del quartiere-villaggio della Cirenaica. Visioni Italiane GLI INNAMORATI (Italia/2025) di Martina Viviani (15’) Laura e Davide stanno insieme da tanti anni. Quando la ragazza torna da un viaggio e trova la sua pesciolina morta, qualcosa in lei si incrina: piccoli gesti, parole sottili e silenzi sospesi la spingono a guardare il loro rapporto con occhi diversi. LA PISTOLA DI ČECHOV (Italia/2026) di Eleonora Maiolino (14’) Matteo, aspirante attore, e il suo coinquilino Daniele vedono la loro quotidianità sconvolta dal ritrovamento di una pistola. Una semplice stranezza si trasforma presto in un gioco pericoloso. GUSCI (Italia/2026) di Elisa Chiari, Francesca Trovato (16’) Dodici uova benedette proteggono l’imminente matrimonio di Lucia dal malocchio. Quando ne spariscono due, la sorella maggiore Elena è chiamata a recuperarle. Il suo compito si trasforma in un viaggio nella superstizione e nei legami familiari. GIRLS: SEQUOIA ADVENTURES (Italia-Bulgaria/2026) di Viktor Ivanov, Edoardo Pasquini (16’) Due assistenti di produzione, lasciati a sorvegliare l’attrezzatura dopo una ripresa nel bosco, ammazzano il…",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_fare-cinema-visioni-italiane-1200x630.jpg",
@@ -4049,6 +6233,41 @@
    "plot": "Il controcampo presuppone sempre un campo: qualcuno che guarda e qualcuno che viene guardato. La rassegna Controcampo nasce proprio da questa tensione: cosa accade quando due punti di vista non coincidono? Quando uno sguardo incontra un altro sguardo e qualcosa si rompe? I corti indagano il tema del conflitto e del punto di rottura, attraverso relazioni, corpi e situazioni in cui l’equilibrio viene messo in discussione. A cura di Osso Collettivo e Riccardo Ambrosi.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-14.52.17.png",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://medica.popupcinema.18tickets.it/film/131025": {
+   "year": 2026,
+   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
+   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
+   "genre": "Avventura, Fantascienza, Azione",
+   "duration": 158,
+   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/130962": {
+   "year": 2025,
+   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 131 min",
+   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+   "genre": "Thriller, Dramma, Crime",
+   "duration": 131,
+   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/131125": {
+   "year": 2025,
+   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 130 min",
+   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+   "genre": "Thriller, Dramma, Crime",
+   "duration": 130,
+   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/produrre-cinema-indipendente-malgrado-tutto": {
    "plot": "Il panorama produttivo del nostro cinema, anche solo rispetto a qualche anno fa, si è arricchito di alcune figure importanti, nonostante politiche spesso incerte e contraddittorie e una congiuntura internazionale che certamente non aiuta un’idea di cinema differente. È possibile mettere in campo, a livello nazionale, strategie per uscire dall’angolo e immaginare che questa fase di trasformazione internazionale non si concluda con una sostanziale omologazione della produzione cinematografica italiana? Incontro con Marica Stocchi (Rosamont), produttrice, Ines Vasiljevic (Nightswim), produttrice, Marta Donzelli e Gregorio Paonessa (Vivofilm), produttori, Andrea Calbucci (Lungta Film), produttore, Simone Catania (Indyca), autore e produttore, Andrea Segre (Zalab), autore e distributore. Moderano Gian Luca Farinelli ed Emiliano Morreale",
@@ -4082,6 +6301,17 @@
    "trailer": "https://www.youtube.com/watch?v=OccgnXAP7YE",
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2022/12/REEL-NEW-22.10-3.png",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://jolly.popupcinema.18tickets.it/film/122643": {
+   "year": 2026,
+   "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Angela Bassett, Awkwafina, Jake Johnson, Charlie Day, A... Trama Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola. Info 132 min",
+   "plot": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+   "genre": "Animazione, Avventura, Fantasy",
+   "duration": 132,
+   "trailer": "https://www.youtube.com/watch?v=7rQ_JSUt_bs",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122643/standard_8eb0f03e-71f6-4448-a11e-6756ac24c219.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true
   },
   "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-doc": {
    "plot": "Visioni Animate LO SCRIVANO (Italia/2026) di Francesco Romanelli (8’) Berlach si alza dalla sua bara, nel retrobottega di un becchino. È, o almeno era, morto: sa di essersi ucciso ma non sa il perché. Vaga quindi senza meta in una città desolata, in cerca di risposte. Visioni Doc NON PARLO SOLO DI ME (Italia/2026) di Milano Film Fest Collettivo (25’) Cosa significa desiderare oggi? Attraverso un mosaico di voci, volti ed esperienze, il film esplora il tema del desiderio come dimensione personale, politica e urbana, componendo il ritratto di una generazione che si interroga sul presente e sul futuro. CLEMENTE (Italia/2026) di Francesca Florio (6’) Il viaggio di una figlia alla ricerca del volto di un uomo, suo padre. Un’impresa impossibile, da cui nasce però la scoperta di sé. Quando non conosci le tue origini come fai a sapere veramente chi sei? A MOVING PANORAMA (Italia/2026) di Nicola Eddy (16’) Una voce narrante guida lo spettatore nell’esplorazione di un panorama di memorie familiari. Il paesaggio, inizialmente compatto e lineare, si divide e si ricompone, le immagini crescono fino a trasformarsi in qualcosa di più complesso. ARI (Italia/2026) di Teresa Nerozzi (20’) Ari ha lasciato il Venezuela per intraprendere la transizione di genere. Ma anche a Palermo la libertà ha un prezzo: per trovare lavoro deve presentarsi come Cristian, un nome che non sente più suo. LÉA EST PARTIE AVEC LES FLEURS (Italia/2025) di Francesco Alessandro Cogliati (17’) Léa è una presenza…",
@@ -4180,6 +6410,17 @@
    "trailer": "https://www.youtube.com/watch?v=bwvMjC5LYEs",
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/10/facebook.png",
    "fetched_at": "2026-11-16T14:35+01:00"
+  },
+  "https://jolly.popupcinema.18tickets.it/film/122644": {
+   "year": 2026,
+   "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Angela Bassett, Awkwafina, Jake Johnson, Charlie Day, A... Trama Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola. Info 127 min",
+   "plot": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+   "genre": "Animazione, Avventura, Fantasy",
+   "duration": 127,
+   "trailer": "https://www.youtube.com/watch?v=7rQ_JSUt_bs",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122644/standard_a4cc4800-5b11-46f0-8262-c654734c6a99.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true
   },
   "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti": {
    "country": "Italia",
@@ -4305,6 +6546,14 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/03/PREF_8f65d0335266f626437052f76138c31e-1200x630.jpeg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
+  "https://arlecchino.popupcinema.18tickets.it/film/131157": {
+   "year": 2026,
+   "cast": "Paola Lara, Juan Ramón López, Tenoch Huerta Trama Dove finisce il sangue versato dai cartelli messicani, iniziano gli incubi. Ingurgitata da una città fantasma dopo la brutale sparizione della madre, la piccola Estrella trova rifugio in un branco di bambini randagi, orfani dimenticati da Dio e dagli uomini. Braccati da sicari spietati e perseguitati da spiriti inquieti che strisciano fuori dalle ombre per reclamare vendetta, i piccoli protagonisti dovranno armarsi del coraggio delle tigri per non soccombere. Una favola nera, lirica e sanguinante, in cui la magia oscura si fonde al crudo realismo: perché in questo mondo i mostri più feroci non sussurrano sotto il letto, ma sparano alla luce del sole. Info 83 min",
+   "plot": "Dove finisce il sangue versato dai cartelli messicani, iniziano gli incubi. Ingurgitata da una città fantasma dopo la brutale sparizione della madre, la piccola Estrella trova rifugio in un branco di bambini randagi, orfani dimenticati da Dio e dagli uomini. Braccati da sicari spietati e perseguitati da spiriti inquieti che strisciano fuori dalle ombre per reclamare vendetta, i piccoli protagonisti dovranno armarsi del coraggio delle tigri per non soccombere. Una favola nera, lirica e sanguinante, in cui la magia oscura si fonde al crudo realismo: perché in questo mondo i mostri più feroci non sussurrano sotto il letto, ma sparano alla luce del sole.",
+   "duration": 83,
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131157/standard_63bf956f-8216-4572-8a30-7993e8820068.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/i-swear": {
    "country": "GB",
    "year": 2025,
@@ -4328,6 +6577,18 @@
    "plot": "Sinfonia postmoderna d’una grande città, ricamo di citazioni affidate a un bianco e nero di bellezza vertiginosa. Ike Davis, scrittore ebreo che ha già i suoi problemi con le donne, s’innamora di Mary Wilkie, giornalista wasp, “nervosa, tesa, elusiva”. L’amore è un lento crescendo musicale tra appartamenti in penombra, sale del Whitney, il Central Park dei temporali estivi, le sfere celesti del Planetarium, quella panchina con vista sul Brooklyn Bridge. Il nuovo cinema americano, se ancora di questo possiamo parlare, trova qui il vertice estetico e il definitivo punto di fuga. (pcris)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2021/10/Manhattan_16-scaled.jpg",
    "fetched_at": "2026-11-16T00:57+01:00"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/43245": {
+   "year": 2025,
+   "cast": "Eva Victor, Naomi Ackie, Louis Cancelmi, Kelly Mc Cormack, Lucas Hedges, John Carroll Lynch, Hettienne Park, E.R. Fightmaster... Trama Agnes è una giovane e brillante docente universitaria. Quando succede \"la cosa brutta\", il suo mondo va in pezzi, ma tutto accade improvvisamente e senza clamore, quasi in punta di piedi. Ci vorrebbe tempo, ma la vita va avanti. Almeno per tutti gli altri. Eva Victor dirige e interpreta un’esplorazione delicata e ironica sul tema del superamento di un abuso, un’opera sincera, genuina e irresistibilmente divertente. Info 103 min",
+   "plot": "Agnes è una giovane e brillante docente universitaria. Quando succede \"la cosa brutta\", il suo mondo va in pezzi, ma tutto accade improvvisamente e senza clamore, quasi in punta di piedi. Ci vorrebbe tempo, ma la vita va avanti. Almeno per tutti gli altri. Eva Victor dirige e interpreta un’esplorazione delicata e ironica sul tema del superamento di un abuso, un’opera sincera, genuina e irresistibilmente divertente.",
+   "genre": "Commedia, Dramma",
+   "duration": 103,
+   "trailer": "https://www.youtube.com/watch?v=RHU8TBio-L0",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/43245/standard_c084aa57-0a1b-4ea8-8e02-5fdf85c161f9.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true,
+   "country": "Spagna, Stati Uniti, Francia"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/cenere-e-diamanti": {
    "country": "Polonia",
