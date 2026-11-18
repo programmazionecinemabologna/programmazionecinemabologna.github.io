@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:49+01:00",
+ "generated_at": "2026-11-18T14:53+01:00",
  "sources": {
   "ccb": {
    "ok": true,
@@ -140,7 +140,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23588",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
@@ -153,8 +153,7 @@
    "start": "2026-11-18T12:00+01:00",
    "vos": false,
    "tags": [
-    "Appuntamento",
-    "ingresso libero con prenotazione"
+    "Appuntamento"
    ],
    "ita": false,
    "buy": null,
@@ -390,7 +389,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/103271",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23566",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
@@ -568,7 +567,7 @@
    "title": "Il canto della foresta",
    "director": "Vincent Munier",
    "start": "2026-11-18T19:00+01:00",
-   "vos": false,
+   "vos": true,
    "tags": [
     "Prima visione esclusiva"
    ],
@@ -828,7 +827,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/103271",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23567",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
