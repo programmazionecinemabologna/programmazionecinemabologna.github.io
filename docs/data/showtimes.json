@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-19T05:08+01:00",
+ "generated_at": "2026-11-19T15:22+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 206
+   "count": 204
   },
   "cineteca": {
    "ok": true,
-   "count": 131
+   "count": 124
   },
   "popup": {
    "ok": true,
@@ -141,32 +141,6 @@
    "info": "https://arlecchino.popupcinema.18tickets.it/film/116538",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/116538/standard_6c8614c5-a3f5-4cbb-8010-65037fc2e8cb.jpg",
    "film": "https://arlecchino.popupcinema.18tickets.it/film/116538"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "Un tranquillo funerale di famiglia",
-   "director": "Massimiliano Bruno",
-   "start": "2026-11-19T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864352#sala",
-   "info": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Look Back",
-   "director": "Hirokazu Kore Eda",
-   "start": "2026-11-19T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/864305#sala",
-   "info": "https://www.circuitocinemabologna.it/film/look-back/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/look-back"
   },
   {
    "cinema": "europa",
@@ -922,23 +896,6 @@
    "film": "https://jolly.popupcinema.18tickets.it/film/123765"
   },
   {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Controcampo | Rassegna di cortometraggi animati",
-   "director": null,
-   "start": "2026-11-20T15:00+01:00",
-   "vos": false,
-   "tags": [
-    "Appuntamento",
-    "ingresso libero"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati/?repeat=23255",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-14.52.17.png",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati"
-  },
-  {
    "cinema": "odeon",
    "sala": "Sala D",
    "title": "Un tranquillo funerale di famiglia",
@@ -965,22 +922,6 @@
    "film": "https://www.circuitocinemabologna.it/film/look-back"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-20T15:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23633",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
    "cinema": "europa",
    "sala": null,
    "title": "Fatherland",
@@ -992,22 +933,6 @@
    "info": "https://www.circuitocinemabologna.it/film/fatherland/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp",
    "film": "https://www.circuitocinemabologna.it/film/fatherland"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-20T15:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23593",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "medica",
@@ -1101,6 +1026,22 @@
    "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-20T16:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23633",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "19:00 il canto della foresta",
@@ -1166,38 +1107,6 @@
    "info": "https://www.circuitocinemabologna.it/film/look-back/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
    "film": "https://www.circuitocinemabologna.it/film/look-back"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-20T17:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23659",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Minotaur",
-   "director": "Andrey Zvyagintsev",
-   "start": "2026-11-20T17:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23626",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
   {
    "cinema": "odeon",
@@ -1401,38 +1310,6 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
   },
   {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-20T20:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23594",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-20T20:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23605",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
    "cinema": "bristol",
    "sala": null,
    "title": "Se domani non torno",
@@ -1618,38 +1495,6 @@
    "info": "https://www.circuitocinemabologna.it/film/lestranea/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
    "film": "https://www.circuitocinemabologna.it/film/lestranea"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-20T22:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23660",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-20T22:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23606",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "cervi",
@@ -1856,7 +1701,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23607",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23605",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -1911,7 +1756,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23661",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23659",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -2074,7 +1919,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23595",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23593",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
@@ -2119,7 +1964,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23608",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23606",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2215,7 +2060,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23627",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23626",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
@@ -2274,7 +2119,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23662",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23660",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -2355,7 +2200,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23609",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23607",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2506,7 +2351,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23596",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23594",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
@@ -2595,7 +2440,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23663",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23661",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -2624,7 +2469,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23610",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23608",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2655,7 +2500,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23664",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23662",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -2750,7 +2595,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23611",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23609",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2860,7 +2705,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23612",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23610",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2976,7 +2821,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23665",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23663",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -3096,7 +2941,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23597",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23595",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
@@ -3125,7 +2970,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23613",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23611",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3294,7 +3139,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23628",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23627",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
@@ -3336,7 +3181,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23666",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23664",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -3394,7 +3239,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23614",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23612",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3569,7 +3414,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23598",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23596",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
@@ -3629,7 +3474,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23667",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23665",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -3645,7 +3490,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23615",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23613",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3798,7 +3643,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23616",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23614",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3831,7 +3676,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23629",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23628",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
@@ -3951,7 +3796,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23599",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23597",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
@@ -4040,7 +3885,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23668",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23666",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -4192,7 +4037,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23617",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23615",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -4374,7 +4219,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23669",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23667",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -4416,7 +4261,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23618",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23616",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -4630,7 +4475,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23600",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23598",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
@@ -4646,7 +4491,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23670",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23668",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -4766,7 +4611,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23619",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23617",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -4869,7 +4714,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23630",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23629",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
@@ -5009,7 +4854,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23620",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23618",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -5187,7 +5032,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23671",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23669",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -5246,9 +5091,25 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23621",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23619",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
+  },
+  {
+   "cinema": "lumiere",
+   "sala": "Sala Scorsese",
+   "title": "Minotaur",
+   "director": "Andrey Zvyagintsev",
+   "start": "2026-11-25T10:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23630",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
   {
    "cinema": "arlecchino",
@@ -5327,7 +5188,7 @@
    ],
    "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23643",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23675",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
@@ -5408,7 +5269,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23622",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23620",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -5440,7 +5301,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23672",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23670",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -5589,7 +5450,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23601",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23599",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
@@ -5660,7 +5521,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23673",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23671",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -5812,7 +5673,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23623",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23621",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -5857,7 +5718,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23631",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23677",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
   },
@@ -5964,7 +5825,7 @@
    ],
    "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23644",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23676",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
@@ -6006,7 +5867,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23674",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23672",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
@@ -6064,7 +5925,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23624",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23622",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -6991,28 +6852,6 @@
    "wd_checked": true,
    "country": "Stati Uniti"
   },
-  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
-   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
-   "country": "Italia",
-   "duration": 98,
-   "genre": "Commedia",
-   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
-   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/look-back": {
-   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
-   "country": "Giappone",
-   "duration": 100,
-   "genre": "Drammatico",
-   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
-   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
-  },
   "https://www.circuitocinemabologna.it/film/fatherland": {
    "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
    "country": "Polonia",
@@ -7167,6 +7006,17 @@
    "still": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
    "fetched_at": "2026-11-15T18:44+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/look-back": {
+   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
+   "country": "Giappone",
+   "duration": 100,
+   "genre": "Drammatico",
+   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
+   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva": {
    "country": "Francia, Italia",
@@ -7380,10 +7230,16 @@
    "wd_checked": true,
    "country": "Italia"
   },
-  "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati": {
-   "plot": "Il controcampo presuppone sempre un campo: qualcuno che guarda e qualcuno che viene guardato. La rassegna Controcampo nasce proprio da questa tensione: cosa accade quando due punti di vista non coincidono? Quando uno sguardo incontra un altro sguardo e qualcosa si rompe? I corti indagano il tema del conflitto e del punto di rottura, attraverso relazioni, corpi e situazioni in cui l’equilibrio viene messo in discussione. A cura di Osso Collettivo e Riccardo Ambrosi.",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-14.52.17.png",
-   "fetched_at": "2026-11-15T18:44+01:00"
+  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
+   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
+   "country": "Italia",
+   "duration": 98,
+   "genre": "Commedia",
+   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
+   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
   },
   "https://medica.popupcinema.18tickets.it/film/131025": {
    "year": 2026,
