@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T00:33+01:00",
+ "generated_at": "2026-11-20T14:58+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 178
+   "count": 179
   },
   "cineteca": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "galliera": {
    "ok": true,
-   "count": 23
+   "count": 20
   }
  },
  "cinemas": [
@@ -1625,13 +1625,13 @@
    "title": "La ragazza con la Leica",
    "director": "Alina Marazzi",
    "start": "2026-11-21T21:30+01:00",
-   "vos": false,
+   "vos": true,
    "tags": [
     "Evento speciale",
     "Visioni Italiane 2026",
     "Incontro con Alina Marazzi"
    ],
-   "ita": true,
+   "ita": false,
    "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/102941",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-leica/?repeat=23299",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/114329-LA_RAGAZZA_CON_LA_LEICA__THE_GIRL_WITH_THE_LEICA__-_Actress_Emilia_Sch__le__Credits_Manuel_Alberto_Claro___1_-1_11zon-scaled.jpg",
@@ -5275,6 +5275,21 @@
    "film": "https://www.cinemateatrogalliera.it/la-leggenda-di-zagor"
   },
   {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-26T21:00+01:00",
+   "vos": true,
+   "tags": [
+    "Evento"
+   ],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord_2026-ba66c4a6-183a-47d8-9c80-53e6b6cd21f8/865963#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-v-o-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/08cul-fjord-review-qgtj-videoSixteenByNine3000.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-v-o-2"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Minnie and Moskowitz",
@@ -6987,6 +7002,17 @@
    "trailer": "https://www.youtube.com/watch?v=goThhCWwzoY",
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/11/Copia-di-REEL-NEW-12.11-2.png",
    "fetched_at": "2026-11-17T00:23+01:00"
+  },
+  "https://www.circuitocinemabologna.it/film/fjord-v-o-2": {
+   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
+   "country": "Romania",
+   "duration": 146,
+   "genre": "Drammatico",
+   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
+   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/08cul-fjord-review-qgtj-videoSixteenByNine3000.webp",
+   "fetched_at": "2026-11-20T14:58+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/08cul-fjord-review-qgtj-videoSixteenByNine3000.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/green-rossellini": {
    "plot": "Selezione di episodi da: Green Porno (USA/2008, 27’), Seduce Me (USA/2010, 10’), Mammas (USA/2011, 22’) di Isabella Rossellini “Robert Redford ha visto Mio padre ha 100 anni e mi ha spinto a continuare nella regia. Mi propose di fare una serie di film di non più di due minuti l’uno, su un tema ambientalista. È nato così Green Porno. Piccole storie sugli accoppiamenti degli animali di cui sono stata sceneggiatrice, costumista, interprete e regista”. Gli animali sono il filo che collega altri due progetti audiovisivi come Seduce Me e Mammas , che indaga l’istinto materno in natura. Tra etologia e rêverie , Isabella Rossellini ritorna all’infanzia del cinema per condividere, con ironia e profondità, uno sguardo ecologico sul mondo.",
