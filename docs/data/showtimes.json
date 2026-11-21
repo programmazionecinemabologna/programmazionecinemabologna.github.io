@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T04:56+01:00",
+ "generated_at": "2026-11-21T14:25+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 151
+   "count": 150
   },
   "cineteca": {
    "ok": true,
@@ -138,8 +138,7 @@
    "vos": false,
    "tags": [
     "Appuntamento",
-    "Visioni Italiane 2026",
-    "ingresso libero"
+    "Visioni Italiane 2026"
    ],
    "ita": false,
    "buy": null,
@@ -155,8 +154,7 @@
    "start": "2026-11-21T11:00+01:00",
    "vos": false,
    "tags": [
-    "Appuntamento",
-    "ingresso libero con prenotazione"
+    "Appuntamento"
    ],
    "ita": false,
    "buy": null,
@@ -176,7 +174,7 @@
     "Visioni Italiane 2026"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106374",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-proiezione-dei-cinque-corti-finalisti-selezionati-dalla-giuria/?repeat=23499",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_concorso.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-proiezione-dei-cinque-corti-finalisti-selezionati-dalla-giuria"
@@ -193,21 +191,6 @@
    "info": "https://medica.popupcinema.18tickets.it/film/124755",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
    "film": "https://medica.popupcinema.18tickets.it/film/124755"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala C",
-   "title": "L’eco dei fiori sommersi",
-   "director": "Rosa Maietta",
-   "start": "2026-11-21T14:00+01:00",
-   "vos": false,
-   "tags": [
-    "Incontro"
-   ],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-eco-dei-fiori-sommersi_2025/864563#sala",
-   "info": "https://www.circuitocinemabologna.it/film/leco-dei-fiori-sommersi/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/l_eco-dei-fiori-sommersi-1-scaled-1.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/leco-dei-fiori-sommersi"
   },
   {
    "cinema": "arlecchino",
@@ -5617,17 +5600,6 @@
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
    "fetched_at": "2026-11-15T18:44+01:00",
    "wd_checked": true
-  },
-  "https://www.circuitocinemabologna.it/film/leco-dei-fiori-sommersi": {
-   "cast": "Elena Belli, Paola Maria Cacace, Diana Del Franco, Laura Mammone, Emanuela Parisi, Annapaola Petrosino, Valentina Piscopo",
-   "country": "Italia",
-   "duration": 68,
-   "genre": "Documentario",
-   "plot": "Il corpo delle donne e' il campo di battaglia su cui si gioca il destino del mondo. Come quello di Linda, che incinta dell’uomo di cui si era innamorata mentre il marito era al fronte, decide di abortire per evitare la vergogna. O quello di Emma, operaia sovversiva avversata dal fascismo fino all’esilio e alla reclusione. O quello di Giovannina, vittima di un fidanzato possessivo e violento. Il film entra letteralmente nei faldoni conservati all’Archivio di Stato di Napoli, per comporre un corpo di donne lontane nel tempo, dimenticate, silenti, a partire da sentenze e perizie, cimeli dissepolti, fino ad arrivare ad instaurare con loro un dialogo. È il tempo stesso che tesse i fili di un racconto che restituisce a queste donne e alle loro storie una voce che non hanno mai avuto e che riecheggia con forza e come non mai nel tempo presente.",
-   "trailer": "https://www.youtube.com/watch?v=hZYZf10evFE",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/l_eco-dei-fiori-sommersi-1-scaled-1.jpg",
-   "fetched_at": "2026-11-18T00:50+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/l_eco-dei-fiori-sommersi-1-scaled-1.jpg"
   },
   "https://arlecchino.popupcinema.18tickets.it/film/130962": {
    "year": 2025,
