@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T14:25+01:00",
+ "generated_at": "2026-11-21T21:29+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 150
+   "count": 125
   },
   "cineteca": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "popup": {
    "ok": true,
-   "count": 98
+   "count": 86
   },
   "galliera": {
    "ok": true,
@@ -180,58 +180,6 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-proiezione-dei-cinque-corti-finalisti-selezionati-dalla-giuria"
   },
   {
-   "cinema": "medica",
-   "sala": null,
-   "title": "Wild horse nine",
-   "director": "Martin Mc Donagh",
-   "start": "2026-11-21T14:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://medica.popupcinema.18tickets.it/film/124755/444542b0-122f-45dd-9b54-3136e58781ef#theater-init",
-   "info": "https://medica.popupcinema.18tickets.it/film/124755",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
-   "film": "https://medica.popupcinema.18tickets.it/film/124755"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "La ballata del re delle api",
-   "director": "Andrew Patterson",
-   "start": "2026-11-21T14:10+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/a661435f-e531-4196-9cef-3250a62406c3#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
-  },
-  {
-   "cinema": "bristol",
-   "sala": null,
-   "title": "Dio ride",
-   "director": "Giovanni Veronesi",
-   "start": "2026-11-21T14:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/341ced7c-8e25-4e28-99a1-5fe57026f64c#theater-init",
-   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
-  },
-  {
-   "cinema": "jolly",
-   "sala": null,
-   "title": "Dio ride",
-   "director": "Giovanni Veronesi",
-   "start": "2026-11-21T14:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://jolly.popupcinema.18tickets.it/film/123765/d45410c9-1d33-4b5c-bf2a-1f7e323a3b29#theater-init",
-   "info": "https://jolly.popupcinema.18tickets.it/film/123765",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "film": "https://jolly.popupcinema.18tickets.it/film/123765"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Premio Luca De Nigris",
@@ -240,8 +188,7 @@
    "vos": false,
    "tags": [
     "Appuntamento",
-    "Visioni Italiane 2026",
-    "ingresso libero"
+    "Visioni Italiane 2026"
    ],
    "ita": false,
    "buy": null,
@@ -261,49 +208,10 @@
     "Visioni Italiane 2026"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106406",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-5/?repeat=23500",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_concorso.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-italiane-5"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "Un tranquillo funerale di famiglia",
-   "director": "Massimiliano Bruno",
-   "start": "2026-11-21T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864355#sala",
-   "info": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Look Back",
-   "director": "Hirokazu Kore Eda",
-   "start": "2026-11-21T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/864314#sala",
-   "info": "https://www.circuitocinemabologna.it/film/look-back/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/look-back"
-  },
-  {
-   "cinema": "europa",
-   "sala": null,
-   "title": "Fatherland",
-   "director": "Paweł Pawlikowski",
-   "start": "2026-11-21T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://europa.ccb.18tickets.it/film/fatherland_2026/864104#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fatherland/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fatherland"
   },
   {
    "cinema": "lumiere",
@@ -316,49 +224,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23605",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "Je so’ pazzo",
-   "director": "Nicola Prosatore",
-   "start": "2026-11-21T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/je-so-pazzo_2026/864191#sala",
-   "info": "https://www.circuitocinemabologna.it/film/je-so-pazzo/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/je-so-pazzo_1-scaled-1.webp",
-   "film": "https://www.circuitocinemabologna.it/film/je-so-pazzo"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala C",
-   "title": "L'essere amato",
-   "director": "Rodrigo Sorogoyen",
-   "start": "2026-11-21T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864332#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
-   "film": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido"
-  },
-  {
-   "cinema": "roma",
-   "sala": null,
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-21T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/864185#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
   },
   {
    "cinema": "lumiere",
@@ -371,36 +240,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23659",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala A",
-   "title": "Il rumore delle cose nuove",
-   "director": "Paolo Genovese",
-   "start": "2026-11-21T16:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864137#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "film": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 1",
-   "title": "Wild Horse Nine",
-   "director": "Martin Mc Donagh",
-   "start": "2026-11-21T16:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864278#sala",
-   "info": "https://www.circuitocinemabologna.it/film/wild-horse-nine/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
-   "film": "https://www.circuitocinemabologna.it/film/wild-horse-nine"
   },
   {
    "cinema": "galliera",
@@ -416,58 +259,6 @@
    "film": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi"
   },
   {
-   "cinema": "medica",
-   "sala": null,
-   "title": "Hunger games l’alba sulla mietitura",
-   "director": "Francis Lawrence",
-   "start": "2026-11-21T16:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://medica.popupcinema.18tickets.it/film/131025/c7c3fa03-6a6a-40bf-bff9-9fd2b29616c3#theater-init",
-   "info": "https://medica.popupcinema.18tickets.it/film/131025",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
-   "film": "https://medica.popupcinema.18tickets.it/film/131025"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Godzilla minus zero",
-   "director": "T. YAMAZAKI",
-   "start": "2026-11-21T16:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129012/6fe6ee2e-6fd9-437f-ac37-4f2680d83228#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/129012",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/129012"
-  },
-  {
-   "cinema": "bristol",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-21T16:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/9f5f579b-0949-482a-87f2-479b8000d372#theater-init",
-   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
-  },
-  {
-   "cinema": "jolly",
-   "sala": null,
-   "title": "Wildwood – I segreti del bosco proibito",
-   "director": "Travis Knight",
-   "start": "2026-11-21T16:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://jolly.popupcinema.18tickets.it/film/122643/91eab6ff-5b2d-4df9-9c40-8bb06e91b398#theater-init",
-   "info": "https://jolly.popupcinema.18tickets.it/film/122643",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122643/standard_8eb0f03e-71f6-4448-a11e-6756ac24c219.jpg",
-   "film": "https://jolly.popupcinema.18tickets.it/film/122643"
-  },
-  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Visioni Animate / Visioni Doc",
@@ -479,49 +270,10 @@
     "Visioni Italiane 2026"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/106439",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-doc/?repeat=23501",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_animate-doc.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-doc"
-  },
-  {
-   "cinema": "europa",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-21T17:10+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864163#sala",
-   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "L’estranea",
-   "director": "Paolo Strippoli",
-   "start": "2026-11-21T17:10+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864367#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lestranea/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/lestranea"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Look Back",
-   "director": "Hirokazu Kore Eda",
-   "start": "2026-11-21T17:10+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/864315#sala",
-   "info": "https://www.circuitocinemabologna.it/film/look-back/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/look-back"
   },
   {
    "cinema": "lumiere",
@@ -534,7 +286,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23593",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
@@ -550,23 +302,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23635",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "Il fuoco che ti porti dentro",
-   "director": "Edoardo De Angelis",
-   "start": "2026-11-21T17:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/864208#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro"
   },
   {
    "cinema": "lumiere",
@@ -579,36 +318,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23606",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala C",
-   "title": "L'essere amato",
-   "director": "Rodrigo Sorogoyen",
-   "start": "2026-11-21T18:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864333#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
-   "film": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido"
-  },
-  {
-   "cinema": "roma",
-   "sala": null,
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-21T18:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/864186#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
   },
   {
    "cinema": "galliera",
@@ -626,45 +339,6 @@
    "film": "https://www.cinemateatrogalliera.it/lessere-amato"
   },
   {
-   "cinema": "odeon",
-   "sala": "Sala A",
-   "title": "Il rumore delle cose nuove",
-   "director": "Paolo Genovese",
-   "start": "2026-11-21T18:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864139#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "film": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 1",
-   "title": "Wild Horse Nine",
-   "director": "Martin Mc Donagh",
-   "start": "2026-11-21T18:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864279#sala",
-   "info": "https://www.circuitocinemabologna.it/film/wild-horse-nine/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
-   "film": "https://www.circuitocinemabologna.it/film/wild-horse-nine"
-  },
-  {
-   "cinema": "bristol",
-   "sala": null,
-   "title": "Dio ride",
-   "director": "Giovanni Veronesi",
-   "start": "2026-11-21T19:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/48eaeda4-3abe-4aec-8490-4f781d1c1fb6#theater-init",
-   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala DAMSLab",
    "title": "Minotaur",
@@ -675,7 +349,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/103271",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23626",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
@@ -692,36 +366,10 @@
     "Visioni Italiane 2026"
    ],
    "ita": true,
-   "buy": "https://cinetecabologna.18tickets.it/film/101955",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/roberto-perpignani-lemozione-dei-tagli-impropri/?repeat=23256",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Roberto-Perpignani-Lemozione-dei-tagli-impropri.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/roberto-perpignani-lemozione-dei-tagli-impropri"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Look Back",
-   "director": "Hirokazu Kore Eda",
-   "start": "2026-11-21T19:05+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/864316#sala",
-   "info": "https://www.circuitocinemabologna.it/film/look-back/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/look-back"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "La ballata del re delle api",
-   "director": "Andrew Patterson",
-   "start": "2026-11-21T19:10+01:00",
-   "vos": true,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/3ccdfc3f-72af-4692-a76c-ae4978a85d5e#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
   },
   {
    "cinema": "lumiere",
@@ -734,75 +382,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23660",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "europa",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-21T19:20+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://europa.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/864265#sala",
-   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
-  },
-  {
-   "cinema": "jolly",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-21T19:20+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/9d1d2608-85ad-4e99-b86c-1a9c8059ebdf#theater-init",
-   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "L’estranea",
-   "director": "Paolo Strippoli",
-   "start": "2026-11-21T19:20+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-estranea_2026-f394b759-becd-4d99-8167-127384813f1a/864368#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lestranea/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/lestranea"
-  },
-  {
-   "cinema": "medica",
-   "sala": null,
-   "title": "Wild horse nine",
-   "director": "Martin Mc Donagh",
-   "start": "2026-11-21T19:30+01:00",
-   "vos": true,
-   "tags": [],
-   "buy": "https://medica.popupcinema.18tickets.it/film/126636/34ad16a4-b58a-45d3-86cb-7dea8a9c9175#theater-init",
-   "info": "https://medica.popupcinema.18tickets.it/film/126636",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126636/standard_448df762-79c1-4a61-ba80-544cace3b892.jpg",
-   "film": "https://medica.popupcinema.18tickets.it/film/126636"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "Il fuoco che ti porti dentro",
-   "director": "Edoardo De Angelis",
-   "start": "2026-11-21T19:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/864209#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro"
   },
   {
    "cinema": "lumiere",
@@ -815,7 +398,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23607",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
@@ -831,49 +414,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://cinetecabologna.18tickets.it/film/92249",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23648",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala C",
-   "title": "L'essere amato",
-   "director": "Rodrigo Sorogoyen",
-   "start": "2026-11-21T21:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864329#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
-   "film": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Minotaur - Nel labirinto del potere",
-   "director": "Andrey Zvyagintsev",
-   "start": "2026-11-21T21:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/minotaur_2026/864345#sala",
-   "info": "https://www.circuitocinemabologna.it/film/minotaur/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/oHuzmxv1ZGUFv9CoN6ycwImVrhF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/minotaur"
-  },
-  {
-   "cinema": "roma",
-   "sala": null,
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-21T21:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/864187#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
   },
   {
    "cinema": "bristol",
@@ -887,32 +431,6 @@
    "info": "https://bristol.popupcinema.18tickets.it/film/126603",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
    "film": "https://bristol.popupcinema.18tickets.it/film/126603"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala A",
-   "title": "Il rumore delle cose nuove",
-   "director": "Paolo Genovese",
-   "start": "2026-11-21T21:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864140#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "film": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 1",
-   "title": "Wild Horse Nine",
-   "director": "Martin Mc Donagh",
-   "start": "2026-11-21T21:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864289#sala",
-   "info": "https://www.circuitocinemabologna.it/film/wild-horse-nine/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
-   "film": "https://www.circuitocinemabologna.it/film/wild-horse-nine"
   },
   {
    "cinema": "europa",
@@ -5590,53 +5108,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_concorso-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://medica.popupcinema.18tickets.it/film/124755": {
-   "year": 2026,
-   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Paola Giannini, Samue... Trama Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca. Info 118 min",
-   "plot": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-   "genre": "Commedia, Thriller, Crime",
-   "duration": 118,
-   "trailer": "https://www.youtube.com/watch?v=djscxQOf8bo",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true
-  },
-  "https://arlecchino.popupcinema.18tickets.it/film/130962": {
-   "year": 2025,
-   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 131 min",
-   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
-   "genre": "Thriller, Dramma, Crime",
-   "duration": 131,
-   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
-   "wd_checked": true,
-   "country": "Stati Uniti, Regno Unito"
-  },
-  "https://bristol.popupcinema.18tickets.it/film/123765": {
-   "year": 2026,
-   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
-   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
-   "genre": "Commedia, Dramma",
-   "duration": 114,
-   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
-  "https://jolly.popupcinema.18tickets.it/film/123765": {
-   "year": 2026,
-   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
-   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
-   "genre": "Commedia, Dramma",
-   "duration": 114,
-   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/premio-luca-de-nigris-2": {
    "plot": "Giunto alla ventisettesima edizione, dall’anno scorso il concorso è aperto agli istituti scolastici di tutta Italia, grazie al progetto A scuola di cinema, realizzato nell’ambito del Piano Nazionale Cinema e Immagini per la Scuola promosso da MiC e MIM. Proiezione e premiazione dei vincitori, alla presenza di alunni e docenti degli istituti partecipanti e dei membri della giuria. Intervengono Maria Vaccari e Fulvio De Nigris (Fondazione Gli Amici di Luca) Dai 6 anni in su",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/de_nigris_page-0001-e1761736353719-1200x630.jpg",
@@ -5646,39 +5117,6 @@
    "plot": "TAPIS ROULANT (Italia/2025) di Francesco Taverna (14’) Stefano, metodico collezionista di rancori e gratitudini, mette in scena la propria esistenza come uno spettacolo di marionette. Intrappolato su un tapis roulant, ripercorre ossessioni e rimpianti, incapace di distinguere torti subiti e favori ricevuti dalla vita. UN SOLE BELLISSIMO (Italia/2025) di Gabriele Manzoni (18’) Samu e Giosvi sono sull’orlo dell’età adulta, ma non hanno idea di cosa li attenda, come se il futuro fosse una strada pericolosa da percorrere insieme. Un viaggio a Roma potrebbe essere il punto di svolta delle loro vite. BRATISKA (Italia/2025) di Gregorio Mattiocco (16’) Hlib, un ragazzo ucraino rifugiato in Italia, vive con il fratellino Vlad in una condizione economica precaria. Quando un professore si presenta a casa per parlare della pagella, Vlad finge che sia un assistente sociale, sfruttando il fatto che Hlib non conosce l’italiano. EROI (Italia/2025) di Caterina Baglio (13’) Strada di periferia. Una bambina è stata lasciata sola in un’utilitaria parcheggiata. Un gruppo di passanti si raduna attorno al veicolo per salvarla, in una sarabanda di incomprensioni, litigi e dialoghi grotteschi. BIANCA (Italia/2025) di Aureliana Bontempo (18’) Bianca ama ballare. Sta allenando la sua squadra per un concorso K-pop e vuole che la coreografia sia perfetta. L’aggravarsi della malattia di sua madre le farà capire che ci sono cose che non si possono controllare. FESTA IN FAMIGLIA (Italia/2025) Di Nadir Taji…",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_concorso-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
-   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
-   "country": "Italia",
-   "duration": 98,
-   "genre": "Commedia",
-   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
-   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/look-back": {
-   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
-   "country": "Giappone",
-   "duration": 100,
-   "genre": "Drammatico",
-   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
-   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/fatherland": {
-   "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
-   "country": "Polonia",
-   "duration": 82,
-   "genre": "Storia",
-   "plot": "Thomas Mann torna in Germania con la figlia Erika dopo l'autoesilio negli Stati Uniti e l'attraversa per un ciclo di conferenze su Goethe passando dalla Germania Ovest alla Germania Est in un alternarsi di apprezzamenti e recriminazioni nei suoi confronti.",
-   "trailer": "https://www.youtube.com/watch?v=OpYxGTTKA0s",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine": {
    "country": "GB, USA",
@@ -5690,39 +5128,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://www.circuitocinemabologna.it/film/je-so-pazzo": {
-   "cast": "Massimiliano Caiazzo, Mariasole Pollio, Giovanni Ludeno, Giuseppe Brunetti, Leonardo Bianconi, Giampiero De Concilio, Antonia Truppo, Monica Nappo",
-   "country": "Italia",
-   "duration": 93,
-   "genre": "Biografico",
-   "plot": "ritratto intenso di Pino Daniele, un’anima ribelle nata nei vicoli di Napoli, che ha rivoluzionato la musica italiana fondendo blues, jazz e tradizione partenopea. Il film racconta la sua ascesa, dagli anni difficili dell’infanzia segnata dall’abbandono, fino al leggendario concerto del 1981 davanti a 200.000 persone. Tra conflitti familiari, fragilità personali e amori profondi, Pino trova nella musica un linguaggio per esprimere ciò che non riesce a dire. Ma il successo porta con sé nuove sfide: il rapporto irrisolto con il padre, il peso delle aspettative, e il rischio di ripetere gli stessi errori. Non è solo la storia di un musicista straordinario, ma quella di un uomo in lotta con se stesso, in cerca di riconciliazione con le sue radici e con l’amore di una città che non ha mai smesso di aspettarlo.",
-   "trailer": "https://www.youtube.com/watch?v=D_xa9LtfWoM",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/je-so-pazzo_1-scaled-1.webp",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/je-so-pazzo_1-scaled-1.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido": {
-   "cast": "Javier Bardem, Victoria Luengo, Melina Matthews, Malena Villa, Mourad Ouani, Pepa Gracia, Raúl Prieto, Pablo Gómez Pando, Marina Foïs, Raúl Arévalo, Laura Birn, Núria Prims",
-   "country": "Spagna",
-   "duration": 135,
-   "genre": "Drammatico",
-   "plot": "Il celebre regista Esteban Martínez è una leggenda, sia per i suoi film che per il suo passato segnato da violenza ed eccessi. Per il suo nuovo progetto, offre alla figlia Emilia un ruolo, con il pretesto di aiutarla a rilanciare la sua carriera di attrice, ferma ormai da un po’. La convivenza sul set favorirà un riavvicinamento, non condiviso da anni, ma riaprirà anche ferite mai davvero rimarginate.",
-   "trailer": "https://www.youtube.com/watch?v=WzXOP2Ta848",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/fjord-2": {
-   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
-   "country": "Romania",
-   "duration": 146,
-   "genre": "Drammatico",
-   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
-   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "fetched_at": "2026-11-18T00:50+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/fjord": {
    "country": "Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia",
    "year": 2026,
@@ -5733,28 +5138,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg-1200x630.jpg",
    "fetched_at": "2026-11-18T00:50+01:00"
   },
-  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
-   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
-   "country": "Italia",
-   "duration": 113,
-   "genre": "Drammatico",
-   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
-   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/IlRumoreDelleCoseNuove_Pesce_Fanelli_0920-e1794328718961.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/IlRumoreDelleCoseNuove_Pesce_Fanelli_0920-e1794328718961.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/wild-horse-nine": {
-   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Samuel Wayt",
-   "country": "Regno Unito",
-   "duration": 117,
-   "genre": "Commedia",
-   "plot": "Poco prima del golpe cileno del 1973, gli agenti della CIA Chris e Lee vengono inviati da Santiago all'Isola di Pasqua dal loro capo ufficio, MJ. Tra le iconiche statue dell'isola, mentre i due partner di lunga data fanno i conti con i propri torbidi trascorsi e con le cospirazioni in atto, il legame appena nato tra Chris e due studentesse ribelli minaccia di far precipitare la situazione per tutti in quel paradiso remoto.",
-   "trailer": "https://www.youtube.com/watch?v=5Zbl_AakI9c",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp"
-  },
   "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi": {
    "genre": "Documentario",
    "duration": 92,
@@ -5764,77 +5147,10 @@
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2022/12/REEL-NEW-22.10-3.png",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://medica.popupcinema.18tickets.it/film/131025": {
-   "year": 2026,
-   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
-   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
-   "genre": "Avventura, Fantascienza, Azione",
-   "duration": 158,
-   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
-   "wd_checked": true
-  },
-  "https://arlecchino.popupcinema.18tickets.it/film/129012": {
-   "year": 2026,
-   "cast": "M. Hamabe, R. Kamiki, J. Kunimura, J. Kunimura Trama AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO. Info 135 min",
-   "plot": "AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO.",
-   "genre": "Fantastico",
-   "duration": 135,
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true,
-   "country": "Giappone"
-  },
-  "https://bristol.popupcinema.18tickets.it/film/126603": {
-   "year": 2026,
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
-   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
-   "genre": "Dramma",
-   "duration": 106,
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
-  "https://jolly.popupcinema.18tickets.it/film/122643": {
-   "year": 2026,
-   "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Angela Bassett, Awkwafina, Jake Johnson, Charlie Day, A... Trama Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola. Info 132 min",
-   "plot": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-   "genre": "Animazione, Avventura, Fantasy",
-   "duration": 132,
-   "trailer": "https://www.youtube.com/watch?v=7rQ_JSUt_bs",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122643/standard_8eb0f03e-71f6-4448-a11e-6756ac24c219.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
-   "wd_checked": true
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/visioni-animate-visioni-doc": {
    "plot": "Visioni Animate LO SCRIVANO (Italia/2026) di Francesco Romanelli (8’) Berlach si alza dalla sua bara, nel retrobottega di un becchino. È, o almeno era, morto: sa di essersi ucciso ma non sa il perché. Vaga quindi senza meta in una città desolata, in cerca di risposte. Visioni Doc NON PARLO SOLO DI ME (Italia/2026) di Milano Film Fest Collettivo (25’) Cosa significa desiderare oggi? Attraverso un mosaico di voci, volti ed esperienze, il film esplora il tema del desiderio come dimensione personale, politica e urbana, componendo il ritratto di una generazione che si interroga sul presente e sul futuro. CLEMENTE (Italia/2026) di Francesca Florio (6’) Il viaggio di una figlia alla ricerca del volto di un uomo, suo padre. Un’impresa impossibile, da cui nasce però la scoperta di sé. Quando non conosci le tue origini come fai a sapere veramente chi sei? A MOVING PANORAMA (Italia/2026) di Nicola Eddy (16’) Una voce narrante guida lo spettatore nell’esplorazione di un panorama di memorie familiari. Il paesaggio, inizialmente compatto e lineare, si divide e si ricompone, le immagini crescono fino a trasformarsi in qualcosa di più complesso. ARI (Italia/2026) di Teresa Nerozzi (20’) Ari ha lasciato il Venezuela per intraprendere la transizione di genere. Ma anche a Palermo la libertà ha un prezzo: per trovare lavoro deve presentarsi come Cristian, un nome che non sente più suo. LÉA EST PARTIE AVEC LES FLEURS (Italia/2025) di Francesco Alessandro Cogliati (17’) Léa è una presenza…",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_animate-doc-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
-   "country": "Italia",
-   "duration": 106,
-   "genre": "Drammatico",
-   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/lestranea": {
-   "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi, Andrea Genovese, Marina Limosani, Gabriella Telegrafo, Mariandrea Cesari, Alessandro Carbonara, Raffaele Braia",
-   "country": "Italia",
-   "duration": 115,
-   "genre": "Thriller",
-   "plot": "Durante un forte temporale, Anna si presenta senza preavviso a casa della figlia Alice per rivelarle che l’intera storia della loro famiglia si regge su una bugia. Anna sostiene di aver stretto un patto con una misteriosa Estranea per salvare la gamba di Alice, dopo un incidente avvenuto vent’anni prima. Un patto che ha scatenato un effetto domino, causando negli anni avvenimenti terribili. L’unica che può sistemare tutto è la stessa Alice. Ma a quale prezzo?",
-   "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/look-back": {
    "country": "Giappone",
@@ -5853,17 +5169,6 @@
    "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
-   "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
-   "country": "Italia",
-   "duration": 94,
-   "genre": "Drammatico",
-   "plot": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo. E’ scappato dalla sua città, ma anche da sua madre Angela, unadonna esagerata nel bene e nel male – irresistibile, qualunquista, conservatrice e ostile come poche - che lo ha raggiunto per Natale e sembra decisa a restare con lui. La cena della Vigilia diventa, così, un campo di battaglia emotivo, comico e feroce al tempo stesso, che fa riemergere un passato di sopraffazioni e incomprensioni. Un corpo a corpo sentimentale tra madre e figlio ma anche con un tenace cappone, che non vuole saperne di finire in pentola; con l’attesa di una figlia che non si sa se mai arriverà e un ospite tanto illustre quanto inaspettato. Una resa dei conti tra madre e figlio, destinata a cambiare per sempre il senso del loro legame. Un amore che brucia come un fuoco inesauribile e che nessuna separazione potrà mai spegnere.",
-   "trailer": "https://www.youtube.com/watch?v=wkL5lY_Jm0Y",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
-   "fetched_at": "2026-11-18T00:50+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg"
   },
   "https://www.cinemateatrogalliera.it/lessere-amato": {
    "country": "Spagna, Francia",
@@ -5893,19 +5198,17 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Roberto-Perpignani-Lemozione-dei-tagli-impropri-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://arlecchino.popupcinema.18tickets.it/film/131125": {
-   "year": 2025,
-   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 130 min",
-   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
-   "genre": "Thriller, Dramma, Crime",
-   "duration": 130,
-   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
-   "wd_checked": true,
-   "country": "Stati Uniti, Regno Unito"
+  "https://cinetecadibologna.it/programmazione/proiezione/fatherland": {
+   "country": "Germania, Polonia, Italia, Francia",
+   "year": 2026,
+   "duration": 82,
+   "cast": "Sandra Hüller",
+   "plot": "Il viaggio che Thomas Mann fece nel 1949 in Germania, dopo tredici anni di esilio. Lo accompagna la figlia Erika, segnata dalle incomprensioni tra il padre e il fratello Klaus. Splendido omaggio a Rossellini (Germania anno zero, ma non solo) è un nuovo, disperato capitolo, dopo Ida e Cold War, della riflessone di Pawlikowski sull’Europa del dopoguerra. “Chiuso in un formato quadrato che, grazie anche alla fotografia in bianco e nero di Łukasz Zal, trasmette quel senso di oppressione che Mann si sentiva addosso dopo il lungo esilio, il film ci chiede attraverso il suo protagonista quale possa essere il ruolo della cultura nella creazione di un’Europa nuova, capace di risorgere dalle macerie della Seconda guerra mondiale” (Paolo Mereghetti).",
+   "trailer": "https://www.youtube.com/watch?v=oiID00YmcEw",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1-1068x630.webp",
+   "fetched_at": "2026-11-15T18:44+01:00"
   },
-  "https://jolly.popupcinema.18tickets.it/film/126603": {
+  "https://bristol.popupcinema.18tickets.it/film/126603": {
    "year": 2026,
    "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
    "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
@@ -5917,37 +5220,16 @@
    "wd_checked": true,
    "country": "Italia"
   },
-  "https://medica.popupcinema.18tickets.it/film/126636": {
-   "year": 2026,
-   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Paola Giannini, Samue... Trama Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca. Info 118 min",
-   "plot": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-   "genre": "Commedia, Thriller, Crime",
-   "duration": 118,
-   "trailer": "https://www.youtube.com/watch?v=djscxQOf8bo",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126636/standard_448df762-79c1-4a61-ba80-544cace3b892.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/fatherland": {
-   "country": "Germania, Polonia, Italia, Francia",
-   "year": 2026,
-   "duration": 82,
-   "cast": "Sandra Hüller",
-   "plot": "Il viaggio che Thomas Mann fece nel 1949 in Germania, dopo tredici anni di esilio. Lo accompagna la figlia Erika, segnata dalle incomprensioni tra il padre e il fratello Klaus. Splendido omaggio a Rossellini (Germania anno zero, ma non solo) è un nuovo, disperato capitolo, dopo Ida e Cold War, della riflessone di Pawlikowski sull’Europa del dopoguerra. “Chiuso in un formato quadrato che, grazie anche alla fotografia in bianco e nero di Łukasz Zal, trasmette quel senso di oppressione che Mann si sentiva addosso dopo il lungo esilio, il film ci chiede attraverso il suo protagonista quale possa essere il ruolo della cultura nella creazione di un’Europa nuova, capace di risorgere dalle macerie della Seconda guerra mondiale” (Paolo Mereghetti).",
-   "trailer": "https://www.youtube.com/watch?v=oiID00YmcEw",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1-1068x630.webp",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/minotaur": {
-   "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Anatoliy Beliy, Juris Zagars, Varvara Shmykova",
-   "country": "Francia",
-   "duration": 140,
+  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
+   "country": "Italia",
+   "duration": 106,
    "genre": "Drammatico",
-   "plot": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
-   "trailer": "https://www.youtube.com/watch?v=tNAeYB9yDSo",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/74Adhx86f2D5Wix9Lt1GdPFaS3L-e1793016779692.webp",
+   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
    "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/74Adhx86f2D5Wix9Lt1GdPFaS3L-e1793016779692.webp"
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
   },
   "https://www.cinemateatrogalliera.it/il-canto-della-foresta": {
    "country": "Francia",
@@ -5960,6 +5242,18 @@
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/10/REEL-NEW-22.10-4.png",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
+  "https://jolly.popupcinema.18tickets.it/film/123765": {
+   "year": 2026,
+   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
+   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
+   "genre": "Commedia, Dramma",
+   "duration": 114,
+   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-leica": {
    "country": "Italia",
    "year": 2026,
@@ -5967,6 +5261,40 @@
    "plot": "Parigi, 14 luglio 1937. Gerda Taro trascorre insieme a Robert Capa e agli amici di sempre, con i quali è fuggita dalla Germania nazista, l’ultimo giorno prima di tornare sul fronte spagnolo. Tra passato e presente riaffiorano i momenti che hanno segnato la sua vita: l’impegno politico a Lipsia accanto al suo primo amore, gli anni dell’esilio a Parigi, il colpo di fulmine con Capa, la scoperta della fotografia e il desiderio, sempre più forte, di usare la sua Leica come strumento di lotta e di libertà. Un ritratto della prima fotoreporter morta sul campo di battaglia, una donna che ha incarnato un tempo in cui tutto sembrava ancora possibile.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/114329-LA_RAGAZZA_CON_LA_LEICA__THE_GIRL_WITH_THE_LEICA__-_Actress_Emilia_Sch__le__Credits_Manuel_Alberto_Claro___1_-1_11zon-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
+   "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
+   "country": "Italia",
+   "duration": 94,
+   "genre": "Drammatico",
+   "plot": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo. E’ scappato dalla sua città, ma anche da sua madre Angela, unadonna esagerata nel bene e nel male – irresistibile, qualunquista, conservatrice e ostile come poche - che lo ha raggiunto per Natale e sembra decisa a restare con lui. La cena della Vigilia diventa, così, un campo di battaglia emotivo, comico e feroce al tempo stesso, che fa riemergere un passato di sopraffazioni e incomprensioni. Un corpo a corpo sentimentale tra madre e figlio ma anche con un tenace cappone, che non vuole saperne di finire in pentola; con l’attesa di una figlia che non si sa se mai arriverà e un ospite tanto illustre quanto inaspettato. Una resa dei conti tra madre e figlio, destinata a cambiare per sempre il senso del loro legame. Un amore che brucia come un fuoco inesauribile e che nessuna separazione potrà mai spegnere.",
+   "trailer": "https://www.youtube.com/watch?v=wkL5lY_Jm0Y",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
+   "fetched_at": "2026-11-18T00:50+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/lestranea": {
+   "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi, Andrea Genovese, Marina Limosani, Gabriella Telegrafo, Mariandrea Cesari, Alessandro Carbonara, Raffaele Braia",
+   "country": "Italia",
+   "duration": 115,
+   "genre": "Thriller",
+   "plot": "Durante un forte temporale, Anna si presenta senza preavviso a casa della figlia Alice per rivelarle che l’intera storia della loro famiglia si regge su una bugia. Anna sostiene di aver stretto un patto con una misteriosa Estranea per salvare la gamba di Alice, dopo un incidente avvenuto vent’anni prima. Un patto che ha scatenato un effetto domino, causando negli anni avvenimenti terribili. L’unica che può sistemare tutto è la stessa Alice. Ma a quale prezzo?",
+   "trailer": "https://www.youtube.com/watch?v=OiPKYpJlRGM",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/130962": {
+   "year": 2025,
+   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 131 min",
+   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+   "genre": "Thriller, Dramma, Crime",
+   "duration": 131,
+   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
   },
   "https://medica.popupcinema.18tickets.it/film/131058": {
    "year": 2026,
@@ -6026,6 +5354,107 @@
    "fetched_at": "2026-11-15T18:44+01:00",
    "wd_checked": true
   },
+  "https://arlecchino.popupcinema.18tickets.it/film/131125": {
+   "year": 2025,
+   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 130 min",
+   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+   "genre": "Thriller, Dramma, Crime",
+   "duration": 130,
+   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
+  },
+  "https://bristol.popupcinema.18tickets.it/film/123765": {
+   "year": 2026,
+   "cast": "Pierfrancesco Favino, Silvio Orlando, Alma Noce, Maurizio Lombardi, Francesco Gheghi, Paolo Rossi, Carlo Cecchi Trama Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri. Info 114 min",
+   "plot": "Nel cuore del ‘600, Frate Leopoldo da Casamacchia racconta il Vangelo con una gioia e una libertà mai viste prima. Mentre la Chiesa parla in latino, lui parla alla gente di un Dio vicino, capace di portare sollievo, speranza e persino di ridere insieme agli uomini. La sua voce si diffonde di villaggio in villaggio, conquistando migliaia di persone e svuotando le chiese. L’eco del suo messaggio arriva fino a Roma, dove il Papa affida il caso al cardinale Maculani, il più autorevole inquisitore del tempo. Quello che nasce come un processo si trasforma in un confronto inatteso, capace di mettere in crisi convinzioni apparentemente incrollabili. Mentre il destino di Leopoldo sembra segnato, il dubbio comincia a cambiare anche chi lo giudica. Perché si può spegnere una voce, ma non ciò che quella voce ha lasciato negli altri.",
+   "genre": "Commedia, Dramma",
+   "duration": 114,
+   "trailer": "https://www.youtube.com/watch?v=GyQz-5xlIsc",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
+  },
+  "https://www.circuitocinemabologna.it/film/fatherland": {
+   "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
+   "country": "Polonia",
+   "duration": 82,
+   "genre": "Storia",
+   "plot": "Thomas Mann torna in Germania con la figlia Erika dopo l'autoesilio negli Stati Uniti e l'attraversa per un ciclo di conferenze su Goethe passando dalla Germania Ovest alla Germania Est in un alternarsi di apprezzamenti e recriminazioni nei suoi confronti.",
+   "trailer": "https://www.youtube.com/watch?v=OpYxGTTKA0s",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
+   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
+   "country": "Italia",
+   "duration": 98,
+   "genre": "Commedia",
+   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
+   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/look-back": {
+   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
+   "country": "Giappone",
+   "duration": 100,
+   "genre": "Drammatico",
+   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
+   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
+  },
+  "https://medica.popupcinema.18tickets.it/film/131025": {
+   "year": 2026,
+   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
+   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
+   "genre": "Avventura, Fantascienza, Azione",
+   "duration": 158,
+   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true
+  },
+  "https://www.circuitocinemabologna.it/film/je-so-pazzo": {
+   "cast": "Massimiliano Caiazzo, Mariasole Pollio, Giovanni Ludeno, Giuseppe Brunetti, Leonardo Bianconi, Giampiero De Concilio, Antonia Truppo, Monica Nappo",
+   "country": "Italia",
+   "duration": 93,
+   "genre": "Biografico",
+   "plot": "ritratto intenso di Pino Daniele, un’anima ribelle nata nei vicoli di Napoli, che ha rivoluzionato la musica italiana fondendo blues, jazz e tradizione partenopea. Il film racconta la sua ascesa, dagli anni difficili dell’infanzia segnata dall’abbandono, fino al leggendario concerto del 1981 davanti a 200.000 persone. Tra conflitti familiari, fragilità personali e amori profondi, Pino trova nella musica un linguaggio per esprimere ciò che non riesce a dire. Ma il successo porta con sé nuove sfide: il rapporto irrisolto con il padre, il peso delle aspettative, e il rischio di ripetere gli stessi errori. Non è solo la storia di un musicista straordinario, ma quella di un uomo in lotta con se stesso, in cerca di riconciliazione con le sue radici e con l’amore di una città che non ha mai smesso di aspettarlo.",
+   "trailer": "https://www.youtube.com/watch?v=D_xa9LtfWoM",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/je-so-pazzo_1-scaled-1.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/je-so-pazzo_1-scaled-1.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido": {
+   "cast": "Javier Bardem, Victoria Luengo, Melina Matthews, Malena Villa, Mourad Ouani, Pepa Gracia, Raúl Prieto, Pablo Gómez Pando, Marina Foïs, Raúl Arévalo, Laura Birn, Núria Prims",
+   "country": "Spagna",
+   "duration": 135,
+   "genre": "Drammatico",
+   "plot": "Il celebre regista Esteban Martínez è una leggenda, sia per i suoi film che per il suo passato segnato da violenza ed eccessi. Per il suo nuovo progetto, offre alla figlia Emilia un ruolo, con il pretesto di aiutarla a rilanciare la sua carriera di attrice, ferma ormai da un po’. La convivenza sul set favorirà un riavvicinamento, non condiviso da anni, ma riaprirà anche ferite mai davvero rimarginate.",
+   "trailer": "https://www.youtube.com/watch?v=WzXOP2Ta848",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/fjord-2": {
+   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
+   "country": "Romania",
+   "duration": 146,
+   "genre": "Drammatico",
+   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
+   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "fetched_at": "2026-11-18T00:50+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/pesciolino-superverme": {
    "country": "GB",
    "year": 2026,
@@ -6039,10 +5468,55 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_ambientali-e-acquatiche-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
+  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
+   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
+   "country": "Italia",
+   "duration": 113,
+   "genre": "Drammatico",
+   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
+   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/IlRumoreDelleCoseNuove_Pesce_Fanelli_0920-e1794328718961.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/IlRumoreDelleCoseNuove_Pesce_Fanelli_0920-e1794328718961.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/wild-horse-nine": {
+   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Samuel Wayt",
+   "country": "Regno Unito",
+   "duration": 117,
+   "genre": "Commedia",
+   "plot": "Poco prima del golpe cileno del 1973, gli agenti della CIA Chris e Lee vengono inviati da Santiago all'Isola di Pasqua dal loro capo ufficio, MJ. Tra le iconiche statue dell'isola, mentre i due partner di lunga data fanno i conti con i propri torbidi trascorsi e con le cospirazioni in atto, il legame appena nato tra Chris e due studentesse ribelli minaccia di far precipitare la situazione per tutti in quel paradiso remoto.",
+   "trailer": "https://www.youtube.com/watch?v=5Zbl_AakI9c",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp"
+  },
+  "https://jolly.popupcinema.18tickets.it/film/126603": {
+   "year": 2026,
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
+   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+   "genre": "Dramma",
+   "duration": 106,
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Italia"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane": {
    "plot": "A seguire proiezione dei film vincitori",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026-premiazione.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://medica.popupcinema.18tickets.it/film/124755": {
+   "year": 2026,
+   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Paola Giannini, Samue... Trama Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca. Info 118 min",
+   "plot": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+   "genre": "Commedia, Thriller, Crime",
+   "duration": 118,
+   "trailer": "https://www.youtube.com/watch?v=djscxQOf8bo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true
   },
   "https://www.circuitocinemabologna.it/film/i-swear-e-piu-forte-di-me-v-o": {
    "cast": "M. Peake, S. Henderson, Robert Aramayo, Maxine Peake, Peter Mullan, Shirley Henderson, Scott Ellis Watson, David Carlyle, Francesco Piacentini Smith, Somerled Campbell",
@@ -6076,6 +5550,17 @@
    "still": "https://www.circuitocinemabologna.it/wp-content/uploads/03.04_ESQ_@MANOLOPAVON_20250304_DSC5046.jpg",
    "fetched_at": "2026-11-15T18:44+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/03.04_ESQ_@MANOLOPAVON_20250304_DSC5046.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/minotaur": {
+   "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Anatoliy Beliy, Juris Zagars, Varvara Shmykova",
+   "country": "Francia",
+   "duration": 140,
+   "genre": "Drammatico",
+   "plot": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
+   "trailer": "https://www.youtube.com/watch?v=tNAeYB9yDSo",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/74Adhx86f2D5Wix9Lt1GdPFaS3L-e1793016779692.webp",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/74Adhx86f2D5Wix9Lt1GdPFaS3L-e1793016779692.webp"
   },
   "https://www.circuitocinemabologna.it/film/fjord-v-o": {
    "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
@@ -6153,6 +5638,17 @@
    "plot": "La settantanovenne spagnola María Ángeles vive da sola a Tangeri, in Marocco. La sua routine viene sconvolta quando sua figlia arriva da Madrid per vendere la casa in cui ha sempre vissuto. Determinata a rimanere, riscoprirà anche l’amore e la sensualità. “Volevo confrontarmi con le opinioni della società sull’invecchiamento – le aspettative, i pregiudizi, le barriere. Credo nella libertà di invecchiare come vogliamo. Volevo raccontare una storia diversa: vibrante, sensuale e provocatoria. E nel farlo, tornare alle mie radici” (Maryam Touzani).",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/07/Calle-Malaga-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/129012": {
+   "year": 2026,
+   "cast": "M. Hamabe, R. Kamiki, J. Kunimura, J. Kunimura Trama AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO. Info 135 min",
+   "plot": "AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO.",
+   "genre": "Fantastico",
+   "duration": 135,
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00",
+   "wd_checked": true,
+   "country": "Giappone"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/our-hobby-is-depeche-mode": {
    "country": "GB",
