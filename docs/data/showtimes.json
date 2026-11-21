@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:47+01:00",
+ "generated_at": "2026-11-21T04:56+01:00",
  "sources": {
   "ccb": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "cineteca": {
    "ok": true,
-   "count": 116
+   "count": 114
   },
   "popup": {
    "ok": true,
@@ -129,86 +129,6 @@
   }
  ],
  "shows": [
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Controcampo | Rassegna di cortometraggi animati",
-   "director": null,
-   "start": "2026-11-20T15:00+01:00",
-   "vos": false,
-   "tags": [
-    "Appuntamento"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati/?repeat=23255",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-14.52.17.png",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-20T15:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23633",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Fatherland",
-   "director": "Paweł Pawlikowski",
-   "start": "2026-11-20T18:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23646",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Fatherland",
-   "director": "Paweł Pawlikowski",
-   "start": "2026-11-20T20:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23647",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-20T21:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23634",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
   {
    "cinema": "cervi",
    "sala": null,
@@ -3579,7 +3499,9 @@
    "director": "Ruth Beckermann",
    "start": "2026-11-24T21:00+01:00",
    "vos": true,
-   "tags": [],
+   "tags": [
+    "Prima visione esclusiva"
+   ],
    "buy": "https://linktr.ee/Galliera_Prenotazioni",
    "info": "https://www.cinemateatrogalliera.it/wax-gold/",
    "image": null,
@@ -5109,6 +5031,56 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/il-cacciatore"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La ragazza con la valigia",
+   "director": "Valerio Zurlini",
+   "start": "2026-11-30T15:00+01:00",
+   "vos": false,
+   "tags": [
+    "ingresso libero"
+   ],
+   "ita": true,
+   "buy": null,
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-valigia/?repeat=23296",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2023/06/LA-RAGAZZA-CON-LA-VALIGIA-ant.jpeg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-valigia"
+  },
+  {
+   "cinema": "modernissimo",
+   "sala": null,
+   "title": "Ma l’amor mio non muore!",
+   "director": "Mario Caserini",
+   "start": "2026-11-30T18:30+01:00",
+   "vos": false,
+   "tags": [
+    "Evento speciale",
+    "Film muto",
+    "Omaggio a Vittorio Martinelli"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/44169",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/ma-lamor-mio-non-muore/?repeat=23292",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/02/01-foto-Ma-l_amor-mio-non-muore-CR-2013-1-Lyda-Borelli.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/ma-lamor-mio-non-muore"
+  },
+  {
+   "cinema": "modernissimo",
+   "sala": null,
+   "title": "Scarface",
+   "director": "Brian De Palma",
+   "start": "2026-11-30T20:45+01:00",
+   "vos": true,
+   "tags": [
+    "New Hollywood"
+   ],
+   "ita": false,
+   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/102248",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/scarface/?repeat=23293",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Scarface-recensione-film-Brian-De-Palma.jpg.webp",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/scarface"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "",
@@ -5621,30 +5593,6 @@
   }
  ],
  "films": {
-  "https://cinetecadibologna.it/programmazione/proiezione/controcampo-rassegna-di-cortometraggi-animati": {
-   "plot": "Il controcampo presuppone sempre un campo: qualcuno che guarda e qualcuno che viene guardato. La rassegna Controcampo nasce proprio da questa tensione: cosa accade quando due punti di vista non coincidono? Quando uno sguardo incontra un altro sguardo e qualcosa si rompe? I corti indagano il tema del conflitto e del punto di rottura, attraverso relazioni, corpi e situazioni in cui l’equilibrio viene messo in discussione. A cura di Osso Collettivo e Riccardo Ambrosi.",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-14.52.17.png",
-   "fetched_at": "2026-11-20T00:34+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva": {
-   "country": "Francia, Italia",
-   "year": 2026,
-   "duration": 145,
-   "plot": "È l'ultimo anno del liceo pubblico francese e una scolaresca va in gita a Pompei, accompagnata dall'insegnante di latino.[...] La Gradiva , una coproduzione italo-francese con un cast di giovanissimi d'oltralpe, è la storia di un gruppo di adolescenti sulle soglie della vita adulta, vicini alla scelta - universitaria o di avviamento professionale - che darà forma al loro futuro, relegandoli in uno dei gironi socioeconomici di un mondo sempre più a compartimenti stagni.[...] Marine Atlan entra nella loro confusione e segue i loro sbandamenti, in un'illustrazione della condizione umana a 18 anni, ingenerosa verso tutti, anche gli adulti che accompagnano l'uscita obbligatoria dall'adolescenza. (Paola Casella, Mymovies.it)",
-   "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-1200x630.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/fatherland": {
-   "country": "Germania, Polonia, Italia, Francia",
-   "year": 2026,
-   "duration": 82,
-   "cast": "Sandra Hüller",
-   "plot": "Il viaggio che Thomas Mann fece nel 1949 in Germania, dopo tredici anni di esilio. Lo accompagna la figlia Erika, segnata dalle incomprensioni tra il padre e il fratello Klaus. Splendido omaggio a Rossellini (Germania anno zero, ma non solo) è un nuovo, disperato capitolo, dopo Ida e Cold War, della riflessone di Pawlikowski sull’Europa del dopoguerra. “Chiuso in un formato quadrato che, grazie anche alla fotografia in bianco e nero di Łukasz Zal, trasmette quel senso di oppressione che Mann si sentiva addosso dopo il lungo esilio, il film ci chiede attraverso il suo protagonista quale possa essere il ruolo della cultura nella creazione di un’Europa nuova, capace di risorgere dalle macerie della Seconda guerra mondiale” (Paolo Mereghetti).",
-   "trailer": "https://www.youtube.com/watch?v=oiID00YmcEw",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1-1068x630.webp",
-   "fetched_at": "2026-11-15T18:44+01:00"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/produrre-cinema-indipendente-malgrado-tutto": {
    "plot": "Il panorama produttivo del nostro cinema, anche solo rispetto a qualche anno fa, si è arricchito di alcune figure importanti, nonostante politiche spesso incerte e contraddittorie e una congiuntura internazionale che certamente non aiuta un’idea di cinema differente. È possibile mettere in campo, a livello nazionale, strategie per uscire dall’angolo e immaginare che questa fase di trasformazione internazionale non si concluda con una sostanziale omologazione della produzione cinematografica italiana? Incontro con Marica Stocchi (Rosamont), produttrice, Ines Vasiljevic (Nightswim), produttrice, Marta Donzelli e Gregorio Paonessa (Vivofilm), produttori, Andrea Calbucci (Lungta Film), produttore, Simone Catania (Indyca), autore e produttore, Andrea Segre (Zalab), autore e distributore. Moderano Gian Luca Farinelli ed Emiliano Morreale",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_incontri-1200x630.jpg",
@@ -5925,6 +5873,15 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
   },
+  "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva": {
+   "country": "Francia, Italia",
+   "year": 2026,
+   "duration": 145,
+   "plot": "È l'ultimo anno del liceo pubblico francese e una scolaresca va in gita a Pompei, accompagnata dall'insegnante di latino.[...] La Gradiva , una coproduzione italo-francese con un cast di giovanissimi d'oltralpe, è la storia di un gruppo di adolescenti sulle soglie della vita adulta, vicini alla scelta - universitaria o di avviamento professionale - che darà forma al loro futuro, relegandoli in uno dei gironi socioeconomici di un mondo sempre più a compartimenti stagni.[...] Marine Atlan entra nella loro confusione e segue i loro sbandamenti, in un'illustrazione della condizione umana a 18 anni, ingenerosa verso tutti, anche gli adulti che accompagnano l'uscita obbligatoria dall'adolescenza. (Paola Casella, Mymovies.it)",
+   "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-1200x630.jpg",
+   "fetched_at": "2026-11-15T18:44+01:00"
+  },
   "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
    "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
    "country": "Italia",
@@ -5998,6 +5955,16 @@
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126636/standard_448df762-79c1-4a61-ba80-544cace3b892.jpg",
    "fetched_at": "2026-11-15T18:44+01:00",
    "wd_checked": true
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/fatherland": {
+   "country": "Germania, Polonia, Italia, Francia",
+   "year": 2026,
+   "duration": 82,
+   "cast": "Sandra Hüller",
+   "plot": "Il viaggio che Thomas Mann fece nel 1949 in Germania, dopo tredici anni di esilio. Lo accompagna la figlia Erika, segnata dalle incomprensioni tra il padre e il fratello Klaus. Splendido omaggio a Rossellini (Germania anno zero, ma non solo) è un nuovo, disperato capitolo, dopo Ida e Cold War, della riflessone di Pawlikowski sull’Europa del dopoguerra. “Chiuso in un formato quadrato che, grazie anche alla fotografia in bianco e nero di Łukasz Zal, trasmette quel senso di oppressione che Mann si sentiva addosso dopo il lungo esilio, il film ci chiede attraverso il suo protagonista quale possa essere il ruolo della cultura nella creazione di un’Europa nuova, capace di risorgere dalle macerie della Seconda guerra mondiale” (Paolo Mereghetti).",
+   "trailer": "https://www.youtube.com/watch?v=oiID00YmcEw",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1-1068x630.webp",
+   "fetched_at": "2026-11-15T18:44+01:00"
   },
   "https://www.circuitocinemabologna.it/film/minotaur": {
    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Anatoliy Beliy, Juris Zagars, Varvara Shmykova",
@@ -6627,6 +6594,30 @@
    "plot": "Più che un film sul Vietnam, è una discesa epica e dolorosa nel trauma di un popolo che, con la guerra, si riscopre corroso dal male, fino al midollo. Può bastare ad estirparlo una pallottola sparata in testa? “Il mio film è un periplo dello spirito, che termina davanti all’alternativa: o il suicidio o il ritorno alla vita normale con una dose di speranza. Una domanda che non ci si è mai veramente posti, negli Stati Uniti” (Cimino). Uno dei capolavori più contestati della storia del cinema, epopea di una sconfitta e scavo disperato nel cuore bastardo dell’America. (am)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/06/maxresdefault-6-1200x630.jpg",
    "fetched_at": "2026-11-20T00:34+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-valigia": {
+   "country": "Italia, Francia",
+   "year": 1961,
+   "duration": 113,
+   "plot": "Storia&Storie #11 – L’Italia di provincia Anni Sessanta, paesaggio estivo che scende verso l’Adriatico, perfetto nitore sentimentale, ferree leggi di classe. “L’impossibile amore tra un adolescente (Jacques Perrin) e una ragazza perduta (Claudia Cardinale): situazioni, suoni, musiche del miracolo economico sono i rivelatori della violenza e della crudeltà del mondo in cui la giovane donna è destinata ad andare alla deriva” (Antonio Costa). Zurlini trova qui la misura aurea della propria poetica. (pcris) In occasione dell’11a edizione delle Giornate di studi di Storia&Storie , promosse dall’AIRSC per valorizzare la ricerca e la storiografia cinematografica e organizzate dalla Cineteca di Bologna dal 30 novembre al 1° dicembre 2026.",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2023/06/LA-RAGAZZA-CON-LA-VALIGIA-ant.jpeg",
+   "fetched_at": "2026-11-21T04:56+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/ma-lamor-mio-non-muore": {
+   "country": "Italia",
+   "year": 1913,
+   "duration": 80,
+   "plot": "Un melodramma d’amore, tradimento e morte, un tuffo delizioso nell’immaginario, nella cultura, nella moda liberty. “Senza dubbio una delle opere più rappresentative del muto italiano, che inaugura l’epoca d’oro del diva-film, sola stagione (prima del neorealismo) in cui il cinema italiano abbia saputo imporre una poetica e uno stile sui mercati internazionali” (Vittorio Martinelli). Di tutte le dive Lyda Borelli, star del teatro qui al suo esordio davanti alla cinepresa, è la più languida e seduttiva, la più iconica ed elegante, la più pittorica e internazionale, tra D’Annunzio, Oscar Wilde e i preraffaelliti. Accompagnamento dell’ Ensemble della Filarmonica del Teatro Comunale di Modena con la voce solista di Anna Trotta (mezzosoprano), diretti da Daniele Furlati , autore della partitura musicale.",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/02/01-foto-Ma-l_amor-mio-non-muore-CR-2013-1-Lyda-Borelli-1200x630.jpg",
+   "fetched_at": "2026-11-21T04:56+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/scarface": {
+   "country": "USA",
+   "year": 1983,
+   "duration": 168,
+   "plot": "L’italiano Tony Camonte di Hawks diventa il cubano Tony Montana di De Palma, la parabola rovinosa d’un boss scioglie e riallaccia il nodo etnico. Nuovo cinema americano che guarda al passato con passione manipolatoria. La Chicago espressionista è qui una Florida sgargiante d’allucinazione; la cocaina dà al film il suo ritmo, la forma e la poesia. Al Pacino siede su un trono tragico e miserabile ( Riccardo III pensato senza ancora saperlo?); Michelle Pfeiffer attraversa il film come incarnazione letterale della polvere bianca, nuda più che se fosse nuda in quegli abiti chiari e scintillanti. (pcris)",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Scarface-recensione-film-Brian-De-Palma.jpg-1200x630.webp",
+   "fetched_at": "2026-11-21T04:56+01:00"
   },
   "https://www.circuitocinemabologna.it/film/the-glorious-dead": {
    "cast": "Zelda Adams, Toby Poser, Judith Roberts, John Adams, Lulu Adams, Sofia Macaluso, Mia Macalouso, Nikki Macaluso, Heath Macaluso, London May",
