@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T04:05+01:00",
+ "generated_at": "2026-11-22T14:16+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 122
+   "count": 119
   },
   "cineteca": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "popup": {
    "ok": true,
-   "count": 82
+   "count": 81
   },
   "galliera": {
    "ok": true,
@@ -130,21 +130,6 @@
  ],
  "shows": [
   {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "Nel bel mezzo di un gelido inverno",
-   "director": "Kenneth Branagh",
-   "start": "2026-11-22T10:00+01:00",
-   "vos": true,
-   "tags": [
-    "Rassegna"
-   ],
-   "buy": "https://odeon.ccb.18tickets.it/film/nel-bel-mezzo-di-un-gelido-inverno-in-the-bleak-midwinter-_1995/831313#sala",
-   "info": "https://www.circuitocinemabologna.it/film/nel-bel-mezzo-di-un-gelido-inverno-in-the-bleak-midwinter/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/05ad99dafb20522437a3979dd4133901-e1789729247386.jpeg",
-   "film": "https://www.circuitocinemabologna.it/film/nel-bel-mezzo-di-un-gelido-inverno-in-the-bleak-midwinter"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Fjord",
@@ -155,7 +140,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23662",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
@@ -168,63 +153,15 @@
    "start": "2026-11-22T10:30+01:00",
    "vos": false,
    "tags": [
+    "Sold out",
     "Evento speciale",
-    "Domenica Matinée | Visioni Italiane 2026",
-    "Visioni Italiane 2026"
+    "Domenica Matinée | Visioni Italiane 2026"
    ],
    "ita": true,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/17013",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/il-postino/?repeat=23260",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/05/postino1-1-2.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/il-postino"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala A",
-   "title": "La gabbianella e il gatto",
-   "director": "Enzo D'alo'",
-   "start": "2026-11-22T10:30+01:00",
-   "vos": false,
-   "tags": [
-    "Anteprima",
-    "CCBimb*",
-    "Rassegna"
-   ],
-   "buy": "https://odeon.ccb.18tickets.it/film/la-gabbianella-e-il-gatto-ried-_1998/864170#sala",
-   "info": "https://www.circuitocinemabologna.it/film/la-gabbianella-e-il-gatto-ried/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/coverlg.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/la-gabbianella-e-il-gatto-ried"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "L'amore bugiardo (Gone Girl)",
-   "director": "David Fincher",
-   "start": "2026-11-22T10:31+01:00",
-   "vos": true,
-   "tags": [
-    "Matinée",
-    "Rassegna"
-   ],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-amore-bugiardo-gone-girl-_2014/864229#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lamore-bugiardo-gone-girl-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/l-intro-1728655848.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/lamore-bugiardo-gone-girl-2"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Zombie contro zombie (One cut of the dead) (Kamera wo tomeru na)",
-   "director": "S. UEDA",
-   "start": "2026-11-22T11:00+01:00",
-   "vos": true,
-   "tags": [
-    "Horror"
-   ],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129015/beace94b-e900-4aff-a3a8-0925a8ead734#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/129015",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129015/standard_322b7c9e-2dff-4ee7-a5bd-7e3a0da4f071.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/129015"
   },
   {
    "cinema": "lumiere",
@@ -237,7 +174,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23609",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
@@ -4677,16 +4614,6 @@
   }
  ],
  "films": {
-  "https://www.circuitocinemabologna.it/film/nel-bel-mezzo-di-un-gelido-inverno-in-the-bleak-midwinter": {
-   "cast": "Michael Maloney, Richard Briers, Joan Collins, Nicholas Farrell, Julia Sawalha, Celia Imrie, John Sessions, Jennifer Saunders, Gerard Horan, Mark Hadfield, Hetta Charnley, Adrian Scarborough",
-   "country": "Regno Unito",
-   "duration": 100,
-   "genre": "Commedia",
-   "plot": "Poco prima di Natale, in un paesino del Surrey, una scalcagnata compagnia di interpreti eccentrici e nevrotici prepara la messa in scena di \"Amleto\" in una chiesa che sta per essere abbattuta. Li dirige Joe Harper, un attore frustrato per l'abbandono della ragazza e la troppo lunga disoccupazione.",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/05ad99dafb20522437a3979dd4133901-e1789729247386.jpeg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/05ad99dafb20522437a3979dd4133901-e1789729247386.jpeg"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/fjord": {
    "country": "Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia",
    "year": 2026,
@@ -4704,35 +4631,6 @@
    "plot": "La colonna sonora che valse a Bacalov l’Oscar contribuisce a costruire l’atmosfera emotiva del film, accentuata dalla tragica e prematura scomparsa di Troisi. Una favola moderna che immagina l’incontro fra Pablo Neruda (Philippe Noiret) in esilio in un’isola del Sud Italia e un sensibile postino, al quale il grande poeta paternamente dischiuderà l’universo della cultura e della politica, fornendogli il lessico amoroso per conquistare la sua bella e nuovi strumenti per vedere il mondo col desiderio di cambiarlo. (ac)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/05/postino1-1-2-1200x630.jpg",
    "fetched_at": "2026-11-15T18:44+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/la-gabbianella-e-il-gatto-ried": {
-   "country": "Italia",
-   "duration": 75,
-   "genre": "Animazione",
-   "plot": "Nel mare del nord la gabbiana Kengah resta intrappolata in una macchia di petrolio fuoriuscita da una nave; con difficoltà riesce a spiccare il volo, ma arrivata sopra il cielo di Amburgo precipita in un giardino dove sta sonnecchiando il gatto Zorba. In punto di morte, la giovane gabbiana deposita l’uovo che portava in grembo strappando tre promesse al gatto: quella di non mangiarlo, di averne cura finché non si schiuderà e di insegnare a volare al nascituro. La gabbianella orfana viene battezzata Fortunata dall'intera comunità di gatti: Colonnello, Segretario, Diderot, il giovane Pallino e ovviamente Zorba che si trova alle prese con l’inaspettato ruolo di padre. La piccola Fortunata dovrà imparare a conoscersi e a capire di non essere un gatto, prima di imparare a volare. Si troverà anche a combattere al fianco dei suoi amici felini per osteggiare l’avvento del Grande Topo che attende l’occasione per uscire dalle fogne e prendere il potere…",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/coverlg.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/coverlg.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/lamore-bugiardo-gone-girl-2": {
-   "cast": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry, Kim Dickens",
-   "country": "Stati Uniti",
-   "duration": 145,
-   "genre": "Drammatico",
-   "plot": "Da poco trasferitisi in una piccola cittadina del Missouri da New York, Nick Dunne e la moglie Amy stanno attraversando un periodo difficile, con un matrimonio in crisi per via della difficoltà della donna ad abituarsi alla nuova esistenza. Il giorno del quinto anniversario di nozze, Amy scompare e il primo ad essere sospettato della sua scomparsa è Nick ma la realtà è ben diversa da come appare a prima vista.",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/l-intro-1728655848.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/l-intro-1728655848.jpg"
-  },
-  "https://arlecchino.popupcinema.18tickets.it/film/129015": {
-   "year": 2018,
-   "cast": "T. Hamatsu, Y. Akiyama, H. Shuhama, K. Nagaya, K. Nagaya Trama UNA TROUPE, UN BUDGET ALL'OSSO, UN MAGAZZINO ABBANDONATO. SITUAZIONE PERFETTA PER UN FILM SUGLI ZOMBIE. SOPRATTUTTO SE IN PASSATO I LOCALI SONO STATI CONTAMINATI E PULLULANO DAVVERO DI MORTI VIVENTI. Info 96 min",
-   "plot": "UNA TROUPE, UN BUDGET ALL'OSSO, UN MAGAZZINO ABBANDONATO. SITUAZIONE PERFETTA PER UN FILM SUGLI ZOMBIE. SOPRATTUTTO SE IN PASSATO I LOCALI SONO STATI CONTAMINATI E PULLULANO DAVVERO DI MORTI VIVENTI.",
-   "genre": "Commedia",
-   "duration": 96,
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129015/standard_322b7c9e-2dff-4ee7-a5bd-7e3a0da4f071.jpg",
-   "fetched_at": "2026-11-15T18:44+01:00",
-   "wd_checked": true
   },
   "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine": {
    "country": "GB, USA",
