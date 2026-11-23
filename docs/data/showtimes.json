@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:42+01:00",
+ "generated_at": "2026-11-23T04:42+01:00",
  "sources": {
   "ccb": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "cineteca": {
    "ok": true,
-   "count": 97
+   "count": 80
   },
   "popup": {
    "ok": true,
-   "count": 70
+   "count": 66
   },
   "galliera": {
    "ok": true,
@@ -129,400 +129,6 @@
   }
  ],
  "shows": [
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-22T10:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23662",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "modernissimo",
-   "sala": null,
-   "title": "Il postino",
-   "director": "Michael Radford",
-   "start": "2026-11-22T10:30+01:00",
-   "vos": false,
-   "tags": [
-    "Sold out",
-    "Evento speciale",
-    "Domenica Matinée | Visioni Italiane 2026"
-   ],
-   "ita": true,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/il-postino/?repeat=23260",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/05/postino1-1-2.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/il-postino"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-22T11:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23609",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-22T15:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23637",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-22T15:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23610",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Pesciolino & Superverme",
-   "director": "Alex Bain, Andy Martin, Jac Hamman e Sarah Scrimgeour",
-   "start": "2026-11-22T16:00+01:00",
-   "vos": false,
-   "tags": [
-    "Schermi e Lavagne"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/pesciolino-superverme/?repeat=23261",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/MLP_SW_Episodic_Stills_CrowandSuperwormStandoff.png",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/pesciolino-superverme"
-  },
-  {
-   "cinema": "modernissimo",
-   "sala": null,
-   "title": "Visioni Ambientali / Visioni Acquatiche",
-   "director": null,
-   "start": "2026-11-22T16:00+01:00",
-   "vos": false,
-   "tags": [
-    "Appuntamento",
-    "Visioni Italiane 2026"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/visioni-ambientali-visioni-acquatiche-2/?repeat=23502",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_ambientali-e-acquatiche.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/visioni-ambientali-visioni-acquatiche-2"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala DAMSLab",
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-22T16:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23663",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-22T17:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23595",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-22T17:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23611",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
-   "cinema": "modernissimo",
-   "sala": null,
-   "title": "Cerimonia di premiazione di Visioni Italiane",
-   "director": null,
-   "start": "2026-11-22T18:00+01:00",
-   "vos": false,
-   "tags": [
-    "Appuntamento",
-    "Visioni Italiane 2026"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane/?repeat=23503",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026-premiazione.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Fatherland",
-   "director": "Paweł Pawlikowski",
-   "start": "2026-11-22T18:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23649",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala DAMSLab",
-   "title": "Minotaur",
-   "director": "Andrey Zvyagintsev",
-   "start": "2026-11-22T19:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/minotaur/?repeat=23627",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/minotaur"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-22T19:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23664",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Fatherland",
-   "director": "Paweł Pawlikowski",
-   "start": "2026-11-22T20:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fatherland/?repeat=23650",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1.webp",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fatherland"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-22T20:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23612",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
-   "cinema": "medica",
-   "sala": null,
-   "title": "Hunger games l’alba sulla mietitura",
-   "director": "Francis Lawrence",
-   "start": "2026-11-22T21:00+01:00",
-   "vos": true,
-   "tags": [],
-   "buy": "https://medica.popupcinema.18tickets.it/film/131058/8259c5d8-d3ac-4a4f-8e20-ea2655e61810#theater-init",
-   "info": "https://medica.popupcinema.18tickets.it/film/131058",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
-   "film": "https://medica.popupcinema.18tickets.it/film/131058"
-  },
-  {
-   "cinema": "bristol",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-22T21:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/51ec9193-5c89-47c4-833b-0381e665eeaa#theater-init",
-   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Godzilla minus zero",
-   "director": "T. Yamazaki",
-   "start": "2026-11-22T21:30+01:00",
-   "vos": true,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/128980/7955ea15-2c07-44e1-a47c-2470214d0f08#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/128980",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/128980"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-22T21:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23638",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
-   "cinema": "jolly",
-   "sala": null,
-   "title": "Wildwood",
-   "director": "Travis Knight",
-   "start": "2026-11-22T21:30+01:00",
-   "vos": true,
-   "tags": [],
-   "buy": "https://jolly.popupcinema.18tickets.it/film/122644/7badcb22-2668-4383-93ae-6c35d1a6554e#theater-init",
-   "info": "https://jolly.popupcinema.18tickets.it/film/122644",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122644/standard_a4cc4800-5b11-46f0-8262-c654734c6a99.jpg",
-   "film": "https://jolly.popupcinema.18tickets.it/film/122644"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala DAMSLab",
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-22T21:30+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23596",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
-   "cinema": "modernissimo",
-   "sala": null,
-   "title": "Lorenzo – L’incredibile avventura di Jovanotti",
-   "director": "Dario Zonta e Carlo Zoratti",
-   "start": "2026-11-22T21:30+01:00",
-   "vos": false,
-   "tags": [
-    "Evento speciale",
-    "Visioni Italiane 2026",
-    "Anteprima"
-   ],
-   "ita": true,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/102974",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti/?repeat=23262",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Lorenzo_Still_010.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Scorsese",
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-22T22:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23665",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-22T22:15+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23613",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
   {
    "cinema": "modernissimo",
    "sala": null,
@@ -3594,6 +3200,69 @@
    "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
   },
   {
+   "cinema": "modernissimo",
+   "sala": null,
+   "title": "Balcanica",
+   "director": "Nicola Sorcinelli",
+   "start": "2026-12-02T16:00+01:00",
+   "vos": false,
+   "tags": [
+    "Cinema del presente"
+   ],
+   "ita": true,
+   "buy": null,
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/balcanica/?repeat=23682",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Balcanica.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/balcanica"
+  },
+  {
+   "cinema": "modernissimo",
+   "sala": null,
+   "title": "Alessandro Bergonzoni presenta ‘Non ardo dal desiderio di diventare uomo finché posso essere anche donna bambino animale o cosa’",
+   "director": null,
+   "start": "2026-12-02T18:00+01:00",
+   "vos": false,
+   "tags": [
+    "Appuntamento",
+    "ingresso libero con prenotazione"
+   ],
+   "ita": false,
+   "buy": null,
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/alessandro-bergonzoni-2/?repeat=23683",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/images-7.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/alessandro-bergonzoni-2"
+  },
+  {
+   "cinema": "modernissimo",
+   "sala": null,
+   "title": "Casablanca",
+   "director": "Michael Curtiz",
+   "start": "2026-12-02T20:15+01:00",
+   "vos": true,
+   "tags": [
+    "Best of Modernissimo"
+   ],
+   "ita": false,
+   "buy": null,
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/casablanca/?repeat=23684",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2023/11/casablanca_1-min-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/casablanca"
+  },
+  {
+   "cinema": "modernissimo",
+   "sala": null,
+   "title": "Io sono un autarchico",
+   "director": "Nanni Moretti",
+   "start": "2026-12-02T22:15+01:00",
+   "vos": false,
+   "tags": [],
+   "ita": true,
+   "buy": null,
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/autartico/?repeat=23685",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2020/09/io_autarchico.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/autartico"
+  },
+  {
    "cinema": "odeon",
    "sala": "Sala B",
    "title": "Il gatto col cappello",
@@ -4063,142 +3732,6 @@
   }
  ],
  "films": {
-  "https://cinetecadibologna.it/programmazione/proiezione/fjord": {
-   "country": "Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia",
-   "year": 2026,
-   "duration": 146,
-   "cast": "Renate Reinsve",
-   "plot": "“Famiglia evangelista dalla Romania alla Norvegia, causa lavoro. L’affidamento della prole (cinque bimbi, con un neonato) è tolto ai genitori (Stan e Reinsve), a causa di un livido sul volto della figlia adolescente: la loro educazione rigida (no a device e musica, sì a punizioni) non è adatta a un paese laico e progressista. Le destre protestano. Con il solito realismo lucido e sardonico Mungiu mette a paradossale processo una cultura subdola che, tramite la lingua della burocrazia, impone la propria verità” (Giorgio Sangiorgio). Palma d’Oro a Cannes 2026, seconda per il regista rumeno diciassette anni dopo 4 mesi, 3 settimane, 2 giorni .",
-   "trailer": "https://www.youtube.com/watch?v=frg59VOungA",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg-1200x630.jpg",
-   "fetched_at": "2026-11-18T00:50+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/il-postino": {
-   "country": "Italia, Francia, Belgio",
-   "year": 1994,
-   "duration": 108,
-   "plot": "La colonna sonora che valse a Bacalov l’Oscar contribuisce a costruire l’atmosfera emotiva del film, accentuata dalla tragica e prematura scomparsa di Troisi. Una favola moderna che immagina l’incontro fra Pablo Neruda (Philippe Noiret) in esilio in un’isola del Sud Italia e un sensibile postino, al quale il grande poeta paternamente dischiuderà l’universo della cultura e della politica, fornendogli il lessico amoroso per conquistare la sua bella e nuovi strumenti per vedere il mondo col desiderio di cambiarlo. (ac)",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/05/postino1-1-2-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine": {
-   "country": "GB, USA",
-   "year": 2026,
-   "duration": 118,
-   "cast": "Sam Rockwell, John Malkovich e Steve Buscemi",
-   "plot": "Due agenti della CIA lasciano il Cile poco prima del golpe contro Allende per una gita sull’isola di Pasqua, ma il loro non è un viaggio di piacere. Dopo Tre manifesti a Ebbing, Missouri e Gli spiriti dell’isola , McDonagh si conferma “uno dei più ispirati cantori cinematografici della brutalità e dell’imprevedibilità dell’esistenza. […] Wild Horse Nine gioca, infatti, in maniera brillante col genere spionistico […] e nel frattempo si stratifica progressivamente e si trasforma in un apologo tragico e politico. […] Si muore dal ridere, mentre si assiste allo spettacolo di un confronto senza vincitori possibili, che riflette amaramente sugli abusi del potere” (Marianna Cappi). Coppa Volpi a Venezia 2026 per John Malkovich, irresistibile in coppia con Sam Rockwell.",
-   "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva": {
-   "country": "Francia, Italia",
-   "year": 2026,
-   "duration": 145,
-   "plot": "È l'ultimo anno del liceo pubblico francese e una scolaresca va in gita a Pompei, accompagnata dall'insegnante di latino.[...] La Gradiva , una coproduzione italo-francese con un cast di giovanissimi d'oltralpe, è la storia di un gruppo di adolescenti sulle soglie della vita adulta, vicini alla scelta - universitaria o di avviamento professionale - che darà forma al loro futuro, relegandoli in uno dei gironi socioeconomici di un mondo sempre più a compartimenti stagni.[...] Marine Atlan entra nella loro confusione e segue i loro sbandamenti, in un'illustrazione della condizione umana a 18 anni, ingenerosa verso tutti, anche gli adulti che accompagnano l'uscita obbligatoria dall'adolescenza. (Paola Casella, Mymovies.it)",
-   "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/pesciolino-superverme": {
-   "country": "GB",
-   "year": 2026,
-   "plot": "Superverme è forte e coraggioso, ma quando viene rapito dal malvagio Mago servirà un piano accorto per farlo uscire dai guai. Un piccolo pesciolino racconta grandi storie. Finito nelle profondità dell’oceano, sarà la sua immaginazione a salvarlo. Due nuovi splendidi adattamenti degli amatissimi albi illustrati di Julia Donaldson e Axel Scheffler – creatori di Il Gruffalò e La strega Rossella – realizzati dalla casa di produzione inglese Magic Light Pictures. Animazione. Dai 3 anni in su",
-   "trailer": "https://www.youtube.com/watch?v=CBKl3EqVXsY",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/MLP_SW_Episodic_Stills_CrowandSuperwormStandoff-1200x630.png",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/visioni-ambientali-visioni-acquatiche-2": {
-   "plot": "Visioni Ambientali COSMIC LATTE (Italia/2026) di Carroli Francesco, Giraudo Greta e Mantovani Beatrice (8’) In una torrida giornata di sole cocente, tutte le mucche iniziano a sciogliersi, lasciando al suolo soltanto le macchie scure del loro mantello. Una coppia di esperti indaga: sarà Maia, una giovane scienziata intollerante al lattosio, a capire cosa sta accadendo. L’ISOLA DELLE PERSONE (Italia/2026) di Nebbia Fulvio e Puliafito Alberto (4’) Sull’isola abbandonata di Poveglia, nella laguna di Venezia, un movimento civico si oppone alla svendita del territorio. Quella che era iniziata come una protesta si trasforma in una campagna di crowdfunding da 450.000 €, capace di restituire l’isola alla collettività. PENSAVO DI AVERE PIÙ TEMPO (Italia/2026) di Pinzauti Giorgia, Gelsi Cloe e Micozzi Giulia (6’) Una pianta di faggio è cresciuta in città, nel parco Don Bosco di Bologna, secondo le abitudini di un contesto a lei estraneo. Attraverso il suo sguardo osserviamo la routine urbana e le sue contraddizioni abitative, che coinvolgono sia le piante sia gli esseri umani. RIFUGIATI CLIMATICI (Italia/2025) di Christofer Antonio Dos Reis Miranda Lopes e Giorgia Ciraolo (3’) Una riflessione sulla sopravvivenza come destino condiviso, che mette in relazione la migrazione dei pesci tropicali, costretti a spostarsi a causa dell’aumento delle temperature, e quella degli esseri umani che subiscono le stesse conseguenze della crisi climatica. YA FALLAH (Palestina/2025) di Davide Blotta e…",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026_ambientali-e-acquatiche-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/look-back": {
-   "country": "Giappone",
-   "year": 2026,
-   "duration": 100,
-   "plot": "Fujino, adolescente determinata e piena di talento, sogna di diventare una mangaka. Kyomoto, schiva e solitaria, vive quasi sempre chiusa nella sua stanza, dedicando ogni istante al disegno. Unite dalla stessa passione, le due ragazze, cresciute in una piccola città, inseguono per tredici anni il sogno di diventare autrici di manga.",
-   "trailer": "https://www.youtube.com/watch?v=ILBDFlYMGAY",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/cerimonia-di-premiazione-di-visioni-italiane": {
-   "plot": "A seguire proiezione dei film vincitori",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/VI2026-premiazione.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/fatherland": {
-   "country": "Germania, Polonia, Italia, Francia",
-   "year": 2026,
-   "duration": 82,
-   "cast": "Sandra Hüller",
-   "plot": "Il viaggio che Thomas Mann fece nel 1949 in Germania, dopo tredici anni di esilio. Lo accompagna la figlia Erika, segnata dalle incomprensioni tra il padre e il fratello Klaus. Splendido omaggio a Rossellini (Germania anno zero, ma non solo) è un nuovo, disperato capitolo, dopo Ida e Cold War, della riflessone di Pawlikowski sull’Europa del dopoguerra. “Chiuso in un formato quadrato che, grazie anche alla fotografia in bianco e nero di Łukasz Zal, trasmette quel senso di oppressione che Mann si sentiva addosso dopo il lungo esilio, il film ci chiede attraverso il suo protagonista quale possa essere il ruolo della cultura nella creazione di un’Europa nuova, capace di risorgere dalle macerie della Seconda guerra mondiale” (Paolo Mereghetti).",
-   "trailer": "https://www.youtube.com/watch?v=oiID00YmcEw",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1-1068x630.webp",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/minotaur": {
-   "country": "Francia, Germania, Lettonia",
-   "year": 2026,
-   "duration": 135,
-   "plot": "Nella provincia russa vivono placidamente il ricco dirigente Gleb, la moglie Galina e il figlio adolescente, appena toccati dagli effetti della guerra con l'Ucraina. Fino a quando Gleb farà una scoperta che cambierà il suo modo di guardare la realtà. “La vita in tempo di guerra è il tema del film di Andrey Zvyagintsev, ritratto di una nazione paralizzata dalla disillusione e dalla paura, che lentamente prende coscienza – o si rifugia nella negazione collettiva – del terribile errore commesso in Ucraina. È una variazione di La Femme infidèle di Claude Chabrol, con influenze dalle Anime morte di Gogol e dai quattordici sacrifici dovuti al Minotauro secondo la mitologia greca. È anche un thriller-noir sull’infedeltà e la vendetta, che acquista un nuovo significato nel contesto di cinismo mortale e di malafede politica in cui matura, un mondo in cui i potenti, immersi nell’odio per se stessi, hanno fatto dell’occultamento delle malefatte il loro stile di vita” (Peter Bradshaw).",
-   "trailer": "https://www.youtube.com/watch?v=hTHeFP0mcuk",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://medica.popupcinema.18tickets.it/film/131058": {
-   "year": 2026,
-   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
-   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
-   "genre": "Avventura, Fantascienza, Azione",
-   "duration": 158,
-   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
-   "wd_checked": true
-  },
-  "https://bristol.popupcinema.18tickets.it/film/126603": {
-   "year": 2026,
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
-   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
-   "genre": "Dramma",
-   "duration": 106,
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
-  "https://arlecchino.popupcinema.18tickets.it/film/128980": {
-   "year": 2026,
-   "cast": "M. Hamabe, R. Kamiki, J. Kunimura Trama AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO. Info 135 min",
-   "plot": "AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO.",
-   "genre": "Fantastico",
-   "duration": 135,
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "wd_checked": true,
-   "country": "Giappone"
-  },
-  "https://jolly.popupcinema.18tickets.it/film/122644": {
-   "year": 2026,
-   "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Angela Bassett, Awkwafina, Jake Johnson, Charlie Day, A... Trama Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola. Info 127 min",
-   "plot": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-   "genre": "Animazione, Avventura, Fantasy",
-   "duration": 127,
-   "trailer": "https://www.youtube.com/watch?v=7rQ_JSUt_bs",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/122644/standard_a4cc4800-5b11-46f0-8262-c654734c6a99.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
-   "wd_checked": true
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/lorenzo-lincredibile-avventura-di-jovanotti": {
-   "country": "Italia",
-   "year": 2026,
-   "duration": 83,
-   "plot": "Vita straordinaria di Lorenzo Cherubini, in arte Jovanotti: le canzoni, il successo, i viaggi, la bici, dalla radio locale alle folle di pubblico. Ma Lorenzo non si ferma lì, non è solo quello. Attraversa ciò che conosciamo e arriva in un luogo più intimo, segreto, sorprendente. Un racconto autentico e personale, che diventa una riflessione universale sulla capacità di continuare a sognare, amare e crescere, a qualsiasi età. È così che l’artista che tutti conosciamo diventa la persona che pochissimi hanno davvero incontrato.",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Lorenzo_Still_010-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/visita-guidata-accessibile-al-modernissimo": {
    "plot": "Una visita al Cinema Modernissimo, promossa dall’Associazione La Girobussola APS, con un percorso guidato interattivo che coinvolgerà tutti i sensi, attraverso esplorazioni tattili, ascolto e racconto. Progettata per essere completamente accessibile a persone con disabilità visiva, ma aperta anche e chi vede e frequenta la sala e crede di conoscerla come le sue tasche. Un invito a lasciarsi sorprendere da una prospettiva nuova. Ingresso libero con prenotazione obbligatoria fino a esaurimento dei posti disponibili Info: info@lagirobussola.com",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2025/10/Modernissimo_Cineteca-di-Bologna_Foto-Lorenzo-Burlando_11-1200x630.jpg",
@@ -4237,6 +3770,15 @@
    "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
    "fetched_at": "2026-11-22T21:43+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva": {
+   "country": "Francia, Italia",
+   "year": 2026,
+   "duration": 145,
+   "plot": "È l'ultimo anno del liceo pubblico francese e una scolaresca va in gita a Pompei, accompagnata dall'insegnante di latino.[...] La Gradiva , una coproduzione italo-francese con un cast di giovanissimi d'oltralpe, è la storia di un gruppo di adolescenti sulle soglie della vita adulta, vicini alla scelta - universitaria o di avviamento professionale - che darà forma al loro futuro, relegandoli in uno dei gironi socioeconomici di un mondo sempre più a compartimenti stagni.[...] Marine Atlan entra nella loro confusione e segue i loro sbandamenti, in un'illustrazione della condizione umana a 18 anni, ingenerosa verso tutti, anche gli adulti che accompagnano l'uscita obbligatoria dall'adolescenza. (Paola Casella, Mymovies.it)",
+   "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-1200x630.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00"
   },
   "https://www.circuitocinemabologna.it/film/fatherland": {
    "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
@@ -4293,6 +3835,16 @@
    "fetched_at": "2026-11-18T00:50+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
   },
+  "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine": {
+   "country": "GB, USA",
+   "year": 2026,
+   "duration": 118,
+   "cast": "Sam Rockwell, John Malkovich e Steve Buscemi",
+   "plot": "Due agenti della CIA lasciano il Cile poco prima del golpe contro Allende per una gita sull’isola di Pasqua, ma il loro non è un viaggio di piacere. Dopo Tre manifesti a Ebbing, Missouri e Gli spiriti dell’isola , McDonagh si conferma “uno dei più ispirati cantori cinematografici della brutalità e dell’imprevedibilità dell’esistenza. […] Wild Horse Nine gioca, infatti, in maniera brillante col genere spionistico […] e nel frattempo si stratifica progressivamente e si trasforma in un apologo tragico e politico. […] Si muore dal ridere, mentre si assiste allo spettacolo di un confronto senza vincitori possibili, che riflette amaramente sugli abusi del potere” (Marianna Cappi). Coppa Volpi a Venezia 2026 per John Malkovich, irresistibile in coppia con Sam Rockwell.",
+   "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine-1200x630.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/calle-malaga": {
    "country": "Spagna",
    "year": 2025,
@@ -4300,6 +3852,15 @@
    "cast": "Carmen Maura",
    "plot": "La settantanovenne spagnola María Ángeles vive da sola a Tangeri, in Marocco. La sua routine viene sconvolta quando sua figlia arriva da Madrid per vendere la casa in cui ha sempre vissuto. Determinata a rimanere, riscoprirà anche l’amore e la sensualità. “Volevo confrontarmi con le opinioni della società sull’invecchiamento – le aspettative, i pregiudizi, le barriere. Credo nella libertà di invecchiare come vogliamo. Volevo raccontare una storia diversa: vibrante, sensuale e provocatoria. E nel farlo, tornare alle mie radici” (Maryam Touzani).",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/07/Calle-Malaga-1200x630.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/minotaur": {
+   "country": "Francia, Germania, Lettonia",
+   "year": 2026,
+   "duration": 135,
+   "plot": "Nella provincia russa vivono placidamente il ricco dirigente Gleb, la moglie Galina e il figlio adolescente, appena toccati dagli effetti della guerra con l'Ucraina. Fino a quando Gleb farà una scoperta che cambierà il suo modo di guardare la realtà. “La vita in tempo di guerra è il tema del film di Andrey Zvyagintsev, ritratto di una nazione paralizzata dalla disillusione e dalla paura, che lentamente prende coscienza – o si rifugia nella negazione collettiva – del terribile errore commesso in Ucraina. È una variazione di La Femme infidèle di Claude Chabrol, con influenze dalle Anime morte di Gogol e dai quattordici sacrifici dovuti al Minotauro secondo la mitologia greca. È anche un thriller-noir sull’infedeltà e la vendetta, che acquista un nuovo significato nel contesto di cinismo mortale e di malafede politica in cui matura, un mondo in cui i potenti, immersi nell’odio per se stessi, hanno fatto dell’occultamento delle malefatte il loro stile di vita” (Peter Bradshaw).",
+   "trailer": "https://www.youtube.com/watch?v=hTHeFP0mcuk",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
   },
   "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
@@ -4380,6 +3941,25 @@
    "fetched_at": "2026-11-18T00:50+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg"
   },
+  "https://cinetecadibologna.it/programmazione/proiezione/look-back": {
+   "country": "Giappone",
+   "year": 2026,
+   "duration": 100,
+   "plot": "Fujino, adolescente determinata e piena di talento, sogna di diventare una mangaka. Kyomoto, schiva e solitaria, vive quasi sempre chiusa nella sua stanza, dedicando ogni istante al disegno. Unite dalla stessa passione, le due ragazze, cresciute in una piccola città, inseguono per tredici anni il sogno di diventare autrici di manga.",
+   "trailer": "https://www.youtube.com/watch?v=ILBDFlYMGAY",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back-1200x630.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/fatherland": {
+   "country": "Germania, Polonia, Italia, Francia",
+   "year": 2026,
+   "duration": 82,
+   "cast": "Sandra Hüller",
+   "plot": "Il viaggio che Thomas Mann fece nel 1949 in Germania, dopo tredici anni di esilio. Lo accompagna la figlia Erika, segnata dalle incomprensioni tra il padre e il fratello Klaus. Splendido omaggio a Rossellini (Germania anno zero, ma non solo) è un nuovo, disperato capitolo, dopo Ida e Cold War, della riflessone di Pawlikowski sull’Europa del dopoguerra. “Chiuso in un formato quadrato che, grazie anche alla fotografia in bianco e nero di Łukasz Zal, trasmette quel senso di oppressione che Mann si sentiva addosso dopo il lungo esilio, il film ci chiede attraverso il suo protagonista quale possa essere il ruolo della cultura nella creazione di un’Europa nuova, capace di risorgere dalle macerie della Seconda guerra mondiale” (Paolo Mereghetti).",
+   "trailer": "https://www.youtube.com/watch?v=oiID00YmcEw",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1-1068x630.webp",
+   "fetched_at": "2026-11-22T21:43+01:00"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/our-hobby-is-depeche-mode": {
    "country": "GB",
    "year": 2007,
@@ -4398,6 +3978,16 @@
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124755/standard_a92ccb3c-fb51-491b-9b29-5724da1022c5.jpg",
    "fetched_at": "2026-11-22T21:43+01:00",
    "wd_checked": true
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/fjord": {
+   "country": "Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia",
+   "year": 2026,
+   "duration": 146,
+   "cast": "Renate Reinsve",
+   "plot": "“Famiglia evangelista dalla Romania alla Norvegia, causa lavoro. L’affidamento della prole (cinque bimbi, con un neonato) è tolto ai genitori (Stan e Reinsve), a causa di un livido sul volto della figlia adolescente: la loro educazione rigida (no a device e musica, sì a punizioni) non è adatta a un paese laico e progressista. Le destre protestano. Con il solito realismo lucido e sardonico Mungiu mette a paradossale processo una cultura subdola che, tramite la lingua della burocrazia, impone la propria verità” (Giorgio Sangiorgio). Palma d’Oro a Cannes 2026, seconda per il regista rumeno diciassette anni dopo 4 mesi, 3 settimane, 2 giorni .",
+   "trailer": "https://www.youtube.com/watch?v=frg59VOungA",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg-1200x630.jpg",
+   "fetched_at": "2026-11-18T00:50+01:00"
   },
   "https://arlecchino.popupcinema.18tickets.it/film/130962": {
    "year": 2025,
@@ -4440,6 +4030,17 @@
    "trailer": "https://www.youtube.com/watch?v=JfIUk1GP5p8",
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/10/REEL-NEW-22.10-4.png",
    "fetched_at": "2026-11-22T21:43+01:00"
+  },
+  "https://medica.popupcinema.18tickets.it/film/131058": {
+   "year": 2026,
+   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
+   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
+   "genre": "Avventura, Fantascienza, Azione",
+   "duration": 158,
+   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "fetched_at": "2026-11-17T15:20+01:00",
+   "wd_checked": true
   },
   "https://www.circuitocinemabologna.it/film/minotaur": {
    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Anatoliy Beliy, Juris Zagars, Varvara Shmykova",
@@ -4599,13 +4200,24 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/I-Swear-1-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
   },
+  "https://arlecchino.popupcinema.18tickets.it/film/128980": {
+   "year": 2026,
+   "cast": "M. Hamabe, R. Kamiki, J. Kunimura Trama AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO. Info 135 min",
+   "plot": "AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO.",
+   "genre": "Fantastico",
+   "duration": 135,
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/128980/standard_3f17650d-99e8-45d0-8ad7-a188ad92e847.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "wd_checked": true,
+   "country": "Giappone"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/la-mano-dello-straniero": {
    "country": "Italia",
    "year": 1954,
    "duration": 87,
    "plot": "Un bambino è alla ricerca del padre rapito, in una Venezia vociante e ostile, aiutato da una bella infermiera, ma anche da un ambiguo medico. Da un racconto di Graham Greene che Soldati adatta insieme a lui e a Giorgio Bassani, un film di spionaggio in tempi di guerra fredda, con un’atmosfera chiaramente ispirata a Stevenson. Girato tra varie difficoltà, il film ha un uso dei luoghi magistrale e un cattivo indimenticabile interpretato da Eduardo Ciannelli, caratterista italo-americano (aveva lavorato con Hitchcock e Ford) promosso a protagonista. (em) Copia proveniente da CSC – Cineteca Nazionale",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Mano-dello-straniero-la-1-Soldati-868x630.jpg",
-   "fetched_at": "2026-11-16T00:57+01:00"
+   "fetched_at": "2026-11-23T04:43+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/manhattan": {
    "country": "USA",
@@ -4613,7 +4225,19 @@
    "duration": 96,
    "plot": "Sinfonia postmoderna d’una grande città, ricamo di citazioni affidate a un bianco e nero di bellezza vertiginosa. Ike Davis, scrittore ebreo che ha già i suoi problemi con le donne, s’innamora di Mary Wilkie, giornalista wasp, “nervosa, tesa, elusiva”. L’amore è un lento crescendo musicale tra appartamenti in penombra, sale del Whitney, il Central Park dei temporali estivi, le sfere celesti del Planetarium, quella panchina con vista sul Brooklyn Bridge. Il nuovo cinema americano, se ancora di questo possiamo parlare, trova qui il vertice estetico e il definitivo punto di fuga. (pcris)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2021/10/Manhattan_16-scaled.jpg",
-   "fetched_at": "2026-11-16T00:57+01:00"
+   "fetched_at": "2026-11-23T04:43+01:00"
+  },
+  "https://bristol.popupcinema.18tickets.it/film/126603": {
+   "year": 2026,
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
+   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+   "genre": "Dramma",
+   "duration": 106,
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "wd_checked": true,
+   "country": "Italia"
   },
   "https://arlecchino.popupcinema.18tickets.it/film/43245": {
    "year": 2025,
@@ -4633,7 +4257,7 @@
    "duration": 103,
    "plot": "Nel maggio nel 1945 il partigiano nazionalista ‘bianco’ Maciek (Zbigniew Cybulski, nel ruolo che lo consacrò come il ‘James Dean polacco’) riceve l’ordine di eliminare un vecchio dirigente comunista ma uccide per sbaglio due operai. L’amore per una cameriera non basterà a distorglierlo dal suo ‘dovere’ e da un destino tragico. Non ci sono eroi in questa opera-manifesto della cosiddetta scuola polacca, che anticipa il nuovo cinema degli anni Sessanta. Sostenuto da un ritmo incalzante, è il film della delusione, dell’amarezza e dello scacco di un’intera generazione uscita dal terrore dell’occupazione, in cui “i fantasmi, i sogni e gli incubi individuali si distillano in una commedia realistica venata di simbolismo visionario” (Peter von Bagh). (ac)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2021/10/ashes-diamonds.jpg",
-   "fetched_at": "2026-11-16T00:57+01:00"
+   "fetched_at": "2026-11-23T04:43+01:00"
   },
   "https://www.cinemateatrogalliera.it/il-canto-di-alina": {
    "genre": "Drammatico",
@@ -4954,6 +4578,37 @@
    "plot": "Il grande Jeffrey ‘Dude’ Lebowski, un reduce di giuste battaglie. Un eroe dei nostri (altri) tempi. Un’icona di stile, con le sue camicie hawaiane, i bermuda, i sandali, e quella stazza debordante e filosofica, la malinconica coscienza di trovarsi sempre altrove rispetto al senso delle cose (che comunque non esiste). Lebowski è un Marlowe post-hippy, cinico quanto basta a salvarsi la vita, fedele ai propri principi etici ed estetici, incline a certi sogni lisergici. (pcris)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2022/10/big-lebowski.png",
    "fetched_at": "2026-11-22T04:05+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/balcanica": {
+   "country": "Italia, Serbia, Croazia",
+   "year": 2026,
+   "duration": 86,
+   "cast": "Matilda De Angelis e Babak Karimi",
+   "plot": "Il direttore d’orchestra Nazar e suo figlio Jalil, suonatore di tuba, intraprendono il difficile e pericoloso cammino della rotta balcanica, per fuggire dall’Afghanistan dove dal 2021 i talebani hanno bandito la pratica e l’ascolto di ogni forma di musica. L’obiettivo è arrivare in Italia, ma non sarà facile. Premio del pubblico alle Giornate degli autori di Venezia 2026, l’esordio di Nicola Sorcinelli è un’opera prima coraggiosa e necessaria, “un film di silenzi, quasi ovattato nel dolore, nel quale tutto è perduto, anche l’illusione di una preghiera” (Adriano De Grandis)",
+   "trailer": "https://www.youtube.com/watch?v=5OMnk3kE_t8",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Balcanica-1200x630.jpg",
+   "fetched_at": "2026-11-23T04:43+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/alessandro-bergonzoni-2": {
+   "plot": "Un libro (Garzanti, 2026) ossessivo sul possibilismo estremo, sulle visioni dell’inimmaginabile, a “cavallo, disarcionato”, tra letteratura e poesia, senza alcuna indulgenza a trame romanzanti né saggi. Con una scrittura evocativa, materica e sonante, la mano di Bergonzoni accarezza “le molteplicità dell’irrealtà esistente e di ultima necessità: quella della luce, da fare essere e rifrangere. Ecco perché mi sento un po’ dada e un po’ bebè”.",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/images-7.jpg",
+   "fetched_at": "2026-11-23T04:43+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/casablanca": {
+   "country": "USA",
+   "year": 1942,
+   "duration": 102,
+   "plot": "L’apogeo dell’immaginazione romantica americana, sullo sfondo fantastico d’una guerra vera. Per tutti quelli che piangono quando nel bar di Rick ci si alza in piedi, e sul grugno torvo dell’oppressore ci si mette a cantare La Marsigliese. Per tutti quelli che credono davvero che “avremo sempre Parigi”. Per tutti noi Ingrid sarà sempre Ilsa Lund, vestita di bianco nella penombra d’un locale di Casablanca, trepidante d’un amore assoluto e di una resistenziale rinuncia. Perché ora il mondo is looking at you, kid. Perché non sei mai stata così bella. (pcris)",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2023/11/casablanca_1-min-1200x630.jpg",
+   "fetched_at": "2026-11-23T04:43+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/autartico": {
+   "country": "Italia",
+   "year": 1976,
+   "duration": 95,
+   "plot": "Disavventure di un gruppo di teatranti impegnati a mettere in scena uno spettacolo off in una cantina romana. Girato in Super8, con amici, familiari e intellettuali attori, dopo un passaggio al Filmstudio di Roma il primo lungometraggio del regista romano venne stampato in 16mm, distribuito in sala e trasmesso dalla Rai. Nasce così il fenomeno Moretti, che crea qui il suo alter-ego Michele Apicella (è il cognome della madre) e imbastisce una satira lucida della cultura post-sessantottina “che gronda d’umorismo rabbioso e disincantato” (il Mereghetti). Battuta-simbolo: “Il dibattito no!”. (gds) Copia proveniente da CSC – Cineteca Nazionale",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2020/09/io_autarchico.jpg",
+   "fetched_at": "2026-11-23T04:43+01:00"
   },
   "https://www.circuitocinemabologna.it/film/il-gatto-col-cappello-the-cat-in-the-hat": {
    "cast": "Bill Hader, Xochitl Gomez, Tiago Martinez, Matt Berry, Quinta Brunson, Bowen Yang, America Ferrera, Paula Pell, Tituss Burgess, Giancarlo Esposito",
