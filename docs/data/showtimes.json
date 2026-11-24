@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T04:18+01:00",
+ "generated_at": "2026-11-24T16:48+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 64
+   "count": 139
   },
   "cineteca": {
    "ok": true,
@@ -11,11 +11,11 @@
   },
   "popup": {
    "ok": true,
-   "count": 56
+   "count": 137
   },
   "galliera": {
    "ok": true,
-   "count": 10
+   "count": 24
   }
  },
  "cinemas": [
@@ -140,7 +140,7 @@
     "New Hollywood"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/16197",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/qualcuno-volo-sul-nido-del-cuculo/?repeat=23267",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/flew-1024x576-1.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/qualcuno-volo-sul-nido-del-cuculo"
@@ -156,62 +156,10 @@
     "New Hollywood"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/15738/b0935349-605d-40ed-ab20-3637652b65ad#theater-init",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/non-aprite-quella-porta/?repeat=23247",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/01/texas-chainsaw-massacre-texas-monthly.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/non-aprite-quella-porta"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Godzilla minus zero",
-   "director": "T. YAMAZAKI",
-   "start": "2026-11-24T14:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/129012/dcec42e2-5a59-4177-ba60-dac1a408c050#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/129012",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/129012"
-  },
-  {
-   "cinema": "jolly",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-24T14:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://jolly.popupcinema.18tickets.it/film/126603/943501c2-a8ca-4106-830c-43a33a432e26#theater-init",
-   "info": "https://jolly.popupcinema.18tickets.it/film/126603",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "film": "https://jolly.popupcinema.18tickets.it/film/126603"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "Un tranquillo funerale di famiglia",
-   "director": "Massimiliano Bruno",
-   "start": "2026-11-24T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/un-tranquillo-funerale-di-famiglia_2026/864358#sala",
-   "info": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Look Back",
-   "director": "Hirokazu Kore Eda",
-   "start": "2026-11-24T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/864330#sala",
-   "info": "https://www.circuitocinemabologna.it/film/look-back/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/look-back"
   },
   {
    "cinema": "cervi",
@@ -224,36 +172,10 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23641",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
-   "cinema": "europa",
-   "sala": null,
-   "title": "Fatherland",
-   "director": "Paweł Pawlikowski",
-   "start": "2026-11-24T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://europa.ccb.18tickets.it/film/fatherland_2026/864107#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fatherland/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fatherland"
-  },
-  {
-   "cinema": "medica",
-   "sala": null,
-   "title": "Hunger games l’alba sulla mietitura",
-   "director": "Francis Lawrence",
-   "start": "2026-11-24T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://medica.popupcinema.18tickets.it/film/131025/37ccb29c-e3e4-4a34-86e8-c37041f34d69#theater-init",
-   "info": "https://medica.popupcinema.18tickets.it/film/131025",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
-   "film": "https://medica.popupcinema.18tickets.it/film/131025"
   },
   {
    "cinema": "modernissimo",
@@ -267,49 +189,10 @@
     "Introduce Anna Masecchia"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/101985",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/paris-calligrammes/?repeat=23269",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/PARIS-CALLIGRAMMES.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/paris-calligrammes"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala C",
-   "title": "L'essere amato",
-   "director": "Rodrigo Sorogoyen",
-   "start": "2026-11-24T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/l-essere-amato-el-ser-querido-_2026/864340#sala",
-   "info": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
-   "film": "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "Mustang",
-   "director": "Kasia Smutniak",
-   "start": "2026-11-24T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/mustang_2026-60aa132c-8eab-448d-a544-5dfd481b4df7/864109#sala",
-   "info": "https://www.circuitocinemabologna.it/film/mustang/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/MUSTANG-S.Taricone-e1794929734729.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/mustang"
-  },
-  {
-   "cinema": "roma",
-   "sala": null,
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-24T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/864196#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
   },
   {
    "cinema": "lumiere",
@@ -322,7 +205,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23598",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
@@ -342,32 +225,6 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23668",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala A",
-   "title": "Il rumore delle cose nuove",
-   "director": "Paolo Genovese",
-   "start": "2026-11-24T16:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/864147#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "film": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 1",
-   "title": "Wild Horse Nine",
-   "director": "Martin Mc Donagh",
-   "start": "2026-11-24T16:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/wild-horse-nine_2026/864284#sala",
-   "info": "https://www.circuitocinemabologna.it/film/wild-horse-nine/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
-   "film": "https://www.circuitocinemabologna.it/film/wild-horse-nine"
   },
   {
    "cinema": "arlecchino",
@@ -852,7 +709,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23642",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
@@ -920,11 +777,12 @@
    "start": "2026-11-24T21:45+01:00",
    "vos": true,
    "tags": [
+    "Sold out",
     "Evento speciale",
     "Incontro con Robert Aramayo"
    ],
    "ita": false,
-   "buy": "https://cinetecabologna.18tickets.it/film/105614?ref_date=2026-11-24",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/i-swear/?repeat=23504",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/I-Swear-1.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/i-swear"
@@ -1037,7 +895,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23675",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
@@ -1674,7 +1532,7 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/96935?ref_date=2026-10-27",
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23676",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
@@ -1780,6 +1638,19 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
+   "cinema": "odeon",
+   "sala": "Sala A",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-26T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868441#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "Terraviva film festival",
@@ -1809,6 +1680,97 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/policarpo-ufficiale-di-scrittura"
   },
   {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-26T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868330#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-26T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868314#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-26T16:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868344#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-26T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/126603/2ded634f-777f-41e0-baac-ba82f71e5504#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-26T17:05+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/c81de08e-f85a-400d-8c14-1bbdd285417e#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-26T17:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/0a3ffbcd-009e-443e-a7f9-38f9bedb9513#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-26T17:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868442#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "American Gigolò",
@@ -1824,6 +1786,110 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/american-gigolo/?repeat=23278",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/american-gigolo.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/american-gigolo"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-26T17:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868331#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-26T18:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868315#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-26T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868356#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-26T18:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/075c759c-a58f-4710-9649-5b5fd908cfce#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-26T18:55+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/1566679e-4743-4b66-88cc-c81cc16a1d07#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-26T19:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/e8fbc344-6472-47e6-921c-3faa8b912313#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Lorenzo - L’incredibile avventura di jovanotti",
+   "director": "Dario Zonta, Carlo Zoratti",
+   "start": "2026-11-26T19:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133666/45492b10-8ddc-49b8-9d07-8195d4726c40#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133666",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133666/standard_091788ed-8bbe-4172-9e7c-a439f81e4530.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133666"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-26T19:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868443#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
   },
   {
    "cinema": "galliera",
@@ -1859,6 +1925,32 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/lanno-di-baggio"
   },
   {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-26T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/130962/d87c58ae-41ed-4b38-a1c6-a79bf33c35ae#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-26T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868367#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
    "title": "La leggenda di zagor",
@@ -1888,6 +1980,58 @@
    "info": "https://www.circuitocinemabologna.it/film/fjord-v-o-2/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/08cul-fjord-review-qgtj-videoSixteenByNine3000.webp",
    "film": "https://www.circuitocinemabologna.it/film/fjord-v-o-2"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-26T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/c0b8966f-3a1d-4764-a3d0-aa1d82795320#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-26T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131025/8f016b85-b668-492f-baee-eb77d618a10c#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131025",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131025"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-26T21:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/ff3fda71-77cc-4b01-b7d8-4f9654932fd5#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-26T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868357#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/dn4u7pxM2PWeuvZcsgrkQQOQOBs.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back-v-o"
   },
   {
    "cinema": "modernissimo",
@@ -1939,6 +2083,97 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/green-rossellini"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-27T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/126603/59579ccb-123e-4b27-8247-c51e9a7670c0#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-27T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/90d65b89-3fda-4af4-bb13-8f93a849293c#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-27T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/8822022e-2817-420c-9a60-49597b9f4efb#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala A",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-27T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868444#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-27T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868332#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-27T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868316#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-27T16:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868348#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Un po’ di luce",
@@ -1953,6 +2188,86 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/un-po-di-luce/?repeat=23298",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Un-po-di-luce.jpeg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/un-po-di-luce"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-11-27T16:30+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-27T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/126603/2a7d26a1-9b4e-4dd8-adc8-0733b6148d60#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-27T17:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/e8d41e7c-f51d-4141-8406-f45e26a74137#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-27T17:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/74892de9-2fd9-49fd-a472-e79cce5857f3#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-27T17:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868445#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-27T17:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868333#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
   },
   {
    "cinema": "modernissimo",
@@ -1970,6 +2285,97 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/dario-franceschini-presenta-la-fiuma/?repeat=23281",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/dario-franceschini.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/dario-franceschini-presenta-la-fiuma"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-27T18:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868317#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-27T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868362#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-27T18:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/85968608-ff24-45a1-bd16-7569c57c90eb#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-27T18:55+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/4ce1e696-224b-419a-b22d-dae9b0922c51#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Coyote vs. Acme",
+   "director": "Dave Green",
+   "start": "2026-11-27T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/coyote-vs-acme/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/coyote-vs-acme"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-27T19:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/d5558e81-928f-49a0-9e0b-4298175126fd#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-27T19:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868446#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
   },
   {
    "cinema": "modernissimo",
@@ -2005,6 +2411,99 @@
    "film": "https://medica.popupcinema.18tickets.it/film/124326"
   },
   {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-27T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/130962/20e22408-6b17-413e-b10d-9cdb95a592e1#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-27T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868368#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-27T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868318#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-27T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/7889d183-6450-4be3-9fc7-517fb1ea9844#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-27T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/70395b53-191d-4288-8a2e-f6f4ad069ad7#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Il canto delle foresta",
+   "director": "Vincent Munier",
+   "start": "2026-11-27T21:30+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-27T21:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868345#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Incontri ravvicinati del terzo tipo – Director’s Cut",
@@ -2038,6 +2537,45 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/america-inquieta-minnie-e-moskowitz-e-la-nuova-hollywood-degli-outsider"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-28T14:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/325c5189-a00e-476e-b079-f8a65c759534#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-28T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/6c1f91bf-bcd1-44e9-9112-b398eb054f4d#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala A",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-28T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868447#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "La città incantata",
@@ -2052,6 +2590,136 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/la-citta-incantata/?repeat=23285",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2022/08/la-citta-incantata.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-citta-incantata"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-28T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868334#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-28T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868319#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-28T16:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868349#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-28T16:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/03e2cf97-841b-433f-8c0f-6b0fffee7ac7#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Coyote vs. Acme",
+   "director": "Dave Green",
+   "start": "2026-11-28T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/coyote-vs-acme/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/coyote-vs-acme"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-28T16:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/5ee5b516-a8ca-442c-bda4-7a15ac6d4686#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-28T17:05+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/8b650175-5d53-4902-9b51-2f56b38f417e#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-28T17:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868448#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-28T17:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868335#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-28T18:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/476ac021-8247-47cb-821f-d0de7b8c9318#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
   },
   {
    "cinema": "modernissimo",
@@ -2069,6 +2737,73 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/talk-con-kiana-hayeri/?repeat=23112",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/image-4-e1792148818968.webp",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/talk-con-kiana-hayeri"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-28T18:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868320#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-28T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868363#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-28T18:55+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/130962/f0667542-8f76-4331-a595-c3557f661948#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Il canto delle foresta",
+   "director": "Vincent Munier",
+   "start": "2026-11-28T19:00+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-28T19:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868449#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
   },
   {
    "cinema": "modernissimo",
@@ -2102,6 +2837,19 @@
    "film": "https://arlecchino.popupcinema.18tickets.it/film/124326"
   },
   {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-28T20:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/da3c61c9-8e00-484f-82ee-e69909c2dc76#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
    "cinema": "jolly",
    "sala": null,
    "title": "Kintsugi... e sono la mia opera",
@@ -2119,6 +2867,73 @@
    "film": "https://jolly.popupcinema.18tickets.it/film/125646"
   },
   {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-28T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868369#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-28T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868321#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-28T21:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/130962/e7fdb4c6-5984-403d-87eb-4e8329b23d99#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-11-28T21:30+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-28T21:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868346#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Goksung – La presenza del diavolo",
@@ -2131,6 +2946,19 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/goksung-la-presenza-del-diavolo/?repeat=23287",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/goksung.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/goksung-la-presenza-del-diavolo"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-28T22:15+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/1bcd6737-9d71-4b70-886a-65f6beee5872#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
   },
   {
    "cinema": "odeon",
@@ -2197,6 +3025,112 @@
    "film": "https://www.circuitocinemabologna.it/film/chao"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Tiger are not afraid",
+   "director": "Issa López",
+   "start": "2026-11-29T11:00+01:00",
+   "vos": true,
+   "tags": [
+    "Horror"
+   ],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131157/e74840e7-0ab9-4dee-9343-4b93bce41f29#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131157",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131157/standard_63bf956f-8216-4572-8a30-7993e8820068.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131157"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-29T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/126603/63b3e7c0-9b13-4831-ae22-41a1be5bc261#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-29T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/f4c6afc3-7bd9-4fab-a2ca-49b3191357ca#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-29T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/588785a7-c87c-4cac-9cdb-e702d5d7685e#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-29T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/5927f56a-8677-42e9-9879-2a38c550cd17#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala A",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-29T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868450#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-29T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868336#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-29T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868322#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
    "cinema": "europa",
    "sala": null,
    "title": "È andata così",
@@ -2226,6 +3160,86 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/i-racconti-del-giardino-incantato/?repeat=23289",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Tales-From-the-Magic-Garden-2-scaled-1.webp",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/i-racconti-del-giardino-incantato"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Il canto delle foresta",
+   "director": "Vincent Munier",
+   "start": "2026-11-29T16:30+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-29T16:40+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/130962/cae75278-bf81-4ef4-958a-3f46bb105ca1#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-29T17:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/2977f1d7-d8a2-438e-8b79-9a0c62ae9d85#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-29T17:05+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/33a9f755-a0c8-42a3-b50a-f38791621888#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-29T17:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868451#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-29T17:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868337#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
   },
   {
    "cinema": "arlecchino",
@@ -2259,6 +3273,99 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/les-plages-dagnes"
   },
   {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-29T18:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868323#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-11-29T18:30+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-29T18:45+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868372#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-29T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/a93295c5-7f86-461b-97fe-57f1311af3ff#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-29T19:10+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/130962/6ea0cd07-634e-471a-8d7d-a69799fedf1e#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-29T19:10+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/6445e10e-eafc-4e7e-b8e1-1c945dead6aa#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-29T19:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868452#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Il cacciatore",
@@ -2273,6 +3380,123 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/il-cacciatore/?repeat=23291",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/06/maxresdefault-6.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/il-cacciatore"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Coyote vs. Acme",
+   "director": "Dave Green",
+   "start": "2026-11-29T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/coyote-vs-acme/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/coyote-vs-acme"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-29T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/9280c9fe-221d-4276-bb29-4146997f9319#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-29T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-896db6fe-7cf3-452b-8430-8ffbfed886fc/868347#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/rMTBETqfYI4uGBOaQDHlslEjc61.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-v-o"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-29T21:15+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/1ad8e6cf-27f0-4378-abec-931b3361cf2c#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-29T21:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868373#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-29T21:15+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/7a041677-eeaf-4371-b107-ffa5bce4bc19#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-29T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868358#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/dn4u7pxM2PWeuvZcsgrkQQOQOBs.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back-v-o"
+  },
+  {
+   "cinema": "bristol",
+   "sala": null,
+   "title": "Dio ride",
+   "director": "Giovanni Veronesi",
+   "start": "2026-11-29T21:40+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://bristol.popupcinema.18tickets.it/film/123765/469c8096-2298-41fa-a690-1b0c10342892#theater-init",
+   "info": "https://bristol.popupcinema.18tickets.it/film/123765",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/123765/standard_dd0ed4b3-23fd-4c69-a6ac-9fc17d41f23b.jpg",
+   "film": "https://bristol.popupcinema.18tickets.it/film/123765"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-30T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/126603/d8f77a37-36e6-4014-abdf-d53c75ff320d#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/126603"
   },
   {
    "cinema": "cervi",
@@ -2291,6 +3515,175 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-ragazza-con-la-valigia"
   },
   {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-30T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/8b5293cb-02c4-4f91-8ddf-c4b94cdbf017#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-30T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/f3819624-3c7c-444c-87a4-cc2532f6422f#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala A",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-30T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868453#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-30T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868338#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-30T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868324#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-30T16:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868350#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-30T16:40+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/5fc06262-de34-47f3-91d2-2505582962f6#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-30T17:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/2e3a3854-9f2c-43ab-8ef7-a18391f3e25d#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-11-30T17:05+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/d3ba350a-4c88-4538-bfbe-1a638430ce77#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-30T17:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868454#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-30T17:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868339#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-30T18:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868325#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-11-30T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868364#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Ma l’amor mio non muore!",
@@ -2307,6 +3700,74 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/ma-lamor-mio-non-muore/?repeat=23292",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/02/01-foto-Ma-l_amor-mio-non-muore-CR-2013-1-Lyda-Borelli.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/ma-lamor-mio-non-muore"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "La pantera delle nevi",
+   "director": "M. Amiguet e V. Munier",
+   "start": "2026-11-30T19:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-30T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/a3c0f4c4-068f-475f-8049-463acb68409c#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": "ARLECCHINO NEXO 10 - 8",
+   "title": "Ken il guerriero - Il film (40° anniversario)",
+   "director": "芦田豊雄",
+   "start": "2026-11-30T19:15+01:00",
+   "vos": true,
+   "tags": [
+    "Nexo 10 - 8",
+    "V.m. 14"
+   ],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/133534/af07bb63-f496-4c10-84f9-b8f6d0934290#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/133534",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133534/standard_6a7012c6-0616-4d11-9b19-75519e3e5ebe.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/133534"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Lorenzo - L’incredibile avventura di jovanotti",
+   "director": "Dario Zonta, Carlo Zoratti",
+   "start": "2026-11-30T19:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133666/1276084a-58af-407b-99d0-e916a0766ca4#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133666",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133666/standard_091788ed-8bbe-4172-9e7c-a439f81e4530.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133666"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-11-30T19:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868455#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
   },
   {
    "cinema": "modernissimo",
@@ -2340,6 +3801,32 @@
    "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
   },
   {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-11-30T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/d6d5ac0f-b171-4e37-8f53-0474d483d4c1#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-30T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-896db6fe-7cf3-452b-8430-8ffbfed886fc/868353#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/rMTBETqfYI4uGBOaQDHlslEjc61.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-v-o"
+  },
+  {
    "cinema": "europa",
    "sala": null,
    "title": "The Glorious Dead",
@@ -2353,6 +3840,45 @@
    "info": "https://www.circuitocinemabologna.it/film/the-glorious-dead/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/image-w1280.jpg",
    "film": "https://www.circuitocinemabologna.it/film/the-glorious-dead"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-11-30T21:15+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/35b4a8dd-f95a-4b32-b12b-cb56f6f639d9#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-11-30T21:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/dd9eeb92-39b5-45ac-a946-9b0f998005cc#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-11-30T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868359#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/dn4u7pxM2PWeuvZcsgrkQQOQOBs.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back-v-o"
   },
   {
    "cinema": "modernissimo",
@@ -2389,6 +3915,97 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/la-cosa-2"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-01T14:10+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/126603/883fe9c0-49f7-4b78-b968-33e2e785eca2#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-12-01T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/57a77c77-54d3-405b-b0c4-8ddd09216314#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-12-01T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/8e8549d4-4c0a-48bd-ab42-ff340ee650cc#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala A",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-01T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868456#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-12-01T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868340#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-12-01T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868326#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-12-01T16:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868351#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Vogliamo anche le rose",
@@ -2405,6 +4022,71 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/vogliamo-anche-le-rose"
   },
   {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-12-01T16:20+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/94f05c5a-ed8b-4b6f-9f1b-42220170cfdd#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-12-01T17:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/c9b670d0-0c50-4d25-92bc-ebc3187fac33#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-12-01T17:05+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/7d7f975b-a026-4f68-bb21-9aa0e4a6eefc#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-01T17:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868457#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-12-01T17:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868341#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Il grande Lebowski",
@@ -2419,17 +4101,139 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/il-grande-lebowski"
   },
   {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-12-01T18:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868327#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-12-01T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868365#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-12-01T18:55+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/b7f9c306-3ba4-40f4-91ff-d63d9f5e054e#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
    "cinema": "galliera",
    "sala": null,
-   "title": "In arrivo",
-   "director": null,
+   "title": "La leggenda di zagor",
+   "director": "F. Biagianti e V. Ondedei",
+   "start": "2026-12-01T19:00+01:00",
+   "vos": false,
+   "tags": [
+    "Prima visione esclusiva",
+    "SalaOpen"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/la-leggenda-di-zagor/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/la-leggenda-di-zagor"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
    "start": "2026-12-01T19:00+01:00",
    "vos": false,
    "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/9da76494-dd87-4bda-96d2-23fb8381d5a8#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Lorenzo - L’incredibile avventura di jovanotti",
+   "director": "Dario Zonta, Carlo Zoratti",
+   "start": "2026-12-01T19:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133666/f7a706b5-b3ad-4006-bd9d-b33217b93bd9#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133666",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133666/standard_091788ed-8bbe-4172-9e7c-a439f81e4530.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133666"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-01T19:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868458#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-12-01T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868370#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-12-01T21:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
    "buy": "https://linktr.ee/Galliera_Prenotazioni",
-   "info": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026/",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
    "image": null,
-   "film": "https://www.cinemateatrogalliera.it/agenda-spettacoli-2026"
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-12-01T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/8e11d796-6f6a-4744-839d-f0d8366106a3#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
   },
   {
    "cinema": "modernissimo",
@@ -2449,6 +4253,151 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/hope-2"
   },
   {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-12-01T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-896db6fe-7cf3-452b-8430-8ffbfed886fc/868354#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/rMTBETqfYI4uGBOaQDHlslEjc61.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-v-o"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-12-01T21:15+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/ede0c08f-2c41-431c-99aa-bc9396abbacc#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Dark water",
+   "director": "中田秀夫",
+   "start": "2026-12-01T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Horror"
+   ],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/133962/74ebe7cb-d40c-4a55-87b3-65459ba835ad#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/133962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133962/standard_96c8ba63-7435-47aa-beae-a2c9acaf9365.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/133962"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-12-01T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868360#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/dn4u7pxM2PWeuvZcsgrkQQOQOBs.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back-v-o"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-02T14:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/126603/41da0b46-a417-40b3-87ee-99d2322e7e95#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/126603",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/126603"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-12-02T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/16e84837-c050-4c60-80a2-7832153d71af#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-12-02T15:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/36708bc6-3e97-49f7-98ad-b842162a7dc0#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala A",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-02T15:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868459#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-12-02T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868342#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-12-02T15:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868328#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-12-02T16:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868352#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Balcanica",
@@ -2463,6 +4412,84 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/balcanica/?repeat=23682",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Balcanica.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/balcanica"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "La pantera delle nevi",
+   "director": "M. Amiguet e V. Munier",
+   "start": "2026-12-02T16:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-12-02T16:40+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/130962/98b0158f-33ad-4541-b522-e29f21effb7c#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-12-02T17:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/b886a4d7-0e13-4495-b891-6b227df0053c#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hexe - Il regno delle streghe",
+   "director": "F. Veerasunthorn, J. Hand",
+   "start": "2026-12-02T17:05+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133665/daf3aa16-dcba-4103-8a42-cde70119ae15#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133665",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133665"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-02T17:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868460#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-12-02T17:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868343#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back"
   },
   {
    "cinema": "modernissimo",
@@ -2482,6 +4509,102 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/alessandro-bergonzoni-2"
   },
   {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-12-02T18:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868329#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-12-02T18:30+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868366#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "L’essere amato",
+   "director": "Rodrigo Sorogoyen",
+   "start": "2026-12-02T18:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/lessere-amato/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/lessere-amato"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-12-02T19:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/5f3b2b8f-38cb-4baf-b647-b5e5f3681097#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": "ARLECCHINO NEXO 10 - 8",
+   "title": "Ken il guerriero - Il film (40°anniversario)",
+   "director": "芦田豊雄",
+   "start": "2026-12-02T19:15+01:00",
+   "vos": false,
+   "tags": [
+    "Nexo 10 - 8",
+    "V.m. 14"
+   ],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/133533/0e610a08-5246-4cc6-a717-d31a1d717460#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/133533",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133533/standard_e288a1a3-8d1d-4364-8c17-ccb6a84908da.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/133533"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Lorenzo - L’incredibile avventura di jovanotti",
+   "director": "Dario Zonta, Carlo Zoratti",
+   "start": "2026-12-02T19:15+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/133666/788e18da-e007-4f90-bc50-60cabae84f08#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/133666",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133666/standard_091788ed-8bbe-4172-9e7c-a439f81e4530.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/133666"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala C",
+   "title": "Se domani non torno",
+   "director": "Paola Randi",
+   "start": "2026-12-02T19:25+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868461#sala",
+   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "Casablanca",
@@ -2496,6 +4619,99 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/casablanca/?repeat=23684",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2023/11/casablanca_1-min-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/casablanca"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "È andata così",
+   "director": "Gianni Zanasi",
+   "start": "2026-12-02T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868371#sala",
+   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
+  },
+  {
+   "cinema": "jolly",
+   "sala": null,
+   "title": "La notte delle fragole",
+   "director": "Alessandro Genovesi",
+   "start": "2026-12-02T21:00+01:00",
+   "vos": false,
+   "tags": [],
+   "buy": "https://jolly.popupcinema.18tickets.it/film/133434/5a0aaa4a-64d7-4b77-8ffb-eeb8244465cb#theater-init",
+   "info": "https://jolly.popupcinema.18tickets.it/film/133434",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "roma",
+   "sala": null,
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-12-02T21:00+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-896db6fe-7cf3-452b-8430-8ffbfed886fc/868355#sala",
+   "info": "https://www.circuitocinemabologna.it/film/fjord-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/rMTBETqfYI4uGBOaQDHlslEjc61.webp",
+   "film": "https://www.circuitocinemabologna.it/film/fjord-v-o"
+  },
+  {
+   "cinema": "medica",
+   "sala": null,
+   "title": "Hunger games l’alba sulla mietitura",
+   "director": "Francis Lawrence",
+   "start": "2026-12-02T21:15+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://medica.popupcinema.18tickets.it/film/131058/3da68908-6508-4b52-9cb2-75778f98ffcb#theater-init",
+   "info": "https://medica.popupcinema.18tickets.it/film/131058",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
+   "film": "https://medica.popupcinema.18tickets.it/film/131058"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "La ballata del re delle api",
+   "director": "Andrew Patterson",
+   "start": "2026-12-02T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131125/d553c368-328f-4710-a3c2-749e8aab36ea#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "galliera",
+   "sala": null,
+   "title": "Il canto delle foresta",
+   "director": "Vincent Munier",
+   "start": "2026-12-02T21:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "buy": "https://linktr.ee/Galliera_Prenotazioni",
+   "info": "https://www.cinemateatrogalliera.it/il-canto-della-foresta/",
+   "image": null,
+   "film": "https://www.cinemateatrogalliera.it/il-canto-della-foresta"
+  },
+  {
+   "cinema": "rialto",
+   "sala": "Sala 2",
+   "title": "Look Back",
+   "director": "Hirokazu Kore Eda",
+   "start": "2026-12-02T21:30+01:00",
+   "vos": true,
+   "tags": [],
+   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026-75e53b30-b2eb-4365-8a82-fca5f1a663dc/868361#sala",
+   "info": "https://www.circuitocinemabologna.it/film/look-back-v-o/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/dn4u7pxM2PWeuvZcsgrkQQOQOBs.webp",
+   "film": "https://www.circuitocinemabologna.it/film/look-back-v-o"
   },
   {
    "cinema": "modernissimo",
@@ -2599,6 +4815,21 @@
    "film": "https://www.circuitocinemabologna.it/film/il-gatto-col-cappello-the-cat-in-the-hat"
   },
   {
+   "cinema": "europa",
+   "sala": null,
+   "title": "The Virgin of the Quarry Lake",
+   "director": "Laura Casabé",
+   "start": "2026-12-07T21:15+01:00",
+   "vos": true,
+   "tags": [
+    "Rassegna"
+   ],
+   "buy": "https://europa.ccb.18tickets.it/film/the-virgin-of-the-quarry-lake_2026/834515#sala",
+   "info": "https://www.circuitocinemabologna.it/film/the-virgin-of-the-quarry-lake/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/SJqQWNxO4Inzf2GFKFVDaodD6m.webp",
+   "film": "https://www.circuitocinemabologna.it/film/the-virgin-of-the-quarry-lake"
+  },
+  {
    "cinema": "odeon",
    "sala": "Sala B",
    "title": "Charlie - Anche i cani vanno in paradiso",
@@ -2613,6 +4844,21 @@
    "info": "https://www.circuitocinemabologna.it/film/charlie-anche-i-cani-vanno-in-paradiso/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/v2Gxnk93DLMGYlFS1M70lZui7SM.webp",
    "film": "https://www.circuitocinemabologna.it/film/charlie-anche-i-cani-vanno-in-paradiso"
+  },
+  {
+   "cinema": "europa",
+   "sala": null,
+   "title": "Leviticus",
+   "director": "Adrian Chiarella",
+   "start": "2026-12-14T21:15+01:00",
+   "vos": true,
+   "tags": [
+    "Rassegna"
+   ],
+   "buy": "https://europa.ccb.18tickets.it/film/leviticus_2026/834517#sala",
+   "info": "https://www.circuitocinemabologna.it/film/leviticus/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/t2u97g756eWH9DNIXex3AWob3Sa.webp",
+   "film": "https://www.circuitocinemabologna.it/film/leviticus"
   },
   {
    "cinema": "medica",
@@ -3068,51 +5314,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2024/01/texas-chainsaw-massacre-texas-monthly-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
   },
-  "https://arlecchino.popupcinema.18tickets.it/film/129012": {
-   "year": 2026,
-   "cast": "M. Hamabe, R. Kamiki, J. Kunimura, J. Kunimura Trama AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO. Info 135 min",
-   "plot": "AMBIENTATO NEL 1949, LA FAMIGLIA SHIKISHIMA AFFRONTA UNA NUOVA CATASTROFE DUE ANNI DOPO ESSERE SOPRAVVISSUTA ALLA PRECEDENTE PROVA CON IL LEGGENDARIO MOSTRO.",
-   "genre": "Fantastico",
-   "duration": 135,
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/129012/standard_36fb23e7-107a-4abe-9298-c109dd09dd9b.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "wd_checked": true,
-   "country": "Giappone"
-  },
-  "https://jolly.popupcinema.18tickets.it/film/126603": {
-   "year": 2026,
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
-   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
-   "genre": "Dramma",
-   "duration": 106,
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
-  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
-   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
-   "country": "Italia",
-   "duration": 98,
-   "genre": "Commedia",
-   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
-   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/look-back": {
-   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
-   "country": "Giappone",
-   "duration": 100,
-   "genre": "Drammatico",
-   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
-   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva": {
    "country": "Francia, Italia",
    "year": 2026,
@@ -3122,28 +5323,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
   },
-  "https://www.circuitocinemabologna.it/film/fatherland": {
-   "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
-   "country": "Polonia",
-   "duration": 82,
-   "genre": "Storia",
-   "plot": "Thomas Mann torna in Germania con la figlia Erika dopo l'autoesilio negli Stati Uniti e l'attraversa per un ciclo di conferenze su Goethe passando dalla Germania Ovest alla Germania Est in un alternarsi di apprezzamenti e recriminazioni nei suoi confronti.",
-   "trailer": "https://www.youtube.com/watch?v=OpYxGTTKA0s",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp"
-  },
-  "https://medica.popupcinema.18tickets.it/film/131025": {
-   "year": 2026,
-   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
-   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
-   "genre": "Avventura, Fantascienza, Azione",
-   "duration": 158,
-   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
-   "wd_checked": true
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/paris-calligrammes": {
    "country": "Germania, Francia",
    "year": 2020,
@@ -3151,39 +5330,6 @@
    "plot": "Calligrammes è il nome della libreria-galleria di Parigi animata da Fritz Picard dove, negli anni Sessanta, la fotografa, pittrice e regista Ulrike Ottinger ha nutrito il suo orizzonte culturale e immaginario. Autrice di film d’avanguardia, visionari e performativi come Freak Orlando e Johanna d’Arc of Mongolia, Ottinger è cresciuta nell’orizzonte del Nuovo cinema tedesco ma ha saputo muoversi lungo un vagabondaggio tutto suo, fantasioso, irriverente, sperimentale e anche fortemente politico. Lo stesso che ritroviamo in questo attraversamento di Parigi tra documentario soggettivo e rêverie. (anm)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/PARIS-CALLIGRAMMES-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido": {
-   "cast": "Javier Bardem, Victoria Luengo, Melina Matthews, Malena Villa, Mourad Ouani, Pepa Gracia, Raúl Prieto, Pablo Gómez Pando, Marina Foïs, Raúl Arévalo, Laura Birn, Núria Prims",
-   "country": "Spagna",
-   "duration": 135,
-   "genre": "Drammatico",
-   "plot": "Il celebre regista Esteban Martínez è una leggenda, sia per i suoi film che per il suo passato segnato da violenza ed eccessi. Per il suo nuovo progetto, offre alla figlia Emilia un ruolo, con il pretesto di aiutarla a rilanciare la sua carriera di attrice, ferma ormai da un po’. La convivenza sul set favorirà un riavvicinamento, non condiviso da anni, ma riaprirà anche ferite mai davvero rimarginate.",
-   "trailer": "https://www.youtube.com/watch?v=WzXOP2Ta848",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/mustang": {
-   "cast": "Kasia Smutniak, Pietro Taricone, Sophie Taricone",
-   "country": "Italia",
-   "duration": 105,
-   "genre": "Documentario",
-   "plot": "Racconto intimo e inedito di oltre vent'anni di vita che nasce dal primo viaggio compiuto nel 2003 insieme a Pietro Taricone nella remota regione del Mustang. Una promessa ai confini del mondo che attraversa il tempo e le generazioni, tra amore, perdita e memoria alla ricerca di ciò che resta quando tutto si trasforma.",
-   "trailer": "https://www.youtube.com/watch?v=0wvgNljFkQg",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/MUSTANG-S.Taricone-e1794929734729.jpg",
-   "fetched_at": "2026-11-18T00:50+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/MUSTANG-S.Taricone-e1794929734729.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/fjord-2": {
-   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
-   "country": "Romania",
-   "duration": 146,
-   "genre": "Drammatico",
-   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
-   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "fetched_at": "2026-11-18T00:50+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/look-back": {
    "country": "Giappone",
@@ -3204,28 +5350,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg-1200x630.jpg",
    "fetched_at": "2026-11-18T00:50+01:00"
   },
-  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
-   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
-   "country": "Italia",
-   "duration": 113,
-   "genre": "Drammatico",
-   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
-   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/wild-horse-nine": {
-   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Samuel Wayt",
-   "country": "Regno Unito",
-   "duration": 117,
-   "genre": "Commedia",
-   "plot": "Poco prima del golpe cileno del 1973, gli agenti della CIA Chris e Lee vengono inviati da Santiago all'Isola di Pasqua dal loro capo ufficio, MJ. Tra le iconiche statue dell'isola, mentre i due partner di lunga data fanno i conti con i propri torbidi trascorsi e con le cospirazioni in atto, il legame appena nato tra Chris e due studentesse ribelli minaccia di far precipitare la situazione per tutti in quel paradiso remoto.",
-   "trailer": "https://www.youtube.com/watch?v=5Zbl_AakI9c",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp"
-  },
   "https://arlecchino.popupcinema.18tickets.it/film/130962": {
    "year": 2025,
    "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 131 min",
@@ -3234,7 +5358,7 @@
    "duration": 131,
    "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
+   "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true,
    "country": "Stati Uniti, Regno Unito"
   },
@@ -3272,6 +5396,17 @@
    "fetched_at": "2026-11-22T21:43+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
   },
+  "https://www.circuitocinemabologna.it/film/look-back": {
+   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
+   "country": "Giappone",
+   "duration": 100,
+   "genre": "Drammatico",
+   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
+   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
+  },
   "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
    "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
    "country": "Italia",
@@ -3308,6 +5443,28 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/Fatherland-Sandra-Huller-1068x801-1-1068x630.webp",
    "fetched_at": "2026-11-22T21:43+01:00"
   },
+  "https://www.circuitocinemabologna.it/film/lessere-amato-el-ser-querido": {
+   "cast": "Javier Bardem, Victoria Luengo, Melina Matthews, Malena Villa, Mourad Ouani, Pepa Gracia, Raúl Prieto, Pablo Gómez Pando, Marina Foïs, Raúl Arévalo, Laura Birn, Núria Prims",
+   "country": "Spagna",
+   "duration": 135,
+   "genre": "Drammatico",
+   "plot": "Il celebre regista Esteban Martínez è una leggenda, sia per i suoi film che per il suo passato segnato da violenza ed eccessi. Per il suo nuovo progetto, offre alla figlia Emilia un ruolo, con il pretesto di aiutarla a rilanciare la sua carriera di attrice, ferma ormai da un po’. La convivenza sul set favorirà un riavvicinamento, non condiviso da anni, ma riaprirà anche ferite mai davvero rimarginate.",
+   "trailer": "https://www.youtube.com/watch?v=WzXOP2Ta848",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/A9LCnvIeaENATVLbwixVD2DLI0U-e1794227844814.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/fjord-2": {
+   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
+   "country": "Romania",
+   "duration": 146,
+   "genre": "Drammatico",
+   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
+   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "fetched_at": "2026-11-18T00:50+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
+  },
   "https://www.cinemateatrogalliera.it/lessere-amato": {
    "country": "Spagna, Francia",
    "year": 2026,
@@ -3338,6 +5495,40 @@
    "trailer": "https://www.youtube.com/watch?v=hTHeFP0mcuk",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/MINOTAUR-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
+  },
+  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
+   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
+   "country": "Italia",
+   "duration": 113,
+   "genre": "Drammatico",
+   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
+   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/wild-horse-nine": {
+   "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Samuel Wayt",
+   "country": "Regno Unito",
+   "duration": 117,
+   "genre": "Commedia",
+   "plot": "Poco prima del golpe cileno del 1973, gli agenti della CIA Chris e Lee vengono inviati da Santiago all'Isola di Pasqua dal loro capo ufficio, MJ. Tra le iconiche statue dell'isola, mentre i due partner di lunga data fanno i conti con i propri torbidi trascorsi e con le cospirazioni in atto, il legame appena nato tra Chris e due studentesse ribelli minaccia di far precipitare la situazione per tutti in quel paradiso remoto.",
+   "trailer": "https://www.youtube.com/watch?v=5Zbl_AakI9c",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp"
+  },
+  "https://jolly.popupcinema.18tickets.it/film/126603": {
+   "year": 2026,
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
+   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+   "genre": "Dramma",
+   "duration": 106,
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "wd_checked": true,
+   "country": "Italia"
   },
   "https://www.circuitocinemabologna.it/film/summer-blooms": {
    "cast": "Aki Asakura, Takahiro Miura",
@@ -3384,8 +5575,19 @@
    "duration": 158,
    "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131058/standard_e3f1f6d5-e7c8-469a-a3c2-308dcf456192.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
+   "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true
+  },
+  "https://www.circuitocinemabologna.it/film/mustang": {
+   "cast": "Kasia Smutniak, Pietro Taricone, Sophie Taricone",
+   "country": "Italia",
+   "duration": 105,
+   "genre": "Documentario",
+   "plot": "Racconto intimo e inedito di oltre vent'anni di vita che nasce dal primo viaggio compiuto nel 2003 insieme a Pietro Taricone nella remota regione del Mustang. Una promessa ai confini del mondo che attraversa il tempo e le generazioni, tra amore, perdita e memoria alla ricerca di ciò che resta quando tutto si trasforma.",
+   "trailer": "https://www.youtube.com/watch?v=0wvgNljFkQg",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/MUSTANG-S.Taricone-e1794929734729.jpg",
+   "fetched_at": "2026-11-18T00:50+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/MUSTANG-S.Taricone-e1794929734729.jpg"
   },
   "https://www.circuitocinemabologna.it/film/minotaur": {
    "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin, Anatoliy Beliy, Juris Zagars, Varvara Shmykova",
@@ -3426,7 +5628,7 @@
    "plot": "Dove finisce il sangue versato dai cartelli messicani, iniziano gli incubi. Ingurgitata da una città fantasma dopo la brutale sparizione della madre, la piccola Estrella trova rifugio in un branco di bambini randagi, orfani dimenticati da Dio e dagli uomini. Braccati da sicari spietati e perseguitati da spiriti inquieti che strisciano fuori dalle ombre per reclamare vendetta, i piccoli protagonisti dovranno armarsi del coraggio delle tigri per non soccombere. Una favola nera, lirica e sanguinante, in cui la magia oscura si fonde al crudo realismo: perché in questo mondo i mostri più feroci non sussurrano sotto il letto, ma sparano alla luce del sole.",
    "duration": 83,
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131157/standard_63bf956f-8216-4572-8a30-7993e8820068.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
+   "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true
   },
   "https://cinetecadibologna.it/programmazione/proiezione/i-swear": {
@@ -3448,6 +5650,28 @@
    "wd_checked": true,
    "country": "Giappone"
   },
+  "https://www.circuitocinemabologna.it/film/un-tranquillo-funerale-di-famiglia": {
+   "cast": "Claudia Pandolfi, Pietro Sermonti, Diego Abatantuono, Stefania Sandrelli, Stefano Fresi, Beatrice Arnera, Edoardo Ferrario, Alessandro Mauthe, Giulia Vecchio, Dino Abbrescia, Carlo Buccirosso, Carlo A",
+   "country": "Italia",
+   "duration": 98,
+   "genre": "Commedia",
+   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. Quella che dovrebbe essere una solenne cerimonia di commiato si trasforma presto in un imprevedibile susseguirsi di rivelazioni inattese ed equivoci grotteschi, destinati a far emergere tutte le fragilità e le contraddizioni di una famiglia tutt'altro che perfetta.",
+   "trailer": "https://www.youtube.com/watch?v=B1KICaU-WgA",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/234450_ppl-e1792763610245.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/fatherland": {
+   "cast": "Sandra Hüller, Hanns Zischler, August Diehl, Anna Madeley, Devid Striesow, David Menkin, Joachim Meyerhoff, Enno Trebs, Theo Trebs, Waldemar Kobus, Daniel Wagner, Fritzi Haberlandt",
+   "country": "Polonia",
+   "duration": 82,
+   "genre": "Storia",
+   "plot": "Thomas Mann torna in Germania con la figlia Erika dopo l'autoesilio negli Stati Uniti e l'attraversa per un ciclo di conferenze su Goethe passando dalla Germania Ovest alla Germania Est in un alternarsi di apprezzamenti e recriminazioni nei suoi confronti.",
+   "trailer": "https://www.youtube.com/watch?v=OpYxGTTKA0s",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/f7plF7QuPfucWQU5DxqkgLp9gFN-e1791909623229.webp"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/la-mano-dello-straniero": {
    "country": "Italia",
    "year": 1954,
@@ -3455,6 +5679,17 @@
    "plot": "Un bambino è alla ricerca del padre rapito, in una Venezia vociante e ostile, aiutato da una bella infermiera, ma anche da un ambiguo medico. Da un racconto di Graham Greene che Soldati adatta insieme a lui e a Giorgio Bassani, un film di spionaggio in tempi di guerra fredda, con un’atmosfera chiaramente ispirata a Stevenson. Girato tra varie difficoltà, il film ha un uso dei luoghi magistrale e un cattivo indimenticabile interpretato da Eduardo Ciannelli, caratterista italo-americano (aveva lavorato con Hitchcock e Ford) promosso a protagonista. (em) Copia proveniente da CSC – Cineteca Nazionale",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Mano-dello-straniero-la-1-Soldati-868x630.jpg",
    "fetched_at": "2026-11-23T04:43+01:00"
+  },
+  "https://medica.popupcinema.18tickets.it/film/131025": {
+   "year": 2026,
+   "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close, Whitney Peak, Elle Fanning, Kieran Culkin, Maya Hawke,... Trama Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato. Info 158 min",
+   "plot": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
+   "genre": "Avventura, Fantascienza, Azione",
+   "duration": 158,
+   "trailer": "https://www.youtube.com/watch?v=Nr5M3PhPrEo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131025/standard_76fce36b-a40c-4610-92b9-69a6c120ce50.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true
   },
   "https://cinetecadibologna.it/programmazione/proiezione/manhattan": {
    "country": "USA",
@@ -3484,7 +5719,7 @@
    "duration": 103,
    "trailer": "https://www.youtube.com/watch?v=RHU8TBio-L0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/43245/standard_c084aa57-0a1b-4ea8-8e02-5fdf85c161f9.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
+   "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true,
    "country": "Spagna, Stati Uniti, Francia"
   },
@@ -3536,7 +5771,7 @@
    "duration": 130,
    "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
-   "fetched_at": "2026-11-17T15:20+01:00",
+   "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true,
    "country": "Stati Uniti, Regno Unito"
   },
@@ -3559,6 +5794,52 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/POLICARPO-UFFICIALE-DI-SCRITTURA-C-e1659953893569-1200x630.webp",
    "fetched_at": "2026-11-24T04:19+01:00"
   },
+  "https://www.circuitocinemabologna.it/film/e-andata-cosi-2": {
+   "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi, Alma Giardina, Pier Luigi Pasino, Michelangelo Dalisi, Andréa Furet, Marco Fiore, Emanuele Maria Di Stefano",
+   "country": "Italia",
+   "duration": 120,
+   "genre": "Commedia",
+   "plot": "Cecilia si trova costretta suo malgrado a convivere in un casolare sperduto in campagna con i tre uomini più importanti della sua vita. Tra assistenti sociali, gatti scappati, uno strozzino che l’aspetta sotto casa e ‘spettri’ che si aggirano, inspiegabilmente Cecilia ritrova tutto quello che le sembrava perduto. La leggerezza di poter dire ‘È andata così’.",
+   "trailer": "https://www.youtube.com/watch?v=d7DgZoV4HKw",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/126603": {
+   "year": 2026,
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
+   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+   "genre": "Dramma",
+   "duration": 106,
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true,
+   "country": "Italia"
+  },
+  "https://medica.popupcinema.18tickets.it/film/133665": {
+   "year": 2026,
+   "cast": "Hailee Steinfeld, Rashida Jones, Jodie Foster, Walton Goggins, Tracey Ullman, Stephen Fry, Henry Winkler, Dan Stevens, Brett ... Trama Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe. Info 93 min",
+   "plot": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
+   "genre": "Animazione, Avventura, Famiglia, Fantasy",
+   "duration": 93,
+   "trailer": "https://www.youtube.com/watch?v=3yTZi6aXTDo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
+  },
+  "https://jolly.popupcinema.18tickets.it/film/133434": {
+   "year": 2026,
+   "cast": "Salvatore Ficarra, Valentino Picone, Vittoria Puccini, Anna Foglietta, Giulia Fiume, Enzo Casertano, Pif, Rocco Loschiavo Trama Valentino (Valentino Picone) ha una vita perfettamente organizzata, accanto alla moglie Elena (Anna Foglietta) e a Carolina (Giovanna Rosace), la figlia adolescente di lei. Il suo equilibrio viene però stravolto dall’arrivo di Salvo (Salvo Ficarra), ex marito di Elena e padre di Carolina, un uomo impulsivo, disordinato e imprevedibile. Dopo una lite con la compagna Tania (Giulia Fiume), Salvo chiede ospitalità per una sola notte, ma finisce per stabilirsi in casa, scatenando una serie di equivoci, bugie e situazioni esilaranti. L’arrivo di Francesca (Vittoria Puccini), la sua nuova fiamma, complica ulteriormente la situazione, mettendo a dura prova i già fragili equilibri familiari. Tra convivenze impossibili, amori inattesi e seconde possibilità, i protagonisti scopriranno che la vita, soprattutto in amore, raramente segue i piani prestabiliti. Info 91 min",
+   "plot": "Valentino (Valentino Picone) ha una vita perfettamente organizzata, accanto alla moglie Elena (Anna Foglietta) e a Carolina (Giovanna Rosace), la figlia adolescente di lei. Il suo equilibrio viene però stravolto dall’arrivo di Salvo (Salvo Ficarra), ex marito di Elena e padre di Carolina, un uomo impulsivo, disordinato e imprevedibile. Dopo una lite con la compagna Tania (Giulia Fiume), Salvo chiede ospitalità per una sola notte, ma finisce per stabilirsi in casa, scatenando una serie di equivoci, bugie e situazioni esilaranti. L’arrivo di Francesca (Vittoria Puccini), la sua nuova fiamma, complica ulteriormente la situazione, mettendo a dura prova i già fragili equilibri familiari. Tra convivenze impossibili, amori inattesi e seconde possibilità, i protagonisti scopriranno che la vita, soprattutto in amore, raramente segue i piani prestabiliti.",
+   "genre": "Commedia",
+   "duration": 91,
+   "trailer": "https://www.youtube.com/watch?v=BaevOlsiAjI",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/american-gigolo": {
    "country": "USA",
    "year": 1980,
@@ -3566,6 +5847,17 @@
    "plot": "“Chi sarebbe stato Julian Kay senza quella giacca destrutturata?”, chiedeva Giorgio Armani. Aveva ragione. Per entrambi, per lo stilista e per Richard Gere, American Gigolo fu il punto di svolta; l’apologo morale schraderiano/dostojevskiano sulla corruzione, il denaro e l’ambigua redenzione dell’amore aprì una nuova era del ‘costume’ cinematografico. Gere approdò al divismo girellando a torso nudo davanti a un armadio pieno di giacche, camicie e cravatte firmate Armani; due anni dopo “Time” consacrava in copertina il “Giorgio’s Gorgeous Style”. (pcris) Precede presentazione del volume Giorgio secondo Armani. La vita oltre il successo (Marsilio, 2026) alla presenza dell’autrice Roberta Filippini",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/american-gigolo-1200x630.jpg",
    "fetched_at": "2026-11-24T04:19+01:00"
+  },
+  "https://medica.popupcinema.18tickets.it/film/133666": {
+   "year": 2026,
+   "cast": "Jovanotti Trama Il racconto di una vita straordinaria: le canzoni, il successo, i viaggi, la bici, dalla piccola radio locale alle folle oceaniche di pubblico. Il film attraversa ciò che conosciamo e arriva in un luogo più intimo, segreto, sorprendente. Dove l’artista che tutti conosciamo diventa la persona che pochissimi hanno davvero incontrato. Info 84 min",
+   "plot": "Il racconto di una vita straordinaria: le canzoni, il successo, i viaggi, la bici, dalla piccola radio locale alle folle oceaniche di pubblico. Il film attraversa ciò che conosciamo e arriva in un luogo più intimo, segreto, sorprendente. Dove l’artista che tutti conosciamo diventa la persona che pochissimi hanno davvero incontrato.",
+   "genre": "Documentario, Musica",
+   "duration": 84,
+   "trailer": "https://www.youtube.com/watch?v=hhiOb7r34u4",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133666/standard_091788ed-8bbe-4172-9e7c-a439f81e4530.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true
   },
   "https://www.cinemateatrogalliera.it/un-giorno-senza-donne": {
    "country": "Islanda, U.S.A.",
@@ -3581,6 +5873,18 @@
    "plot": "Nel 1997 il ‘divin codino’ Roberto Baggio arrivò al Bologna. Come un alieno, a suon di gol e colpi di classe, condusse la squadra e un’intera città in visibilio in un’altra dimensione calcistica. Andrà in scena lo spettacolo Baggio a Bologna a cura di Emilio Marrese e Fernando Pellerano che narreranno l’anno in cui il Divin Codino fece sognare Bologna rincorrendo il sogno del Mondiale di Francia ’98, spettacolo accompagnato da letture di articoli del Civ da Alessandro Pilloni attore bolognese che ha letto tutti i libri dell’indimenticabile Civ. Precede, cerimonia di premiazione del IV Premio giornalistico Gianfranco Civolani . Presenta Manfredi Campione",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/baggioBOLOGNA-e1792740069686-1200x630.jpg",
    "fetched_at": "2026-11-24T04:19+01:00"
+  },
+  "https://bristol.popupcinema.18tickets.it/film/130962": {
+   "year": 2025,
+   "cast": "Matthew Mc Conaughey, Kurt Russell, Angelina Looking Glass, Cole Sprouse, Scott Shepherd, Rob Morgan, Tony Revolori, Jake Hor... Trama Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito. Info 131 min",
+   "plot": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+   "genre": "Thriller, Dramma, Crime",
+   "duration": 131,
+   "trailer": "https://www.youtube.com/watch?v=X3iIJzlJpF0",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti, Regno Unito"
   },
   "https://www.cinemateatrogalliera.it/la-leggenda-di-zagor": {
    "country": "Italia",
@@ -3602,6 +5906,17 @@
    "still": "https://www.circuitocinemabologna.it/wp-content/uploads/08cul-fjord-review-qgtj-videoSixteenByNine3000.webp",
    "fetched_at": "2026-11-20T14:58+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/08cul-fjord-review-qgtj-videoSixteenByNine3000.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/look-back-v-o": {
+   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
+   "country": "Giappone",
+   "duration": 100,
+   "genre": "Drammatico",
+   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
+   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/dn4u7pxM2PWeuvZcsgrkQQOQOBs.webp",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/dn4u7pxM2PWeuvZcsgrkQQOQOBs.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/minnie-and-moskowitz": {
    "country": "USA",
@@ -3631,6 +5946,17 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/dario-franceschini-1200x630.jpg",
    "fetched_at": "2026-11-18T00:50+01:00"
   },
+  "https://www.cinemateatrogalliera.it/coyote-vs-acme": {
+   "country": "USA",
+   "year": 2026,
+   "genre": "Animazione, Avventura, Commedia",
+   "duration": 103,
+   "cast": "John Cena, Lana Condor, Will Forte, P.J. Byrne, Nancy Linehan Charles",
+   "plot": "Willy il Coyote, come al solito, non se la passa bene: la sua infinita caccia al velocissimo e inafferrabile Beep Beep continua a risolversi in una serie di catastrofici fallimenti, spesso determinati dal malfunzionamento della strumentazione e degli esplosivi acquistati per posta dalla ACME. Quando vede alla Tv lo spot dell’avvocato Kevin Avery, pronto a fare causa proprio alla ACME per incidenti da cartone animato, Willy parte per Albuquerque e porta con sé tutta la montagna di prodotti difettosi comprati da ACME. A Kevin la causa sembra troppo grossa, ma l’astuzia del Coyote e la solerzia di una assistente dello studio legale lo portano ad accettarla. Kevin confida di risolvere tutto in un rapido patteggiamento, ma il Coyote dà fuoco alle carte e innesca così una guerra legale senza esclusione di colpi, che coinvolgerà molti dei più celebri personaggi dei Looney Tunes.",
+   "trailer": "https://www.youtube.com/watch?v=HROwYhJGgpw",
+   "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/11/REEL-NEW-12.11.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/la-provinciale": {
    "country": "Italia",
    "year": 1953,
@@ -3648,6 +5974,17 @@
    "fetched_at": "2026-11-22T21:43+01:00",
    "wd_checked": true,
    "country": "Stati Uniti"
+  },
+  "https://www.cinemateatrogalliera.it/il-canto-della-foresta": {
+   "country": "Francia",
+   "year": 2025,
+   "genre": "Documentario",
+   "duration": 95,
+   "cast": "la voce narrante di Vasco Brondi e le musiche di Warren Ellis",
+   "plot": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l’esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazione sul campo. Per Michel la scintilla è scattata, tanti anni prima, con l’avvistamento di un gallo cedrone, razza ormai scomparsa da quei territori.",
+   "trailer": "https://www.youtube.com/watch?v=JfIUk1GP5p8",
+   "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/10/REEL-NEW-22.10-4.png",
+   "fetched_at": "2026-11-24T16:49+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/incontri-ravvicinati-del-terzo-tipo-2": {
    "country": "USA",
@@ -3806,6 +6143,27 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/02/01-foto-Ma-l_amor-mio-non-muore-CR-2013-1-Lyda-Borelli-1200x630.jpg",
    "fetched_at": "2026-11-21T04:56+01:00"
   },
+  "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi": {
+   "genre": "Documentario",
+   "duration": 92,
+   "cast": "la voce narrante di Paolo Cognetti, musiche di Nick Cave e Warren Ellis",
+   "plot": "❝Il primo che avvistava un animale lo segnalava agli altri. Appena lo vedevamo, sentivamo crescere un brivido di eccitazione. Eccitazione e pienezza, sentimenti contraddittori. Incontrare un animale è una fonte di ringiovanimento❞",
+   "trailer": "https://www.youtube.com/watch?v=OccgnXAP7YE",
+   "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2022/12/REEL-NEW-22.10-3.png",
+   "fetched_at": "2026-11-24T16:49+01:00"
+  },
+  "https://arlecchino.popupcinema.18tickets.it/film/133534": {
+   "year": 1986,
+   "cast": "Akira Kamiya, 山本百合子, 内海賢二, 大塚周夫, Toshio Furukawa, Kaneto Shiozawa, 鈴木富子, 一龍斎貞友, 安藤ありさ, 千葉順二, Junpei Takiguchi, Daisuke Gōri, ... Trama Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza. Info 110 min",
+   "plot": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+   "genre": "Animazione, Fantascienza, Azione",
+   "duration": 110,
+   "trailer": "https://www.youtube.com/watch?v=kyyqfTEKYeU",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133534/standard_6a7012c6-0616-4d11-9b19-75519e3e5ebe.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true,
+   "country": "Giappone"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/scarface": {
    "country": "USA",
    "year": 1983,
@@ -3923,6 +6281,16 @@
    "fetched_at": "2026-11-22T21:43+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/gatto-col-cappello.jpg"
   },
+  "https://www.circuitocinemabologna.it/film/the-virgin-of-the-quarry-lake": {
+   "cast": "Dolores Oliverio, Fernanda Echevarría, Luisa Merelas, Isabel Bracamonte, Candela Flores, Agustín Sosa, Dady Brieva, Maicol Orihuela, Víctor López, Marcelo Antonio Diaz, Alejandra Peralta Ramos, Pa",
+   "country": "Spagna",
+   "duration": 95,
+   "genre": "Horror",
+   "plot": "Alla vigilia dello scoppio dell'epidemia del 2001, Natalia si innamora perdutamente di Diego, suo amico di sempre. La storia d'amore si interrompe quando lui incontra Silvia, una ragazza più esperta. Con l'aiuto della nonna Rita, Natalia decide di ricorrere a incantesimi e maledizioni per ostacolare la relazione nascente tra Diego e Silvia.",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/SJqQWNxO4Inzf2GFKFVDaodD6m.webp",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/SJqQWNxO4Inzf2GFKFVDaodD6m.webp"
+  },
   "https://www.circuitocinemabologna.it/film/charlie-anche-i-cani-vanno-in-paradiso": {
    "cast": "Burt Reynolds, Dom De Luise, Judith Barsi, Vic Tayback, Melba Moore, Ken Page, Charles Nelson Reilly, Nigel Pegram, Loni Anderson, Godfrey Quigley, Daryl Gilley, Rob Fuller",
    "country": "Stati Uniti",
@@ -3932,6 +6300,16 @@
    "still": "https://www.circuitocinemabologna.it/wp-content/uploads/v2Gxnk93DLMGYlFS1M70lZui7SM.webp",
    "fetched_at": "2026-11-22T21:43+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/v2Gxnk93DLMGYlFS1M70lZui7SM.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/leviticus": {
+   "cast": "Joe Bird, Stacy Clausen, Mia Wasikowska, Nicholas Hope, Tyallah Bullock, Ewen Leslie, Jeremy Blewitt, Davida Mc Kenzie, Shannon Berry, Julia Grace, Hyu Motoki, Edwina Wren",
+   "country": "Australia",
+   "duration": 88,
+   "genre": "Horror",
+   "plot": "Due ragazzi adolescenti devono sfuggire a un'entità violenta che assume la forma della persona che desiderano di più: l'uno dell'altro.",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/t2u97g756eWH9DNIXex3AWob3Sa.webp",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/t2u97g756eWH9DNIXex3AWob3Sa.webp"
   },
   "https://medica.popupcinema.18tickets.it/film/117198": {
    "year": 2026,
