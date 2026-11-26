@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-26T01:58+01:00",
+ "generated_at": "2026-11-26T16:06+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 204
+   "count": 197
   },
   "cineteca": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "popup": {
    "ok": true,
-   "count": 130
+   "count": 129
   },
   "galliera": {
    "ok": true,
@@ -132,57 +132,18 @@
   {
    "cinema": "lumiere",
    "sala": "Sala Mastroianni",
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
+   "title": "Storie parallele",
+   "director": "Asghar Farhadi",
    "start": "2026-11-26T15:00+01:00",
    "vos": true,
    "tags": [
     "Prima visione"
    ],
    "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23850",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "Il fuoco che ti porti dentro",
-   "director": "Edoardo De Angelis",
-   "start": "2026-11-26T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868575#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala C",
-   "title": "Il rumore delle cose nuove",
-   "director": "Paolo Genovese",
-   "start": "2026-11-26T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868644#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "film": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala A",
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-26T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868441#sala",
-   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
+   "buy": null,
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23886",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
   {
    "cinema": "galliera",
@@ -214,72 +175,20 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/policarpo-ufficiale-di-scrittura"
   },
   {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Look Back",
-   "director": "Hirokazu Kore Eda",
-   "start": "2026-11-26T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868330#sala",
-   "info": "https://www.circuitocinemabologna.it/film/look-back/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/look-back"
-  },
-  {
-   "cinema": "roma",
-   "sala": null,
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-26T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868314#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "Storie parallele",
-   "director": "Asghar Farhadi",
-   "start": "2026-11-26T15:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868616#sala",
-   "info": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp",
-   "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
-  },
-  {
-   "cinema": "europa",
-   "sala": null,
-   "title": "È andata così",
-   "director": "Gianni Zanasi",
-   "start": "2026-11-26T16:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://europa.ccb.18tickets.it/film/e-andata-cosi-_2026-4a14d884-9574-44b2-8bf4-f3f413dfb9dc/868344#sala",
-   "info": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/e-andata-cosi-2"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
-   "title": "Storie parallele",
-   "director": "Asghar Farhadi",
-   "start": "2026-11-26T16:15+01:00",
+   "title": "Fjord",
+   "director": "Cristian Mungiu",
+   "start": "2026-11-26T16:00+01:00",
    "vos": true,
    "tags": [
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23886",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/101656",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23850",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
   {
    "cinema": "rialto",
@@ -360,6 +269,22 @@
    "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
   },
   {
+   "cinema": "lumiere",
+   "sala": "Sala Mastroianni",
+   "title": "Storie parallele",
+   "director": "Asghar Farhadi",
+   "start": "2026-11-26T17:30+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23887",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
+  },
+  {
    "cinema": "modernissimo",
    "sala": null,
    "title": "American Gigolò",
@@ -401,22 +326,6 @@
    "info": "https://www.circuitocinemabologna.it/film/look-back/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
    "film": "https://www.circuitocinemabologna.it/film/look-back"
-  },
-  {
-   "cinema": "lumiere",
-   "sala": "Sala Mastroianni",
-   "title": "Wild Horse Nine",
-   "director": "Martin McDonagh",
-   "start": "2026-11-26T17:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23831",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
   {
    "cinema": "cervi",
@@ -633,7 +542,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23832",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23831",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -804,8 +713,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23887",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23888",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -873,7 +782,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23833",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23832",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -950,8 +859,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23888",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23889",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -1060,22 +969,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-27T16:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23867",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
    "cinema": "europa",
    "sala": null,
    "title": "È andata così",
@@ -1103,6 +996,22 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/fjord/?repeat=23852",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-27T16:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23867",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "modernissimo",
@@ -1251,7 +1160,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23834",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23833",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -1325,22 +1234,6 @@
    "film": "https://bristol.popupcinema.18tickets.it/film/123765"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-27T18:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23742",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Storie parallele",
@@ -1351,8 +1244,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23889",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23890",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -1381,6 +1274,22 @@
    "info": "https://arlecchino.popupcinema.18tickets.it/film/130962",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
    "film": "https://arlecchino.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-27T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23742",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "galliera",
@@ -1490,7 +1399,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23835",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23834",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -1510,22 +1419,6 @@
    "film": "https://medica.popupcinema.18tickets.it/film/124326"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-27T20:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23868",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
    "cinema": "bristol",
    "sala": null,
    "title": "La ballata del re delle api",
@@ -1537,6 +1430,22 @@
    "info": "https://bristol.popupcinema.18tickets.it/film/130962",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
    "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-27T21:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23868",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "europa",
@@ -1727,7 +1636,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23836",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23835",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -1785,8 +1694,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23890",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23891",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -1901,22 +1810,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-28T16:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23869",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
    "cinema": "europa",
    "sala": null,
    "title": "È andata così",
@@ -1941,6 +1834,22 @@
    "info": "https://jolly.popupcinema.18tickets.it/film/133434",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
    "film": "https://jolly.popupcinema.18tickets.it/film/133434"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-28T16:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23869",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "rialto",
@@ -2048,7 +1957,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23837",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23836",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2148,22 +2057,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-28T18:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23879",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
    "cinema": "rialto",
    "sala": "Sala 1",
    "title": "Wild Horse Nine",
@@ -2188,6 +2081,22 @@
    "info": "https://bristol.popupcinema.18tickets.it/film/130962",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/130962/standard_82807609-f923-4e8a-a7dc-31b5827e6abc.jpg",
    "film": "https://bristol.popupcinema.18tickets.it/film/130962"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-28T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23879",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "galliera",
@@ -2267,8 +2176,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23891",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23892",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -2284,7 +2193,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23838",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23837",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2354,7 +2263,7 @@
    "sala": null,
    "title": "La Gradiva",
    "director": "Marine Atlan",
-   "start": "2026-11-28T20:45+01:00",
+   "start": "2026-11-28T21:00+01:00",
    "vos": true,
    "tags": [
     "Prima visione"
@@ -2539,7 +2448,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23839",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23838",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2607,22 +2516,6 @@
   },
   {
    "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "La storia della principessa splendente",
-   "director": "Isao Takahata",
-   "start": "2026-11-29T10:30+01:00",
-   "vos": true,
-   "tags": [
-    "Matinée",
-    "Rassegna"
-   ],
-   "buy": "https://odeon.ccb.18tickets.it/film/la-storia-della-principessa-splendente-ried-2024-_2013-4b4b7ddd-6c3e-4c33-b6ce-c40ba6f78daf/859959#sala",
-   "info": "https://www.circuitocinemabologna.it/film/la-storia-della-principessa-splendente-ried-2024/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/imUJOrtNf8EWameChpaRLXSaX4w.webp",
-   "film": "https://www.circuitocinemabologna.it/film/la-storia-della-principessa-splendente-ried-2024"
-  },
-  {
-   "cinema": "odeon",
    "sala": "Sala C",
    "title": "Chao",
    "director": "Yasuhiro Aoki",
@@ -2637,21 +2530,6 @@
    "film": "https://www.circuitocinemabologna.it/film/chao"
   },
   {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Tiger are not afraid",
-   "director": "Issa López",
-   "start": "2026-11-29T11:00+01:00",
-   "vos": true,
-   "tags": [
-    "Horror"
-   ],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/131157/e74840e7-0ab9-4dee-9343-4b93bce41f29#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/131157",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131157/standard_63bf956f-8216-4572-8a30-7993e8820068.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/131157"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Mastroianni",
    "title": "Storie parallele",
@@ -2662,10 +2540,26 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23892",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23893",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
+  },
+  {
+   "cinema": "odeon",
+   "sala": "Sala B",
+   "title": "La storia della principessa splendente",
+   "director": "Isao Takahata",
+   "start": "2026-11-29T11:00+01:00",
+   "vos": true,
+   "tags": [
+    "Matinée",
+    "Rassegna"
+   ],
+   "buy": "https://odeon.ccb.18tickets.it/film/la-storia-della-principessa-splendente-ried-2024-_2013-4b4b7ddd-6c3e-4c33-b6ce-c40ba6f78daf/870285#sala",
+   "info": "https://www.circuitocinemabologna.it/film/la-storia-della-principessa-splendente-ried-2024/",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/imUJOrtNf8EWameChpaRLXSaX4w.webp",
+   "film": "https://www.circuitocinemabologna.it/film/la-storia-della-principessa-splendente-ried-2024"
   },
   {
    "cinema": "bristol",
@@ -2770,7 +2664,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23840",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23839",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -2812,22 +2706,6 @@
    "info": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp",
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-29T16:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23871",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "europa",
@@ -2877,6 +2755,22 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/i-racconti-del-giardino-incantato"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-29T16:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23871",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
    "cinema": "lumiere",
    "sala": "Sala DAMSLab",
    "title": "Storie parallele",
@@ -2887,8 +2781,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23893",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23894",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -3023,7 +2917,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23841",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23840",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3100,22 +2994,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-29T18:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23880",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
    "cinema": "europa",
    "sala": null,
    "title": "È andata così",
@@ -3155,8 +3033,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23894",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23895",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -3172,6 +3050,22 @@
    "info": "https://www.circuitocinemabologna.it/film/wild-horse-nine/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
    "film": "https://www.circuitocinemabologna.it/film/wild-horse-nine"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-29T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23880",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "jolly",
@@ -3276,7 +3170,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23842",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23841",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3301,7 +3195,7 @@
    "sala": null,
    "title": "La Gradiva",
    "director": "Marine Atlan",
-   "start": "2026-11-29T20:45+01:00",
+   "start": "2026-11-29T21:00+01:00",
    "vos": true,
    "tags": [
     "Prima visione"
@@ -3388,8 +3282,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23895",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23896",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -3525,7 +3419,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23843",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23842",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3663,22 +3557,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-30T16:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23873",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
    "cinema": "europa",
    "sala": null,
    "title": "È andata così",
@@ -3708,6 +3586,22 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/fjord"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-30T16:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23873",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
    "cinema": "lumiere",
    "sala": "Sala DAMSLab",
    "title": "Storie parallele",
@@ -3718,8 +3612,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23896",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23897",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -3839,7 +3733,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23844",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23843",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -3901,22 +3795,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-11-30T18:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23881",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Fjord",
@@ -3943,8 +3821,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23897",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23898",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -3960,6 +3838,22 @@
    "info": "https://www.circuitocinemabologna.it/film/wild-horse-nine/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
    "film": "https://www.circuitocinemabologna.it/film/wild-horse-nine"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-11-30T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23881",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "galliera",
@@ -4080,25 +3974,9 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23845",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23844",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
-  },
-  {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-11-30T20:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23874",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "modernissimo",
@@ -4115,6 +3993,22 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/scarface/?repeat=23293",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Scarface-recensione-film-Brian-De-Palma.jpg.webp",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/scarface"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-11-30T21:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23874",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "galliera",
@@ -4183,8 +4077,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23898",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23899",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -4320,7 +4214,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23846",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23845",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -4394,8 +4288,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23899",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23900",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -4491,22 +4385,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-12-01T16:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23875",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
    "cinema": "europa",
    "sala": null,
    "title": "È andata così",
@@ -4550,6 +4428,22 @@
    "info": "https://cinetecadibologna.it/programmazione/proiezione/vogliamo-anche-le-rose/?repeat=23680",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2022/03/1615191894649_2048x1152.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/vogliamo-anche-le-rose"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-12-01T16:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23875",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
   },
   {
    "cinema": "rialto",
@@ -4667,7 +4561,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23847",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23846",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -4725,22 +4619,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-12-01T18:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23882",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Storie parallele",
@@ -4751,8 +4629,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23900",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23901",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -4781,6 +4659,22 @@
    "info": "https://arlecchino.popupcinema.18tickets.it/film/131125",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131125/standard_dea9f996-ba96-4662-8c28-af80095a3ca0.jpg",
    "film": "https://arlecchino.popupcinema.18tickets.it/film/131125"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-12-01T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23882",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "galliera",
@@ -4888,7 +4782,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23848",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23847",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -4897,7 +4791,7 @@
    "sala": null,
    "title": "La Gradiva",
    "director": "Marine Atlan",
-   "start": "2026-12-01T20:45+01:00",
+   "start": "2026-12-01T21:00+01:00",
    "vos": true,
    "tags": [
     "Prima visione"
@@ -5113,7 +5007,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23849",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23848",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -5251,22 +5145,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "La Gradiva",
-   "director": "Marine Atlan",
-   "start": "2026-12-02T16:00+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23877",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
-  },
-  {
    "cinema": "europa",
    "sala": null,
    "title": "È andata così",
@@ -5312,6 +5190,22 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/balcanica"
   },
   {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "La Gradiva",
+   "director": "Marine Atlan",
+   "start": "2026-12-02T16:15+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://cervi.cinetecabologna.18tickets.it/film/96935",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva/?repeat=23877",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-scaled.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva"
+  },
+  {
    "cinema": "lumiere",
    "sala": "Sala DAMSLab",
    "title": "Storie parallele",
@@ -5322,8 +5216,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23901",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23908",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -5456,7 +5350,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23905",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23849",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -5532,22 +5426,6 @@
    "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
-   "cinema": "cervi",
-   "sala": null,
-   "title": "Look Back",
-   "director": "Hirokazu Koreeda",
-   "start": "2026-12-02T18:45+01:00",
-   "vos": true,
-   "tags": [
-    "Prima visione"
-   ],
-   "ita": false,
-   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23883",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
-   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
-  },
-  {
    "cinema": "lumiere",
    "sala": "Sala Scorsese",
    "title": "Fjord",
@@ -5574,8 +5452,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23908",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23909",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -5591,6 +5469,22 @@
    "info": "https://www.circuitocinemabologna.it/film/wild-horse-nine/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/3ggXqsIXgDM7IMntjSfmK4lAvKY-e1791978060366.webp",
    "film": "https://www.circuitocinemabologna.it/film/wild-horse-nine"
+  },
+  {
+   "cinema": "cervi",
+   "sala": null,
+   "title": "Look Back",
+   "director": "Hirokazu Koreeda",
+   "start": "2026-12-02T19:00+01:00",
+   "vos": true,
+   "tags": [
+    "Prima visione"
+   ],
+   "ita": false,
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/105713",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/look-back/?repeat=23883",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Look-Back.jpg",
+   "film": "https://cinetecadibologna.it/programmazione/proiezione/look-back"
   },
   {
    "cinema": "jolly",
@@ -5685,7 +5579,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23906",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23905",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -5710,7 +5604,7 @@
    "sala": null,
    "title": "La Gradiva",
    "director": "Marine Atlan",
-   "start": "2026-12-02T20:45+01:00",
+   "start": "2026-12-02T21:00+01:00",
    "vos": true,
    "tags": [
     "Prima visione"
@@ -5771,8 +5665,8 @@
     "Prima visione"
    ],
    "ita": false,
-   "buy": null,
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23909",
+   "buy": "https://lumiere.cinetecabologna.18tickets.it/film/112940",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele/?repeat=23910",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
@@ -5923,7 +5817,7 @@
    ],
    "ita": false,
    "buy": "https://lumiere.cinetecabologna.18tickets.it/film/100367",
-   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23907",
+   "info": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine/?repeat=23906",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine"
   },
@@ -6429,7 +6323,7 @@
    ],
    "buy": "https://odeon.ccb.18tickets.it/film/succedera-questa-notte_2026/868504#sala",
    "info": "https://www.circuitocinemabologna.it/film/succedera-questa-notte/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/tNDCZxSvfSlst71Gz03OxS3fCaW.webp",
+   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/8_SQN1_86531-e1795690055240.jpg",
    "film": "https://www.circuitocinemabologna.it/film/succedera-questa-notte"
   },
   {
@@ -6916,101 +6810,6 @@
   }
  ],
  "films": {
-  "https://cinetecadibologna.it/programmazione/proiezione/fjord": {
-   "country": "Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia",
-   "year": 2026,
-   "duration": 146,
-   "cast": "Renate Reinsve",
-   "plot": "“Famiglia evangelista dalla Romania alla Norvegia, causa lavoro. L’affidamento della prole (cinque bimbi, con un neonato) è tolto ai genitori (Stan e Reinsve), a causa di un livido sul volto della figlia adolescente: la loro educazione rigida (no a device e musica, sì a punizioni) non è adatta a un paese laico e progressista. Le destre protestano. Con il solito realismo lucido e sardonico Mungiu mette a paradossale processo una cultura subdola che, tramite la lingua della burocrazia, impone la propria verità” (Giorgio Sangiorgio). Palma d’Oro a Cannes 2026, seconda per il regista rumeno diciassette anni dopo 4 mesi, 3 settimane, 2 giorni .",
-   "trailer": "https://www.youtube.com/watch?v=frg59VOungA",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg-1200x630.jpg",
-   "fetched_at": "2026-11-25T02:25+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
-   "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
-   "country": "Italia",
-   "duration": 94,
-   "genre": "Drammatico",
-   "plot": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo. E’ scappato dalla sua città, ma anche da sua madre Angela, unadonna esagerata nel bene e nel male – irresistibile, qualunquista, conservatrice e ostile come poche - che lo ha raggiunto per Natale e sembra decisa a restare con lui. La cena della Vigilia diventa, così, un campo di battaglia emotivo, comico e feroce al tempo stesso, che fa riemergere un passato di sopraffazioni e incomprensioni. Un corpo a corpo sentimentale tra madre e figlio ma anche con un tenace cappone, che non vuole saperne di finire in pentola; con l’attesa di una figlia che non si sa se mai arriverà e un ospite tanto illustre quanto inaspettato. Una resa dei conti tra madre e figlio, destinata a cambiare per sempre il senso del loro legame. Un amore che brucia come un fuoco inesauribile e che nessuna separazione potrà mai spegnere.",
-   "trailer": "https://www.youtube.com/watch?v=wkL5lY_Jm0Y",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
-   "fetched_at": "2026-11-25T02:25+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
-   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
-   "country": "Italia",
-   "duration": 113,
-   "genre": "Drammatico",
-   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
-   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
-   "country": "Italia",
-   "duration": 106,
-   "genre": "Drammatico",
-   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
-  },
-  "https://cinetecadibologna.it/programmazione/proiezione/policarpo-ufficiale-di-scrittura": {
-   "country": "Italia, Francia, Spagna",
-   "year": 1959,
-   "duration": 103,
-   "plot": "Soldati non lo sapeva, ma questa elegia in technicolor della piccola borghesia umbertina sarebbe stato il suo maggior incasso e il suo ultimo film. Rispetto a Travet , spostandosi da Torino a Roma, il regista diventa più disilluso e acre (il copione è di due futuri maestri, Age e Scarpelli). In un turbinio di divi che fanno piccole apparizioni, la vicenda del vecchio impiegato ‘calligrafo’ minacciato dall’arrivo della macchina da scrivere è anche un autoritratto. Premio per la miglior commedia a Cannes. (em)",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/POLICARPO-UFFICIALE-DI-SCRITTURA-C-e1659953893569-1200x630.webp",
-   "fetched_at": "2026-11-24T04:19+01:00"
-  },
-  "https://www.circuitocinemabologna.it/film/look-back": {
-   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
-   "country": "Giappone",
-   "duration": 100,
-   "genre": "Drammatico",
-   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
-   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/fjord-2": {
-   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
-   "country": "Romania",
-   "duration": 146,
-   "genre": "Drammatico",
-   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
-   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "fetched_at": "2026-11-25T02:25+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles": {
-   "cast": "Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney, Adam Bessa, Catherine Deneuve, India Hair, Véronique Ruggia Saura, Iris Bry, François Delaive, Julie Fournier, Ismaël Sy Savané",
-   "country": "Francia",
-   "duration": 139,
-   "genre": "Thriller",
-   "plot": "In cerca di ispirazione per il suo nuovo romanzo, Sylvie spia i vicini che abitano dall’altra parte della strada. Quando assume il giovane Adam per aiutarla nelle attività quotidiane, non immagina che sconvolgerà la sua vita e il suo lavoro, fino a quando la finzione da lei immaginata finirà per superare la realtà di tutti loro.",
-   "trailer": "https://www.youtube.com/watch?v=iSvWJaFBFIM",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp",
-   "fetched_at": "2026-11-25T02:25+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/e-andata-cosi-2": {
-   "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi, Alma Giardina, Pier Luigi Pasino, Michelangelo Dalisi, Andréa Furet, Marco Fiore, Emanuele Maria Di Stefano",
-   "country": "Italia",
-   "duration": 120,
-   "genre": "Commedia",
-   "plot": "Cecilia si trova costretta suo malgrado a convivere in un casolare sperduto in campagna con i tre uomini più importanti della sua vita. Tra assistenti sociali, gatti scappati, uno strozzino che l’aspetta sotto casa e ‘spettri’ che si aggirano, inspiegabilmente Cecilia ritrova tutto quello che le sembrava perduto. La leggerezza di poter dire ‘È andata così’.",
-   "trailer": "https://www.youtube.com/watch?v=d7DgZoV4HKw",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
-   "fetched_at": "2026-11-24T16:49+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele": {
    "country": "Francia, Belgio, Italia",
    "year": 2026,
@@ -7020,6 +6819,24 @@
    "trailer": "https://www.youtube.com/watch?v=uOC5yhEYNCE",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele-1200x630.jpg",
    "fetched_at": "2026-11-26T01:59+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/policarpo-ufficiale-di-scrittura": {
+   "country": "Italia, Francia, Spagna",
+   "year": 1959,
+   "duration": 103,
+   "plot": "Soldati non lo sapeva, ma questa elegia in technicolor della piccola borghesia umbertina sarebbe stato il suo maggior incasso e il suo ultimo film. Rispetto a Travet , spostandosi da Torino a Roma, il regista diventa più disilluso e acre (il copione è di due futuri maestri, Age e Scarpelli). In un turbinio di divi che fanno piccole apparizioni, la vicenda del vecchio impiegato ‘calligrafo’ minacciato dall’arrivo della macchina da scrivere è anche un autoritratto. Premio per la miglior commedia a Cannes. (em)",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/POLICARPO-UFFICIALE-DI-SCRITTURA-C-e1659953893569-1200x630.webp",
+   "fetched_at": "2026-11-24T04:19+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/fjord": {
+   "country": "Norvegia, Romania, Svezia, Finlandia, Danimarca, Francia",
+   "year": 2026,
+   "duration": 146,
+   "cast": "Renate Reinsve",
+   "plot": "“Famiglia evangelista dalla Romania alla Norvegia, causa lavoro. L’affidamento della prole (cinque bimbi, con un neonato) è tolto ai genitori (Stan e Reinsve), a causa di un livido sul volto della figlia adolescente: la loro educazione rigida (no a device e musica, sì a punizioni) non è adatta a un paese laico e progressista. Le destre protestano. Con il solito realismo lucido e sardonico Mungiu mette a paradossale processo una cultura subdola che, tramite la lingua della burocrazia, impone la propria verità” (Giorgio Sangiorgio). Palma d’Oro a Cannes 2026, seconda per il regista rumeno diciassette anni dopo 4 mesi, 3 settimane, 2 giorni .",
+   "trailer": "https://www.youtube.com/watch?v=frg59VOungA",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/coverlg-1200x630.jpg",
+   "fetched_at": "2026-11-25T02:25+01:00"
   },
   "https://www.circuitocinemabologna.it/film/wild-horse-nine": {
    "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana Di Girolamo, Ailín Salas, Tom Waits, Parker Posey, Samuel Wayt",
@@ -7078,6 +6895,17 @@
    "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true
   },
+  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
+   "country": "Italia",
+   "duration": 106,
+   "genre": "Drammatico",
+   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
+  },
   "https://cinetecadibologna.it/programmazione/proiezione/american-gigolo": {
    "country": "USA",
    "year": 1980,
@@ -7086,15 +6914,27 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/american-gigolo-1200x630.jpg",
    "fetched_at": "2026-11-24T04:19+01:00"
   },
-  "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine": {
-   "country": "GB, USA",
-   "year": 2026,
-   "duration": 118,
-   "cast": "Sam Rockwell, John Malkovich e Steve Buscemi",
-   "plot": "Due agenti della CIA lasciano il Cile poco prima del golpe contro Allende per una gita sull’isola di Pasqua, ma il loro non è un viaggio di piacere. Dopo Tre manifesti a Ebbing, Missouri e Gli spiriti dell’isola , McDonagh si conferma “uno dei più ispirati cantori cinematografici della brutalità e dell’imprevedibilità dell’esistenza. […] Wild Horse Nine gioca, infatti, in maniera brillante col genere spionistico […] e nel frattempo si stratifica progressivamente e si trasforma in un apologo tragico e politico. […] Si muore dal ridere, mentre si assiste allo spettacolo di un confronto senza vincitori possibili, che riflette amaramente sugli abusi del potere” (Marianna Cappi). Coppa Volpi a Venezia 2026 per John Malkovich, irresistibile in coppia con Sam Rockwell.",
-   "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
-   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine-1200x630.jpg",
-   "fetched_at": "2026-11-22T21:43+01:00"
+  "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
+   "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
+   "country": "Italia",
+   "duration": 94,
+   "genre": "Drammatico",
+   "plot": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo. E’ scappato dalla sua città, ma anche da sua madre Angela, unadonna esagerata nel bene e nel male – irresistibile, qualunquista, conservatrice e ostile come poche - che lo ha raggiunto per Natale e sembra decisa a restare con lui. La cena della Vigilia diventa, così, un campo di battaglia emotivo, comico e feroce al tempo stesso, che fa riemergere un passato di sopraffazioni e incomprensioni. Un corpo a corpo sentimentale tra madre e figlio ma anche con un tenace cappone, che non vuole saperne di finire in pentola; con l’attesa di una figlia che non si sa se mai arriverà e un ospite tanto illustre quanto inaspettato. Una resa dei conti tra madre e figlio, destinata a cambiare per sempre il senso del loro legame. Un amore che brucia come un fuoco inesauribile e che nessuna separazione potrà mai spegnere.",
+   "trailer": "https://www.youtube.com/watch?v=wkL5lY_Jm0Y",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
+   "fetched_at": "2026-11-25T02:25+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/look-back": {
+   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
+   "country": "Giappone",
+   "duration": 100,
+   "genre": "Drammatico",
+   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
+   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/la-gradiva": {
    "country": "Francia, Italia",
@@ -7104,6 +6944,39 @@
    "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/La-Gradiva-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
+  },
+  "https://www.circuitocinemabologna.it/film/fjord-2": {
+   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
+   "country": "Romania",
+   "duration": 146,
+   "genre": "Drammatico",
+   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
+   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "fetched_at": "2026-11-25T02:25+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/e-andata-cosi-2": {
+   "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi, Alma Giardina, Pier Luigi Pasino, Michelangelo Dalisi, Andréa Furet, Marco Fiore, Emanuele Maria Di Stefano",
+   "country": "Italia",
+   "duration": 120,
+   "genre": "Commedia",
+   "plot": "Cecilia si trova costretta suo malgrado a convivere in un casolare sperduto in campagna con i tre uomini più importanti della sua vita. Tra assistenti sociali, gatti scappati, uno strozzino che l’aspetta sotto casa e ‘spettri’ che si aggirano, inspiegabilmente Cecilia ritrova tutto quello che le sembrava perduto. La leggerezza di poter dire ‘È andata così’.",
+   "trailer": "https://www.youtube.com/watch?v=d7DgZoV4HKw",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/232609_ppl-e1795534439393.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles": {
+   "cast": "Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney, Adam Bessa, Catherine Deneuve, India Hair, Véronique Ruggia Saura, Iris Bry, François Delaive, Julie Fournier, Ismaël Sy Savané",
+   "country": "Francia",
+   "duration": 139,
+   "genre": "Thriller",
+   "plot": "In cerca di ispirazione per il suo nuovo romanzo, Sylvie spia i vicini che abitano dall’altra parte della strada. Quando assume il giovane Adam per aiutarla nelle attività quotidiane, non immagina che sconvolgerà la sua vita e il suo lavoro, fino a quando la finzione da lei immaginata finirà per superare la realtà di tutti loro.",
+   "trailer": "https://www.youtube.com/watch?v=iSvWJaFBFIM",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp",
+   "fetched_at": "2026-11-25T02:25+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp"
   },
   "https://bristol.popupcinema.18tickets.it/film/126603": {
    "year": 2026,
@@ -7140,6 +7013,17 @@
    "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true
   },
+  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
+   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
+   "country": "Italia",
+   "duration": 113,
+   "genre": "Drammatico",
+   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
+   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp"
+  },
   "https://www.circuitocinemabologna.it/film/mustang": {
    "cast": "Kasia Smutniak, Pietro Taricone, Sophie Taricone",
    "country": "Italia",
@@ -7159,6 +7043,16 @@
    "plot": "Il 24 ottobre 1975, in Islanda, il 90% delle donne decise di fermarsi e per un’intera giornata smisero di lavorare, cucinare e occuparsi dei figli, rendendo visibile quanto il loro contributo, dentro e fuori casa, fosse indispensabile al funzionamento della società. Fabbriche, scuole, negozi e uffici si trovarono così a fare i conti con una realtà fino ad allora invisibile: senza il lavoro delle donne, l’intero Paese rischiava di fermarsi. Attraverso testimonianze, materiali d’archivio e i ricordi delle protagoniste, il documentario di Pamela Hogan racconta la mobilitazione promossa anche dal collettivo femminista The Red Stockings e l’impatto di quella giornata senza precedenti. Una storia sorprendente che riunisce donne diverse per età, esperienze e convinzioni, accomunate dalla volontà di affermare il valore del proprio lavoro. Quella protesta si trasformò in uno spartiacque sociale e politico per l’Islanda, contribuendo a cambiare profondamente la condizione femminile e la percezione del ruolo delle donne nella società. Il film mostra la forza di un gesto collettivo capace di lasciare un segno duraturo e di accompagnare l’Islanda verso una posizione di primo piano nella parità di genere.",
    "trailer": "https://www.youtube.com/watch?v=ddjXNVFFiyU",
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/09/TAPPO.png",
+   "fetched_at": "2026-11-22T21:43+01:00"
+  },
+  "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine": {
+   "country": "GB, USA",
+   "year": 2026,
+   "duration": 118,
+   "cast": "Sam Rockwell, John Malkovich e Steve Buscemi",
+   "plot": "Due agenti della CIA lasciano il Cile poco prima del golpe contro Allende per una gita sull’isola di Pasqua, ma il loro non è un viaggio di piacere. Dopo Tre manifesti a Ebbing, Missouri e Gli spiriti dell’isola , McDonagh si conferma “uno dei più ispirati cantori cinematografici della brutalità e dell’imprevedibilità dell’esistenza. […] Wild Horse Nine gioca, infatti, in maniera brillante col genere spionistico […] e nel frattempo si stratifica progressivamente e si trasforma in un apologo tragico e politico. […] Si muore dal ridere, mentre si assiste allo spettacolo di un confronto senza vincitori possibili, che riflette amaramente sugli abusi del potere” (Marianna Cappi). Coppa Volpi a Venezia 2026 per John Malkovich, irresistibile in coppia con Sam Rockwell.",
+   "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
+   "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Wild-Horse-Nine-1200x630.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/lanno-di-baggio": {
@@ -7375,7 +7269,7 @@
   "https://cinetecadibologna.it/programmazione/proiezione/america-inquieta-minnie-e-moskowitz-e-la-nuova-hollywood-degli-outsider": {
    "plot": "Lezione di Roy Menarini A partire da Minnie e Moskowitz , un viaggio nel cinema americano tra fine anni Sessanta e anni Settanta, quando Hollywood smette di raccontare solo i vincenti e apre le porte a storie irregolari, solitudini urbane e fughe senza meta. Il film di Cassavetes diventa il punto d’ingresso per una stagione segnata da libertà espressiva e controcultura. Da Easy Rider a Mean Streets , passando attraverso Cimino, Coppola, Friedkin, Polanski e tanti altri, la New Hollywood appare come un laboratorio elettrico e vitale, cui tornare con nuovi strumenti.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/large_big_minnie_et_moskowitz_1200x675_2-1200x630.jpg",
-   "fetched_at": "2026-11-19T05:09+01:00"
+   "fetched_at": "2026-11-26T16:07+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/la-citta-incantata": {
    "country": "Giappone",
@@ -7383,12 +7277,12 @@
    "duration": 122,
    "plot": "Il punto più alto della composizione di Miyazaki. La perigliosa avventura della piccola Chihiro, entrata in un mondo fiabesco popolato da creature fantastiche, ha conquistato l’Orso d’Oro a Berlino e il primo Oscar per l’animazione mai assegnato a un anime . “Ispirato alle divinità e alle magie della tradizione nipponica, il film è un incanto da cima a fondo” (Tullio Kezich), che unisce alla strabiliante bellezza delle invenzioni visive la forza aggiuntiva di un apologo buono per grandi e piccini. Animazione. Dagli 8 anni in su",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2022/08/la-citta-incantata.jpg",
-   "fetched_at": "2026-11-19T05:09+01:00"
+   "fetched_at": "2026-11-26T16:07+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/talk-con-kiana-hayeri": {
    "plot": "Fotografa iraniano-canadese, vincitrice del World Press Photo nel 2025 e nel 2026, Kiana Hayeri presenta Children Who Do Not Exist , il lavoro premiato quest’anno che racconta la storia di una madre kenyota e della figlia nata in Arabia Saudita, rimasta per anni senza documenti e senza riconoscimento legale. Attraverso una fotografia intima e profondamente umana, Hayeri affronta temi come migrazione, diritti e identità, dando voce a storie spesso invisibili. Evento con la partecipazione di FUJIFILM Italia. Ore 11.00–12.00 – Galleria Modernissimo: visita guidata alla mostra World Press Photo 2026 con Fulvio Bugani e Kiana Hayeri. Evento nell'ambito della mostra World Press Photo 2026 (Galleria Modernissimo, 28 ottobre - 29 novembre), con il sostengo di FUJIFILM Italia. Dettagli e info contatti: Tel: +39 051 2194150 Email: biglietteriamodernissimo@cineteca.bologna.it",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/image-4-940x630.webp",
-   "fetched_at": "2026-11-19T05:09+01:00"
+   "fetched_at": "2026-11-26T16:07+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/la-citta-dei-vivi": {
    "country": "Italia",
@@ -7396,7 +7290,7 @@
    "duration": 103,
    "plot": "Luca ha ventitré anni. Vive in una famiglia che lo ha adottato e che lo ama. Si muove tra la periferia e il centro con i suoi amici e ha una ragazza di cui è innamorato. Mentre cerca di capire chi vuole essere, conduce una doppia vita. Una notte, dopo un incontro apparentemente casuale, tutto si spezza: la sua esistenza viene travolta da una violenza cieca e insensata. Dall’omonimo romanzo di Nicola Lagioia, il racconto della formazione interrotta di un ragazzo e il ritratto di una città le cui crepe, solitudini e contraddizioni sembrano condurre inevitabilmente verso una tragedia assurda e inspiegabile. “Sullo schermo, suggerire è diventato più forte che mostrare. Non c’è violenza esplicita in nessun movimento e in nessuno sguardo. Solo tenerezza” (Edoardo Gabbriellini).",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/la-citta-dei-vivi-1200x630.jpg",
-   "fetched_at": "2026-11-19T05:09+01:00"
+   "fetched_at": "2026-11-26T16:07+01:00"
   },
   "https://arlecchino.popupcinema.18tickets.it/film/124326": {
    "year": 2026,
@@ -7424,7 +7318,7 @@
    "duration": 155,
    "plot": "In un villaggio di montagna, una serie di morti inspiegabili sconvolge la comunità. Jong-gu, poliziotto svogliato, indaga su delitti sempre più atroci, mentre i sospetti si concentrano su un misterioso straniero. Quando anche la figlia manifesta inquietanti segni di possessione, la ricerca della verità si trasforma in una disperata lotta per la salvezza. Na Hong-jin costruisce un labirinto narrativo in cui ogni indizio apre nuovi interrogativi e nessuna verità appare definitiva. Il registro poliziesco si contamina con l’horror, il grottesco e il soprannaturale, mentre la suspense si alimenta di improvvise esplosioni di violenza.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/goksung.jpg",
-   "fetched_at": "2026-11-19T05:09+01:00"
+   "fetched_at": "2026-11-26T16:07+01:00"
   },
   "https://medica.popupcinema.18tickets.it/film/131058": {
    "year": 2026,
@@ -7458,17 +7352,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/09/digger.image-24221115387a40d0a59be9e44bf16fd9-1200x630.jpg",
    "fetched_at": "2026-11-20T00:34+01:00"
   },
-  "https://www.circuitocinemabologna.it/film/la-storia-della-principessa-splendente-ried-2024": {
-   "cast": "Aki Asakura, Takeo Chii, Atsuko Takahata, Tomoko Tabata, Shinosuke Tatekawa, Hikaru Ijūin, Ryudo Uzaki, Shichinosuke Nakamura, Isao Hashizume, Yukiji Asaoka, Tamaki Kojo, Yuji Miyake",
-   "country": "Giappone",
-   "duration": 137,
-   "genre": "Animazione",
-   "plot": "Kaguya, minuscola creatura arrivata dalla Luna e trovata in una canna di bambù da un vecchio tagliatore, viene accolta e cresciuta come una figlia dal tagliabambù e sua moglie. La piccola cresce a vista d’occhio, affascinando tutti quelli che entrano in contatto con lei, fino a diventare una splendida giovane donna. Molti sono i suoi pretendenti, ma nessuno è in grado di portarle quello che davvero desidera, e nessuno, nemmeno l’Imperatore, riesce a conquistare il suo cuore…",
-   "trailer": "https://www.youtube.com/watch?v=VWAqnUnN0Xk",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/imUJOrtNf8EWameChpaRLXSaX4w.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/imUJOrtNf8EWameChpaRLXSaX4w.webp"
-  },
   "https://www.circuitocinemabologna.it/film/chao": {
    "cast": "Kenta Miyake, Oji Suzuka, Anna Yamada",
    "country": "Giappone",
@@ -7480,14 +7363,16 @@
    "fetched_at": "2026-11-22T21:43+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/tsItQhylPPcoD5qtEHfsG5Pm4mH.webp"
   },
-  "https://arlecchino.popupcinema.18tickets.it/film/131157": {
-   "year": 2026,
-   "cast": "Paola Lara, Juan Ramón López, Tenoch Huerta Trama Dove finisce il sangue versato dai cartelli messicani, iniziano gli incubi. Ingurgitata da una città fantasma dopo la brutale sparizione della madre, la piccola Estrella trova rifugio in un branco di bambini randagi, orfani dimenticati da Dio e dagli uomini. Braccati da sicari spietati e perseguitati da spiriti inquieti che strisciano fuori dalle ombre per reclamare vendetta, i piccoli protagonisti dovranno armarsi del coraggio delle tigri per non soccombere. Una favola nera, lirica e sanguinante, in cui la magia oscura si fonde al crudo realismo: perché in questo mondo i mostri più feroci non sussurrano sotto il letto, ma sparano alla luce del sole. Info 83 min",
-   "plot": "Dove finisce il sangue versato dai cartelli messicani, iniziano gli incubi. Ingurgitata da una città fantasma dopo la brutale sparizione della madre, la piccola Estrella trova rifugio in un branco di bambini randagi, orfani dimenticati da Dio e dagli uomini. Braccati da sicari spietati e perseguitati da spiriti inquieti che strisciano fuori dalle ombre per reclamare vendetta, i piccoli protagonisti dovranno armarsi del coraggio delle tigri per non soccombere. Una favola nera, lirica e sanguinante, in cui la magia oscura si fonde al crudo realismo: perché in questo mondo i mostri più feroci non sussurrano sotto il letto, ma sparano alla luce del sole.",
-   "duration": 83,
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/131157/standard_63bf956f-8216-4572-8a30-7993e8820068.jpg",
-   "fetched_at": "2026-11-24T16:49+01:00",
-   "wd_checked": true
+  "https://www.circuitocinemabologna.it/film/la-storia-della-principessa-splendente-ried-2024": {
+   "cast": "Aki Asakura, Takeo Chii, Atsuko Takahata, Tomoko Tabata, Shinosuke Tatekawa, Hikaru Ijūin, Ryudo Uzaki, Shichinosuke Nakamura, Isao Hashizume, Yukiji Asaoka, Tamaki Kojo, Yuji Miyake",
+   "country": "Giappone",
+   "duration": 137,
+   "genre": "Animazione",
+   "plot": "Kaguya, minuscola creatura arrivata dalla Luna e trovata in una canna di bambù da un vecchio tagliatore, viene accolta e cresciuta come una figlia dal tagliabambù e sua moglie. La piccola cresce a vista d’occhio, affascinando tutti quelli che entrano in contatto con lei, fino a diventare una splendida giovane donna. Molti sono i suoi pretendenti, ma nessuno è in grado di portarle quello che davvero desidera, e nessuno, nemmeno l’Imperatore, riesce a conquistare il suo cuore…",
+   "trailer": "https://www.youtube.com/watch?v=VWAqnUnN0Xk",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/imUJOrtNf8EWameChpaRLXSaX4w.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/imUJOrtNf8EWameChpaRLXSaX4w.webp"
   },
   "https://www.circuitocinemabologna.it/film/e-andata-cosi": {
    "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi, Alma Giardina, Pier Luigi Pasino, Michelangelo Dalisi, Andréa Furet, Marco Fiore, Emanuele Maria Di Stefano",
