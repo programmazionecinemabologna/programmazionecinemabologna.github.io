@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T01:59+01:00",
+ "generated_at": "2026-11-27T15:59+01:00",
  "sources": {
   "ccb": {
    "ok": true,
-   "count": 176
+   "count": 170
   },
   "cineteca": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "popup": {
    "ok": true,
-   "count": 118
+   "count": 116
   },
   "galliera": {
    "ok": true,
@@ -140,7 +140,7 @@
     "New Hollywood"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/12568",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/manhattan/?repeat=23275",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2021/10/Manhattan_16-scaled.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/manhattan"
@@ -157,23 +157,10 @@
     "Viva Varda! Rêverie & Cinécriture"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/15462",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/green-rossellini/?repeat=23280",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Isabella_Rossellini_shrimp.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/green-rossellini"
-  },
-  {
-   "cinema": "arlecchino",
-   "sala": null,
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-27T14:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://arlecchino.popupcinema.18tickets.it/film/126603/59579ccb-123e-4b27-8247-c51e9a7670c0#theater-init",
-   "info": "https://arlecchino.popupcinema.18tickets.it/film/126603",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "film": "https://arlecchino.popupcinema.18tickets.it/film/126603"
   },
   {
    "cinema": "lumiere",
@@ -192,19 +179,6 @@
    "film": "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele"
   },
   {
-   "cinema": "medica",
-   "sala": null,
-   "title": "Hexe - Il regno delle streghe",
-   "director": "F. Veerasunthorn, J. Hand",
-   "start": "2026-11-27T15:00+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://medica.popupcinema.18tickets.it/film/133665/90d65b89-3fda-4af4-bb13-8f93a849293c#theater-init",
-   "info": "https://medica.popupcinema.18tickets.it/film/133665",
-   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
-   "film": "https://medica.popupcinema.18tickets.it/film/133665"
-  },
-  {
    "cinema": "jolly",
    "sala": null,
    "title": "La notte delle fragole",
@@ -216,84 +190,6 @@
    "info": "https://jolly.popupcinema.18tickets.it/film/133434",
    "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
    "film": "https://jolly.popupcinema.18tickets.it/film/133434"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala D",
-   "title": "Il fuoco che ti porti dentro",
-   "director": "Edoardo De Angelis",
-   "start": "2026-11-27T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-fuoco-che-ti-porti-dentro_2026/868592#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
-   "film": "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala C",
-   "title": "Il rumore delle cose nuove",
-   "director": "Paolo Genovese",
-   "start": "2026-11-27T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/il-rumore-delle-cose-nuove_2026-5bdc9f40-d5b1-4ba3-b223-f33ddc8cd834/868649#sala",
-   "info": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "film": "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala A",
-   "title": "Se domani non torno",
-   "director": "Paola Randi",
-   "start": "2026-11-27T15:15+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/se-domani-non-torno_2026-b194ecd7-5f05-43ec-b158-8ab8f3431333/868444#sala",
-   "info": "https://www.circuitocinemabologna.it/film/se-domani-non-torno/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "film": "https://www.circuitocinemabologna.it/film/se-domani-non-torno"
-  },
-  {
-   "cinema": "rialto",
-   "sala": "Sala 2",
-   "title": "Look Back",
-   "director": "Hirokazu Kore Eda",
-   "start": "2026-11-27T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://rialto.ccb.18tickets.it/film/look-back_2026/868332#sala",
-   "info": "https://www.circuitocinemabologna.it/film/look-back/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "film": "https://www.circuitocinemabologna.it/film/look-back"
-  },
-  {
-   "cinema": "roma",
-   "sala": null,
-   "title": "Fjord",
-   "director": "Cristian Mungiu",
-   "start": "2026-11-27T15:30+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://roma.ccb.18tickets.it/film/fjord-v-o-_2026-1e91106d-9a98-450b-bee6-b07015dd6b75/868316#sala",
-   "info": "https://www.circuitocinemabologna.it/film/fjord-2/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "film": "https://www.circuitocinemabologna.it/film/fjord-2"
-  },
-  {
-   "cinema": "odeon",
-   "sala": "Sala B",
-   "title": "Storie parallele",
-   "director": "Asghar Farhadi",
-   "start": "2026-11-27T15:45+01:00",
-   "vos": false,
-   "tags": [],
-   "buy": "https://odeon.ccb.18tickets.it/film/storie-parallele-histoires-paralleles-_2026/868619#sala",
-   "info": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles/",
-   "image": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp",
-   "film": "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles"
   },
   {
    "cinema": "europa",
@@ -1831,7 +1727,7 @@
    "start": "2026-11-29T10:30+01:00",
    "vos": true,
    "tags": [
-    "Prima visione",
+    "Evento speciale",
     "Cinema del presente | Domenica Matinée",
     "Introduce Gian Luca Farinelli"
    ],
@@ -4695,7 +4591,7 @@
    "ita": false,
    "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/alessandro-bergonzoni-2/?repeat=23683",
-   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/Bergonzoni-foto-C-Riccardo-Negerelli-1.jpeg",
+   "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/11/Bergonzoni-foto-C-Riccardo-Negerelli-1-e1795787097392.jpeg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/alessandro-bergonzoni-2"
   },
   {
@@ -6303,18 +6199,6 @@
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/Isabella_Rossellini_shrimp-1024x630.jpg",
    "fetched_at": "2026-11-25T02:25+01:00"
   },
-  "https://arlecchino.popupcinema.18tickets.it/film/126603": {
-   "year": 2026,
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
-   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
-   "genre": "Dramma",
-   "duration": 106,
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
-   "fetched_at": "2026-11-24T16:49+01:00",
-   "wd_checked": true,
-   "country": "Italia"
-  },
   "https://cinetecadibologna.it/programmazione/proiezione/storie-parallele": {
    "country": "Francia, Belgio, Italia",
    "year": 2026,
@@ -6324,18 +6208,6 @@
    "trailer": "https://www.youtube.com/watch?v=uOC5yhEYNCE",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/11/Storie-parallele-1200x630.jpg",
    "fetched_at": "2026-11-26T01:59+01:00"
-  },
-  "https://medica.popupcinema.18tickets.it/film/133665": {
-   "year": 2026,
-   "cast": "Hailee Steinfeld, Rashida Jones, Jodie Foster, Walton Goggins, Tracey Ullman, Stephen Fry, Henry Winkler, Dan Stevens, Brett ... Trama Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe. Info 93 min",
-   "plot": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
-   "genre": "Animazione, Avventura, Famiglia, Fantasy",
-   "duration": 93,
-   "trailer": "https://www.youtube.com/watch?v=3yTZi6aXTDo",
-   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
-   "fetched_at": "2026-11-24T16:49+01:00",
-   "wd_checked": true,
-   "country": "Stati Uniti"
   },
   "https://jolly.popupcinema.18tickets.it/film/133434": {
    "year": 2026,
@@ -6347,72 +6219,6 @@
    "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133434/standard_f7b23267-33b3-4512-bc36-319e7b28d69b.jpg",
    "fetched_at": "2026-11-24T16:49+01:00",
    "wd_checked": true
-  },
-  "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
-   "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
-   "country": "Italia",
-   "duration": 94,
-   "genre": "Drammatico",
-   "plot": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo. E’ scappato dalla sua città, ma anche da sua madre Angela, unadonna esagerata nel bene e nel male – irresistibile, qualunquista, conservatrice e ostile come poche - che lo ha raggiunto per Natale e sembra decisa a restare con lui. La cena della Vigilia diventa, così, un campo di battaglia emotivo, comico e feroce al tempo stesso, che fa riemergere un passato di sopraffazioni e incomprensioni. Un corpo a corpo sentimentale tra madre e figlio ma anche con un tenace cappone, che non vuole saperne di finire in pentola; con l’attesa di una figlia che non si sa se mai arriverà e un ospite tanto illustre quanto inaspettato. Una resa dei conti tra madre e figlio, destinata a cambiare per sempre il senso del loro legame. Un amore che brucia come un fuoco inesauribile e che nessuna separazione potrà mai spegnere.",
-   "trailer": "https://www.youtube.com/watch?v=wkL5lY_Jm0Y",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
-   "fetched_at": "2026-11-25T02:25+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg"
-  },
-  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
-   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
-   "country": "Italia",
-   "duration": 113,
-   "genre": "Drammatico",
-   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
-   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
-   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
-   "country": "Italia",
-   "duration": 106,
-   "genre": "Drammatico",
-   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
-   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/look-back": {
-   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
-   "country": "Giappone",
-   "duration": 100,
-   "genre": "Drammatico",
-   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
-   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
-   "fetched_at": "2026-11-22T21:43+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/fjord-2": {
-   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
-   "country": "Romania",
-   "duration": 146,
-   "genre": "Drammatico",
-   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
-   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
-   "fetched_at": "2026-11-25T02:25+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
-  },
-  "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles": {
-   "cast": "Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney, Adam Bessa, Catherine Deneuve, India Hair, Véronique Ruggia Saura, Iris Bry, François Delaive, Julie Fournier, Ismaël Sy Savané",
-   "country": "Francia",
-   "duration": 139,
-   "genre": "Thriller",
-   "plot": "In cerca di ispirazione per il suo nuovo romanzo, Sylvie spia i vicini che abitano dall’altra parte della strada. Quando assume il giovane Adam per aiutarla nelle attività quotidiane, non immagina che sconvolgerà la sua vita e il suo lavoro, fino a quando la finzione da lei immaginata finirà per superare la realtà di tutti loro.",
-   "trailer": "https://www.youtube.com/watch?v=iSvWJaFBFIM",
-   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp",
-   "fetched_at": "2026-11-25T02:25+01:00",
-   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp"
   },
   "https://www.circuitocinemabologna.it/film/e-andata-cosi-2": {
    "cast": "Michele Riondino, Valerio Mastandrea, Valentina Lodovini, Leonardo Lidi, Alma Giardina, Pier Luigi Pasino, Michelangelo Dalisi, Andréa Furet, Marco Fiore, Emanuele Maria Di Stefano",
@@ -6475,6 +6281,18 @@
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/11/Facebook-banner_Lessere-amato_.jpg",
    "fetched_at": "2026-11-22T21:43+01:00"
   },
+  "https://arlecchino.popupcinema.18tickets.it/film/126603": {
+   "year": 2026,
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva Trama Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco. Info 106 min",
+   "plot": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+   "genre": "Dramma",
+   "duration": 106,
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/126603/standard_cddc1353-e207-45a7-8974-351047ab780f.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true,
+   "country": "Italia"
+  },
   "https://www.circuitocinemabologna.it/film/lestranea": {
    "cast": "Jasmine Trinca, Romana Maggiora Vergano, Adriano Giannini, Valeria Bruni Tedeschi, Andrea Genovese, Marina Limosani, Gabriella Telegrafo, Mariandrea Cesari, Alessandro Carbonara, Raffaele Braia",
    "country": "Italia",
@@ -6485,6 +6303,51 @@
    "still": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg",
    "fetched_at": "2026-11-22T21:43+01:00",
    "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/foto-l-estranea-2-low.jpg"
+  },
+  "https://medica.popupcinema.18tickets.it/film/133665": {
+   "year": 2026,
+   "cast": "Hailee Steinfeld, Rashida Jones, Jodie Foster, Walton Goggins, Tracey Ullman, Stephen Fry, Henry Winkler, Dan Stevens, Brett ... Trama Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe. Info 93 min",
+   "plot": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
+   "genre": "Animazione, Avventura, Famiglia, Fantasy",
+   "duration": 93,
+   "trailer": "https://www.youtube.com/watch?v=3yTZi6aXTDo",
+   "poster": "https://cdn.18tickets.net/ccb/uploads/film/playbill/133665/standard_5c98baee-0d7a-4ea3-9025-6071aa0e71de.jpg",
+   "fetched_at": "2026-11-24T16:49+01:00",
+   "wd_checked": true,
+   "country": "Stati Uniti"
+  },
+  "https://www.circuitocinemabologna.it/film/se-domani-non-torno": {
+   "cast": "Sabrina Martina, Filippo Timi, Tecla Bossi, Tommaso Allione, Massimo Scola, Carmen Lorenzo, Marianna Caporali, Filippo Sottoriva",
+   "country": "Italia",
+   "duration": 106,
+   "genre": "Drammatico",
+   "plot": "Una famiglia come tante, che potrebbe essere la nostra. Gino Cecchettin e i suoi figli: il più piccolo Davide al liceo, la grande Elena che è all’estero a studiare e Giulia che sta per laurearsi. Ma l’11 novembre 2023 Giulia scompare e niente è più come prima. Inizia un incubo che non credevano potesse accadere a loro. Questa è la storia di un’assenza gigantesca e di come una famiglia come tante trova la forza di trasformare un inimmaginabile dolore privato in un grido collettivo d’impegno per il cambiamento. Perché storie come questa non debbano più essere raccontate.",
+   "trailer": "https://www.youtube.com/watch?v=M4T73uO9VxQ",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/EK_06735-scaled-1.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/il-fuoco-che-ti-porti-dentro": {
+   "cast": "Vanessa Scalera, Lino Musella, Elena Radonicich, Ivana Lotito, Tommaso Ragno, Nicole Malaj, Samuele Mazza, Toni Laudadio",
+   "country": "Italia",
+   "duration": 94,
+   "genre": "Drammatico",
+   "plot": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo. E’ scappato dalla sua città, ma anche da sua madre Angela, unadonna esagerata nel bene e nel male – irresistibile, qualunquista, conservatrice e ostile come poche - che lo ha raggiunto per Natale e sembra decisa a restare con lui. La cena della Vigilia diventa, così, un campo di battaglia emotivo, comico e feroce al tempo stesso, che fa riemergere un passato di sopraffazioni e incomprensioni. Un corpo a corpo sentimentale tra madre e figlio ma anche con un tenace cappone, che non vuole saperne di finire in pentola; con l’attesa di una figlia che non si sa se mai arriverà e un ospite tanto illustre quanto inaspettato. Una resa dei conti tra madre e figlio, destinata a cambiare per sempre il senso del loro legame. Un amore che brucia come un fuoco inesauribile e che nessuna separazione potrà mai spegnere.",
+   "trailer": "https://www.youtube.com/watch?v=wkL5lY_Jm0Y",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg",
+   "fetched_at": "2026-11-25T02:25+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/Il-fuoco-che-ti-porti-dentro-e1794491176252.jpg"
+  },
+  "https://www.circuitocinemabologna.it/film/look-back": {
+   "cast": "Natsuki Deguchi, Aju Makita, Fuuri Nanase, Rokka Okada, Masaki Suda",
+   "country": "Giappone",
+   "duration": 100,
+   "genre": "Drammatico",
+   "plot": "Fujino è un'adolescente talentuosa e determinata. Kyomoto è riservata e solitaria. Dal loro incontro, nato dalla passione per il disegno, inizia un percorso lungo tredici anni per realizzare il sogno di diventare due autrici manga.",
+   "trailer": "https://www.youtube.com/watch?v=Bj60-T7VKJU",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/lwZIBzpSU7yEc8d60CdsLtLx4JF.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/wild-horse-nine": {
    "country": "GB, USA",
@@ -6500,6 +6363,28 @@
    "plot": "Nel suo nuovo romanzo (La nave di Teseo, 2026) Franceschini tratteggia l’affresco di un’Italia che ci ricorda chi siamo e da dove veniamo. La storia si dispiega nel secondo dopoguerra: le drammatiche vendette politiche post-Liberazione, la campagna elettorale del ’48, l’attentato a Togliatti e poi Bartali, la Spal, Maria Callas, l’alluvione del Polesine e gli angeli del fango di Firenze. Una madre e una figlia in Lambretta ad attraversare i cambiamenti degli anni Cinquanta, incontrando pregiudizi e ingiustizie. In collaborazione con Librerie.Coop. Dialogo con Pier Ferdinando Casini",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/dario-franceschini-1200x630.jpg",
    "fetched_at": "2026-11-25T02:25+01:00"
+  },
+  "https://www.circuitocinemabologna.it/film/fjord-2": {
+   "cast": "Sebastian Stan, Renate Reinsve, Lisa Carlehed, Ellen Dorrit Petersen, Lisa Loven Kongsli, Henrikke Lund Olsen, Markus Tønseth, Vanessa Ceban, Jonathan Ciprian Breazu, Christian Rubeck",
+   "country": "Romania",
+   "duration": 146,
+   "genre": "Drammatico",
+   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l'adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l'educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere a che fare con la cosa.",
+   "trailer": "https://www.youtube.com/watch?v=4L8XzvLxyuY",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp",
+   "fetched_at": "2026-11-25T02:25+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/1RCZdSxyx3Ho8V6KtcAr0fLwa4d.webp"
+  },
+  "https://www.circuitocinemabologna.it/film/storie-parallele-histoires-paralleles": {
+   "cast": "Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney, Adam Bessa, Catherine Deneuve, India Hair, Véronique Ruggia Saura, Iris Bry, François Delaive, Julie Fournier, Ismaël Sy Savané",
+   "country": "Francia",
+   "duration": 139,
+   "genre": "Thriller",
+   "plot": "In cerca di ispirazione per il suo nuovo romanzo, Sylvie spia i vicini che abitano dall’altra parte della strada. Quando assume il giovane Adam per aiutarla nelle attività quotidiane, non immagina che sconvolgerà la sua vita e il suo lavoro, fino a quando la finzione da lei immaginata finirà per superare la realtà di tutti loro.",
+   "trailer": "https://www.youtube.com/watch?v=iSvWJaFBFIM",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp",
+   "fetched_at": "2026-11-25T02:25+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/iLGbLmi6aE97U7ma50CnH4aGWfj.webp"
   },
   "https://bristol.popupcinema.18tickets.it/film/123765": {
    "year": 2026,
@@ -6544,6 +6429,17 @@
    "trailer": "https://www.youtube.com/watch?v=HROwYhJGgpw",
    "still": "https://www.cinemateatrogalliera.it/wp-content/uploads/2026/11/REEL-NEW-12.11.jpg",
    "fetched_at": "2026-11-24T16:49+01:00"
+  },
+  "https://www.circuitocinemabologna.it/film/il-rumore-delle-cose-nuove-2": {
+   "cast": "Edoardo Pesce, Stefano Accorsi, Emanuela Fanelli, Lino Musella, Claudia Pandolfi, Claudio Santamaria, Vittoria Puccini, Rolando Ravello",
+   "country": "Italia",
+   "duration": 113,
+   "genre": "Drammatico",
+   "plot": "Tre coppie diverse e sconosciute tra di loro hanno in comune la gabbia che si sono costruite nella vita - per paura di trovare chissà cosa là fuori - e un reticolato fitto che ha relegato i loro sentimenti in un perimetro tranquillo e rassicurante. Fino a quando un evento inatteso non le coinvolgerà tutte, costringendole a riordinare cuore e anima, a rivedere la loro esistenza e a gettare tutto ciò che forse è di troppo.",
+   "trailer": "https://www.youtube.com/watch?v=KKWO4jLB24U",
+   "still": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp",
+   "fetched_at": "2026-11-22T21:43+01:00",
+   "poster": "https://www.circuitocinemabologna.it/wp-content/uploads/ltkrt9Urr2xbBnxOEYHjPtbzBLu-e1794849394716.webp"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/la-provinciale": {
    "country": "Italia",
