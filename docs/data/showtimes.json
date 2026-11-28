@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T01:31+01:00",
+ "generated_at": "2026-11-28T15:07+01:00",
  "sources": {
   "ccb": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "popup": {
    "ok": true,
-   "count": 105
+   "count": 106
   },
   "galliera": {
    "ok": true,
@@ -141,7 +141,7 @@
     "New Hollywood"
    ],
    "ita": false,
-   "buy": "https://modernissimo.cinetecabologna.18tickets.it/film/102183",
+   "buy": null,
    "info": "https://cinetecadibologna.it/programmazione/proiezione/america-inquieta-minnie-e-moskowitz-e-la-nuova-hollywood-degli-outsider/?repeat=23284",
    "image": "https://cinetecadibologna.it/programmazione/wp-content/uploads/sites/2/2026/10/large_big_minnie_et_moskowitz_1200x675_2.jpg",
    "film": "https://cinetecadibologna.it/programmazione/proiezione/america-inquieta-minnie-e-moskowitz-e-la-nuova-hollywood-degli-outsider"
@@ -1017,6 +1017,21 @@
    "info": "https://www.circuitocinemabologna.it/film/chao/",
    "image": "https://www.circuitocinemabologna.it/wp-content/uploads/tsItQhylPPcoD5qtEHfsG5Pm4mH.webp",
    "film": "https://www.circuitocinemabologna.it/film/chao"
+  },
+  {
+   "cinema": "arlecchino",
+   "sala": null,
+   "title": "You can see everything",
+   "director": "Nathan Fielder, Lance Oppenheim",
+   "start": "2026-11-29T11:00+01:00",
+   "vos": true,
+   "tags": [
+    "Eventospeciale"
+   ],
+   "buy": "https://arlecchino.popupcinema.18tickets.it/film/124326/5e6c7c9b-8cf7-4e13-8921-50bfc6eb9472#theater-init",
+   "info": "https://arlecchino.popupcinema.18tickets.it/film/124326",
+   "image": "https://cdn.18tickets.net/ccb/uploads/film/playbill/124326/standard_f364dca4-462a-480e-9acb-69fa41858838.jpg",
+   "film": "https://arlecchino.popupcinema.18tickets.it/film/124326"
   },
   {
    "cinema": "lumiere",
@@ -6004,7 +6019,7 @@
    "duration": 113,
    "plot": "Storia&Storie #11 – L’Italia di provincia Anni Sessanta, paesaggio estivo che scende verso l’Adriatico, perfetto nitore sentimentale, ferree leggi di classe. “L’impossibile amore tra un adolescente (Jacques Perrin) e una ragazza perduta (Claudia Cardinale): situazioni, suoni, musiche del miracolo economico sono i rivelatori della violenza e della crudeltà del mondo in cui la giovane donna è destinata ad andare alla deriva” (Antonio Costa). Zurlini trova qui la misura aurea della propria poetica. (pcris) In occasione dell’11a edizione delle Giornate di studi di Storia&Storie , promosse dall’AIRSC per valorizzare la ricerca e la storiografia cinematografica e organizzate dalla Cineteca di Bologna dal 30 novembre al 1° dicembre 2026.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2023/06/LA-RAGAZZA-CON-LA-VALIGIA-ant.jpeg",
-   "fetched_at": "2026-11-21T04:56+01:00"
+   "fetched_at": "2026-11-28T15:08+01:00"
   },
   "https://cinetecadibologna.it/programmazione/proiezione/ma-lamor-mio-non-muore": {
    "country": "Italia",
@@ -6012,7 +6027,7 @@
    "duration": 80,
    "plot": "Un melodramma d’amore, tradimento e morte, un tuffo delizioso nell’immaginario, nella cultura, nella moda liberty. “Senza dubbio una delle opere più rappresentative del muto italiano, che inaugura l’epoca d’oro del diva-film, sola stagione (prima del neorealismo) in cui il cinema italiano abbia saputo imporre una poetica e uno stile sui mercati internazionali” (Vittorio Martinelli). Di tutte le dive Lyda Borelli, star del teatro qui al suo esordio davanti alla cinepresa, è la più languida e seduttiva, la più iconica ed elegante, la più pittorica e internazionale, tra D’Annunzio, Oscar Wilde e i preraffaelliti. Accompagnamento dell’ Ensemble della Filarmonica del Teatro Comunale di Modena con la voce solista di Anna Trotta (mezzosoprano), diretti da Daniele Furlati , autore della partitura musicale.",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/02/01-foto-Ma-l_amor-mio-non-muore-CR-2013-1-Lyda-Borelli-1200x630.jpg",
-   "fetched_at": "2026-11-21T04:56+01:00"
+   "fetched_at": "2026-11-28T15:08+01:00"
   },
   "https://www.cinemateatrogalliera.it/la-pantera-delle-nevi": {
    "genre": "Documentario",
@@ -6052,7 +6067,7 @@
    "duration": 168,
    "plot": "L’italiano Tony Camonte di Hawks diventa il cubano Tony Montana di De Palma, la parabola rovinosa d’un boss scioglie e riallaccia il nodo etnico. Nuovo cinema americano che guarda al passato con passione manipolatoria. La Chicago espressionista è qui una Florida sgargiante d’allucinazione; la cocaina dà al film il suo ritmo, la forma e la poesia. Al Pacino siede su un trono tragico e miserabile ( Riccardo III pensato senza ancora saperlo?); Michelle Pfeiffer attraversa il film come incarnazione letterale della polvere bianca, nuda più che se fosse nuda in quegli abiti chiari e scintillanti. (pcris)",
    "still": "https://cinetecadibologna.it/programmazione/wp-content/uploads/2026/10/Scarface-recensione-film-Brian-De-Palma.jpg-1200x630.webp",
-   "fetched_at": "2026-11-21T04:56+01:00"
+   "fetched_at": "2026-11-28T15:08+01:00"
   },
   "https://www.circuitocinemabologna.it/film/the-glorious-dead": {
    "cast": "Zelda Adams, Toby Poser, Judith Roberts, John Adams, Lulu Adams, Sofia Macaluso, Mia Macalouso, Nikki Macaluso, Heath Macaluso, London May",
